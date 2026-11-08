@@ -1,0 +1,291 @@
+{
+  "expected_final_fits": 4,
+  "recorded_final_fits": 4,
+  "successful_final_fits": 4,
+  "failed_final_fits": 0,
+  "direct_estimates": [
+    {
+      "method": "Anchor-C",
+      "noise_std": 0.0005,
+      "data_seed": 930101,
+      "estimated_delay": 0.267,
+      "absolute_delay_error": 0.013000000000000012
+    }
+  ],
+  "dataset_medians": [
+    {
+      "method": "External-C",
+      "noise_std": 0.0005,
+      "data_seed": 930101,
+      "absolute_delay_error": 0.045231611728668186,
+      "h0.00625_test_clean_mse": 0.04058674300478515
+    },
+    {
+      "method": "External-C+anchors",
+      "noise_std": 0.0005,
+      "data_seed": 930101,
+      "absolute_delay_error": 0.03701698899269101,
+      "h0.00625_test_clean_mse": 0.04058559815447548
+    },
+    {
+      "method": "Structured-C",
+      "noise_std": 0.0005,
+      "data_seed": 930101,
+      "absolute_delay_error": 0.03765845417976377,
+      "h0.00625_test_clean_mse": 0.17066586097795655
+    },
+    {
+      "method": "Structured-C+anchors",
+      "noise_std": 0.0005,
+      "data_seed": 930101,
+      "absolute_delay_error": 0.037524522542953465,
+      "h0.00625_test_clean_mse": 0.17065859582456636
+    }
+  ],
+  "method_medians": [
+    {
+      "method": "External-C",
+      "noise_std": 0.0005,
+      "absolute_delay_error": 0.045231611728668186,
+      "h0.00625_test_clean_mse": 0.04058674300478515,
+      "absolute_delay_error_range": [
+        0.045231611728668186,
+        0.045231611728668186
+      ],
+      "h0.00625_test_clean_mse_range": [
+        0.04058674300478515,
+        0.04058674300478515
+      ]
+    },
+    {
+      "method": "External-C+anchors",
+      "noise_std": 0.0005,
+      "absolute_delay_error": 0.03701698899269101,
+      "h0.00625_test_clean_mse": 0.04058559815447548,
+      "absolute_delay_error_range": [
+        0.03701698899269101,
+        0.03701698899269101
+      ],
+      "h0.00625_test_clean_mse_range": [
+        0.04058559815447548,
+        0.04058559815447548
+      ]
+    },
+    {
+      "method": "Structured-C",
+      "noise_std": 0.0005,
+      "absolute_delay_error": 0.03765845417976377,
+      "h0.00625_test_clean_mse": 0.17066586097795655,
+      "absolute_delay_error_range": [
+        0.03765845417976377,
+        0.03765845417976377
+      ],
+      "h0.00625_test_clean_mse_range": [
+        0.17066586097795655,
+        0.17066586097795655
+      ]
+    },
+    {
+      "method": "Structured-C+anchors",
+      "noise_std": 0.0005,
+      "absolute_delay_error": 0.037524522542953465,
+      "h0.00625_test_clean_mse": 0.17065859582456636,
+      "absolute_delay_error_range": [
+        0.037524522542953465,
+        0.037524522542953465
+      ],
+      "h0.00625_test_clean_mse_range": [
+        0.17065859582456636,
+        0.17065859582456636
+      ]
+    }
+  ],
+  "paired_comparisons": [
+    {
+      "numerator_method": "External-C+anchors",
+      "denominator_method": "External-C",
+      "noise_std": 0.0005,
+      "outcome": "absolute_delay_error",
+      "complete": true,
+      "datasets": [
+        {
+          "data_seed": 930101,
+          "numerator": 0.03701698899269101,
+          "denominator": 0.045231611728668186,
+          "ratio": 0.8183875740432509,
+          "difference": -0.008214622735977173
+        }
+      ],
+      "median_ratio": 0.8183875740432509,
+      "ratio_range": [
+        0.8183875740432509,
+        0.8183875740432509
+      ],
+      "median_difference": -0.008214622735977173,
+      "dataset_wins": 1
+    },
+    {
+      "numerator_method": "External-C+anchors",
+      "denominator_method": "External-C",
+      "noise_std": 0.0005,
+      "outcome": "h0.00625_test_clean_mse",
+      "complete": true,
+      "datasets": [
+        {
+          "data_seed": 930101,
+          "numerator": 0.04058559815447548,
+          "denominator": 0.04058674300478515,
+          "ratio": 0.9999717925060029,
+          "difference": -1.1448503096714302e-06
+        }
+      ],
+      "median_ratio": 0.9999717925060029,
+      "ratio_range": [
+        0.9999717925060029,
+        0.9999717925060029
+      ],
+      "median_difference": -1.1448503096714302e-06,
+      "dataset_wins": 1
+    },
+    {
+      "numerator_method": "Structured-C+anchors",
+      "denominator_method": "Structured-C",
+      "noise_std": 0.0005,
+      "outcome": "absolute_delay_error",
+      "complete": true,
+      "datasets": [
+        {
+          "data_seed": 930101,
+          "numerator": 0.037524522542953465,
+          "denominator": 0.03765845417976377,
+          "ratio": 0.9964435174059196,
+          "difference": -0.00013393163681030273
+        }
+      ],
+      "median_ratio": 0.9964435174059196,
+      "ratio_range": [
+        0.9964435174059196,
+        0.9964435174059196
+      ],
+      "median_difference": -0.00013393163681030273,
+      "dataset_wins": 1
+    },
+    {
+      "numerator_method": "Structured-C+anchors",
+      "denominator_method": "Structured-C",
+      "noise_std": 0.0005,
+      "outcome": "h0.00625_test_clean_mse",
+      "complete": true,
+      "datasets": [
+        {
+          "data_seed": 930101,
+          "numerator": 0.17065859582456636,
+          "denominator": 0.17066586097795655,
+          "ratio": 0.999957430540891,
+          "difference": -7.265153390195733e-06
+        }
+      ],
+      "median_ratio": 0.999957430540891,
+      "ratio_range": [
+        0.999957430540891,
+        0.999957430540891
+      ],
+      "median_difference": -7.265153390195733e-06,
+      "dataset_wins": 1
+    },
+    {
+      "numerator_method": "Structured-C",
+      "denominator_method": "External-C",
+      "noise_std": 0.0005,
+      "outcome": "absolute_delay_error",
+      "complete": true,
+      "datasets": [
+        {
+          "data_seed": 930101,
+          "numerator": 0.03765845417976377,
+          "denominator": 0.045231611728668186,
+          "ratio": 0.8325693633396555,
+          "difference": -0.007573157548904419
+        }
+      ],
+      "median_ratio": 0.8325693633396555,
+      "ratio_range": [
+        0.8325693633396555,
+        0.8325693633396555
+      ],
+      "median_difference": -0.007573157548904419,
+      "dataset_wins": 1
+    },
+    {
+      "numerator_method": "Structured-C",
+      "denominator_method": "External-C",
+      "noise_std": 0.0005,
+      "outcome": "h0.00625_test_clean_mse",
+      "complete": true,
+      "datasets": [
+        {
+          "data_seed": 930101,
+          "numerator": 0.17066586097795655,
+          "denominator": 0.04058674300478515,
+          "ratio": 4.204965669648218,
+          "difference": 0.1300791179731714
+        }
+      ],
+      "median_ratio": 4.204965669648218,
+      "ratio_range": [
+        4.204965669648218,
+        4.204965669648218
+      ],
+      "median_difference": 0.1300791179731714,
+      "dataset_wins": 0
+    },
+    {
+      "numerator_method": "Structured-C+anchors",
+      "denominator_method": "External-C+anchors",
+      "noise_std": 0.0005,
+      "outcome": "absolute_delay_error",
+      "complete": true,
+      "datasets": [
+        {
+          "data_seed": 930101,
+          "numerator": 0.037524522542953465,
+          "denominator": 0.03701698899269101,
+          "ratio": 1.0137108274895796,
+          "difference": 0.0005075335502624512
+        }
+      ],
+      "median_ratio": 1.0137108274895796,
+      "ratio_range": [
+        1.0137108274895796,
+        1.0137108274895796
+      ],
+      "median_difference": 0.0005075335502624512,
+      "dataset_wins": 0
+    },
+    {
+      "numerator_method": "Structured-C+anchors",
+      "denominator_method": "External-C+anchors",
+      "noise_std": 0.0005,
+      "outcome": "h0.00625_test_clean_mse",
+      "complete": true,
+      "datasets": [
+        {
+          "data_seed": 930101,
+          "numerator": 0.17065859582456636,
+          "denominator": 0.04058559815447548,
+          "ratio": 4.204905276374432,
+          "difference": 0.13007299767009087
+        }
+      ],
+      "median_ratio": 4.204905276374432,
+      "ratio_range": [
+        4.204905276374432,
+        4.204905276374432
+      ],
+      "median_difference": 0.13007299767009087,
+      "dataset_wins": 0
+    }
+  ],
+  "independent_base_noise_datasets": 1,
+  "interpretation": "Descriptive paired results. Optimizer repeats and noise levels are not independent datasets; no significance claim."
+}

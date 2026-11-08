@@ -1,0 +1,35 @@
+Obtaining file:///workspace/scratch/4f451e93d144/work/external_torchdde
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Checking if build backend supports build_editable: started
+  Checking if build backend supports build_editable: finished with status 'done'
+  Getting requirements to build editable: started
+  Getting requirements to build editable: finished with status 'done'
+  Installing backend dependencies: started
+  Installing backend dependencies: finished with status 'done'
+  Preparing editable metadata (pyproject.toml): started
+  Preparing editable metadata (pyproject.toml): finished with status 'done'
+Collecting jaxtyping==0.3.11
+  Downloading jaxtyping-0.3.11-py3-none-any.whl.metadata (6.2 kB)
+Collecting wadler-lindig>=0.1.3 (from jaxtyping==0.3.11)
+  Downloading wadler_lindig-0.1.7-py3-none-any.whl.metadata (17 kB)
+Requirement already satisfied: torch in ./work/asoc_ndde_env/lib/python3.12/site-packages (from torchdde==0.2.0) (2.10.0+cpu)
+Requirement already satisfied: typing-extensions>=4.5.0 in /opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages (from torchdde==0.2.0) (4.16.0)
+Requirement already satisfied: filelock in ./work/asoc_ndde_env/lib/python3.12/site-packages (from torch->torchdde==0.2.0) (3.32.3)
+Requirement already satisfied: setuptools in /opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages (from torch->torchdde==0.2.0) (84.0.0)
+Requirement already satisfied: sympy>=1.13.3 in ./work/asoc_ndde_env/lib/python3.12/site-packages (from torch->torchdde==0.2.0) (1.14.0)
+Requirement already satisfied: networkx>=2.5.1 in ./work/asoc_ndde_env/lib/python3.12/site-packages (from torch->torchdde==0.2.0) (3.6.1)
+Requirement already satisfied: jinja2 in ./work/asoc_ndde_env/lib/python3.12/site-packages (from torch->torchdde==0.2.0) (3.1.6)
+Requirement already satisfied: fsspec>=0.8.5 in ./work/asoc_ndde_env/lib/python3.12/site-packages (from torch->torchdde==0.2.0) (2026.7.0)
+Requirement already satisfied: mpmath<1.4,>=1.1.0 in ./work/asoc_ndde_env/lib/python3.12/site-packages (from sympy>=1.13.3->torch->torchdde==0.2.0) (1.3.0)
+Requirement already satisfied: MarkupSafe>=2.0 in ./work/asoc_ndde_env/lib/python3.12/site-packages (from jinja2->torch->torchdde==0.2.0) (3.0.3)
+Downloading jaxtyping-0.3.11-py3-none-any.whl (56 kB)
+Downloading wadler_lindig-0.1.7-py3-none-any.whl (20 kB)
+Building wheels for collected packages: torchdde
+  Building editable for torchdde (pyproject.toml): started
+  Building editable for torchdde (pyproject.toml): finished with status 'done'
+  Created wheel for torchdde: filename=torchdde-0.2.0-py3-none-any.whl size=9831 sha256=5fafaae5bedff841e0dcb63cc0b0e109cf13f65a22d5747b90f44d310cbec12e
+  Stored in directory: /tmp/pip-ephem-wheel-cache-tjj9794r/wheels/b5/5c/50/2388a93fd366c445539bee36f916d9ba6558b1e9a6a3aeae05
+Successfully built torchdde
+Installing collected packages: wadler-lindig, jaxtyping, torchdde
+Successfully installed jaxtyping-0.3.11 torchdde-0.2.0 wadler-lindig-0.1.7

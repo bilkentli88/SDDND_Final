@@ -1,0 +1,1472 @@
+[
+  {
+    "run": "P3_data20261020_opt20261101",
+    "study": 1,
+    "old_forecast_mse": 3.6311010995499655e-05,
+    "replay_forecast_mse": 3.631097258073727e-05,
+    "relative_difference": 1.0579370095235203e-06
+  },
+  {
+    "run": "P4_data20261020_opt20261101",
+    "study": 1,
+    "old_forecast_mse": 0.00013106704297949497,
+    "replay_forecast_mse": 0.00013106704449677582,
+    "relative_difference": 1.157637201539236e-08
+  },
+  {
+    "run": "P3_data20261020_opt20261102",
+    "study": 1,
+    "old_forecast_mse": 8.724733789671193e-05,
+    "replay_forecast_mse": 8.724733930489423e-05,
+    "relative_difference": 1.6140117671181776e-08
+  },
+  {
+    "run": "P4_data20261020_opt20261102",
+    "study": 1,
+    "old_forecast_mse": 0.00011475411593911521,
+    "replay_forecast_mse": 0.00011475413478795763,
+    "relative_difference": 1.642541730904784e-07
+  },
+  {
+    "run": "P3_data20261020_opt20261103",
+    "study": 1,
+    "old_forecast_mse": 1.655277018336085e-05,
+    "replay_forecast_mse": 1.6552800838515633e-05,
+    "relative_difference": 1.8519652265397009e-06
+  },
+  {
+    "run": "P4_data20261020_opt20261103",
+    "study": 1,
+    "old_forecast_mse": 3.838510398225724e-05,
+    "replay_forecast_mse": 3.83851640922317e-05,
+    "relative_difference": 1.56597138533026e-06
+  },
+  {
+    "run": "P3_data20261021_opt20261101",
+    "study": 1,
+    "old_forecast_mse": 9.848050528553097e-06,
+    "replay_forecast_mse": 9.848036561836303e-06,
+    "relative_difference": 1.4182214798314712e-06
+  },
+  {
+    "run": "P4_data20261021_opt20261101",
+    "study": 1,
+    "old_forecast_mse": 2.214558693125138e-05,
+    "replay_forecast_mse": 2.2145584440226177e-05,
+    "relative_difference": 1.1248404521085877e-07
+  },
+  {
+    "run": "P3_data20261021_opt20261102",
+    "study": 1,
+    "old_forecast_mse": 7.116712827415924e-05,
+    "replay_forecast_mse": 7.116712454865858e-05,
+    "relative_difference": 5.2348615883382493e-08
+  },
+  {
+    "run": "P4_data20261021_opt20261102",
+    "study": 1,
+    "old_forecast_mse": 7.453612479088075e-05,
+    "replay_forecast_mse": 7.453612530373212e-05,
+    "relative_difference": 6.880574661643353e-09
+  },
+  {
+    "run": "P3_data20261021_opt20261103",
+    "study": 1,
+    "old_forecast_mse": 2.1133117955161527e-05,
+    "replay_forecast_mse": 2.113312785706352e-05,
+    "relative_difference": 4.6854903358878127e-07
+  },
+  {
+    "run": "P4_data20261021_opt20261103",
+    "study": 1,
+    "old_forecast_mse": 7.822918417570934e-05,
+    "replay_forecast_mse": 7.822917804807594e-05,
+    "relative_difference": 7.832925088953091e-08
+  },
+  {
+    "run": "P3_data20261022_opt20261101",
+    "study": 1,
+    "old_forecast_mse": 2.2654263204482754e-06,
+    "replay_forecast_mse": 2.2654256550414038e-06,
+    "relative_difference": 2.937225835207626e-07
+  },
+  {
+    "run": "P4_data20261022_opt20261101",
+    "study": 1,
+    "old_forecast_mse": 2.3441524448724785e-06,
+    "replay_forecast_mse": 2.344151270587898e-06,
+    "relative_difference": 5.009420709835873e-07
+  },
+  {
+    "run": "P3_data20261022_opt20261102",
+    "study": 1,
+    "old_forecast_mse": 0.00011648945875744948,
+    "replay_forecast_mse": 0.0001164894633852216,
+    "relative_difference": 3.972696035894028e-08
+  },
+  {
+    "run": "P4_data20261022_opt20261102",
+    "study": 1,
+    "old_forecast_mse": 0.00012601414211557625,
+    "replay_forecast_mse": 0.00012601414446879763,
+    "relative_difference": 1.8674264158124902e-08
+  },
+  {
+    "run": "P3_data20261022_opt20261103",
+    "study": 1,
+    "old_forecast_mse": 1.945716425625059e-05,
+    "replay_forecast_mse": 1.945715929062216e-05,
+    "relative_difference": 2.55208228935978e-07
+  },
+  {
+    "run": "P4_data20261022_opt20261103",
+    "study": 1,
+    "old_forecast_mse": 6.405826429203121e-05,
+    "replay_forecast_mse": 6.405826439895983e-05,
+    "relative_difference": 1.6692399292893137e-09
+  },
+  {
+    "run": "P3_data20261023_opt20261101",
+    "study": 1,
+    "old_forecast_mse": 1.0968801147302674e-05,
+    "replay_forecast_mse": 1.0968782534372029e-05,
+    "relative_difference": 1.6968974452754474e-06
+  },
+  {
+    "run": "P4_data20261023_opt20261101",
+    "study": 1,
+    "old_forecast_mse": 2.831359135796958e-05,
+    "replay_forecast_mse": 2.8313583782509497e-05,
+    "relative_difference": 2.67555605585944e-07
+  },
+  {
+    "run": "P3_data20261023_opt20261102",
+    "study": 1,
+    "old_forecast_mse": 1.0584363511239351e-05,
+    "replay_forecast_mse": 1.058441151697102e-05,
+    "relative_difference": 4.5355331586373265e-06
+  },
+  {
+    "run": "P4_data20261023_opt20261102",
+    "study": 1,
+    "old_forecast_mse": 6.330340979008344e-06,
+    "replay_forecast_mse": 6.3303860293658475e-06,
+    "relative_difference": 7.116576761492963e-06
+  },
+  {
+    "run": "P3_data20261023_opt20261103",
+    "study": 1,
+    "old_forecast_mse": 3.6173034192016365e-06,
+    "replay_forecast_mse": 3.617296411647153e-06,
+    "relative_difference": 1.9372315980882624e-06
+  },
+  {
+    "run": "P4_data20261023_opt20261103",
+    "study": 1,
+    "old_forecast_mse": 4.294298047104504e-06,
+    "replay_forecast_mse": 4.294289987649059e-06,
+    "relative_difference": 1.8767806418346956e-06
+  },
+  {
+    "run": "P3_data20261024_opt20261101",
+    "study": 1,
+    "old_forecast_mse": 1.2494727171618695e-05,
+    "replay_forecast_mse": 1.2494729500488946e-05,
+    "relative_difference": 1.8638824353298317e-07
+  },
+  {
+    "run": "P4_data20261024_opt20261101",
+    "study": 1,
+    "old_forecast_mse": 6.706080670249935e-05,
+    "replay_forecast_mse": 6.70608034372885e-05,
+    "relative_difference": 4.8690300880036095e-08
+  },
+  {
+    "run": "P3_data20261024_opt20261102",
+    "study": 1,
+    "old_forecast_mse": 5.862918344296037e-05,
+    "replay_forecast_mse": 5.8629178826822014e-05,
+    "relative_difference": 7.873448145832597e-08
+  },
+  {
+    "run": "P4_data20261024_opt20261102",
+    "study": 1,
+    "old_forecast_mse": 8.333208396601264e-05,
+    "replay_forecast_mse": 8.333206534303473e-05,
+    "relative_difference": 2.2347908547717353e-07
+  },
+  {
+    "run": "P3_data20261024_opt20261103",
+    "study": 1,
+    "old_forecast_mse": 1.2358086720194144e-05,
+    "replay_forecast_mse": 1.2358086954148865e-05,
+    "relative_difference": 1.893130602988449e-08
+  },
+  {
+    "run": "P4_data20261024_opt20261103",
+    "study": 1,
+    "old_forecast_mse": 9.573447381193042e-06,
+    "replay_forecast_mse": 9.57344617937049e-06,
+    "relative_difference": 1.2553707183412767e-07
+  },
+  {
+    "run": "informative_sigma0.0005_data20261201_P3_opt20261211",
+    "study": 2,
+    "old_forecast_mse": 3.5261447333300996e-05,
+    "replay_forecast_mse": 3.5261447333300996e-05,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "informative_sigma0.0005_data20261201_P4_opt20261211",
+    "study": 2,
+    "old_forecast_mse": 3.6853907932945096e-05,
+    "replay_forecast_mse": 3.6853907932945096e-05,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "informative_sigma0.0005_data20261201_P3_opt20261212",
+    "study": 2,
+    "old_forecast_mse": 1.3825326961781782e-05,
+    "replay_forecast_mse": 1.3825326961781782e-05,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "informative_sigma0.0005_data20261201_P4_opt20261212",
+    "study": 2,
+    "old_forecast_mse": 1.8915420710475786e-05,
+    "replay_forecast_mse": 1.8915420710475786e-05,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "informative_sigma0.0005_data20261201_P3_opt20261213",
+    "study": 2,
+    "old_forecast_mse": 7.692269331842254e-05,
+    "replay_forecast_mse": 7.692269331842254e-05,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "informative_sigma0.0005_data20261201_P4_opt20261213",
+    "study": 2,
+    "old_forecast_mse": 8.089393997723252e-05,
+    "replay_forecast_mse": 8.089393997723252e-05,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "informative_sigma0.0005_data20261202_P3_opt20261211",
+    "study": 2,
+    "old_forecast_mse": 0.0001502480395575494,
+    "replay_forecast_mse": 0.0001502480395575494,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "informative_sigma0.0005_data20261202_P4_opt20261211",
+    "study": 2,
+    "old_forecast_mse": 0.00015007762442094012,
+    "replay_forecast_mse": 0.00015007762442094012,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "informative_sigma0.0005_data20261202_P3_opt20261212",
+    "study": 2,
+    "old_forecast_mse": 0.0002691469916180157,
+    "replay_forecast_mse": 0.0002691469916180157,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "informative_sigma0.0005_data20261202_P4_opt20261212",
+    "study": 2,
+    "old_forecast_mse": 0.00026660604020231616,
+    "replay_forecast_mse": 0.00026660604020231616,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "informative_sigma0.0005_data20261202_P3_opt20261213",
+    "study": 2,
+    "old_forecast_mse": 1.3558612329063195e-05,
+    "replay_forecast_mse": 1.3558612329063195e-05,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "informative_sigma0.0005_data20261202_P4_opt20261213",
+    "study": 2,
+    "old_forecast_mse": 1.3993075374130622e-05,
+    "replay_forecast_mse": 1.3993075374130622e-05,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "informative_sigma0.0005_data20261203_P3_opt20261211",
+    "study": 2,
+    "old_forecast_mse": 8.318198175794362e-05,
+    "replay_forecast_mse": 8.318198175794362e-05,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "informative_sigma0.0005_data20261203_P4_opt20261211",
+    "study": 2,
+    "old_forecast_mse": 7.511737654913059e-05,
+    "replay_forecast_mse": 7.511737654913059e-05,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "informative_sigma0.0005_data20261203_P3_opt20261212",
+    "study": 2,
+    "old_forecast_mse": 6.070314057064457e-05,
+    "replay_forecast_mse": 6.070314057064457e-05,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "informative_sigma0.0005_data20261203_P4_opt20261212",
+    "study": 2,
+    "old_forecast_mse": 3.708830778644772e-05,
+    "replay_forecast_mse": 3.708830778644772e-05,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "informative_sigma0.0005_data20261203_P3_opt20261213",
+    "study": 2,
+    "old_forecast_mse": 9.649865801070297e-05,
+    "replay_forecast_mse": 9.649865801070297e-05,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "informative_sigma0.0005_data20261203_P4_opt20261213",
+    "study": 2,
+    "old_forecast_mse": 8.290213704704751e-05,
+    "replay_forecast_mse": 8.290213704704751e-05,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "informative_sigma0.0005_data20261204_P3_opt20261211",
+    "study": 2,
+    "old_forecast_mse": 0.0001143498962788495,
+    "replay_forecast_mse": 0.0001143498962788495,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "informative_sigma0.0005_data20261204_P4_opt20261211",
+    "study": 2,
+    "old_forecast_mse": 9.947694643460432e-05,
+    "replay_forecast_mse": 9.947694643460432e-05,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "informative_sigma0.0005_data20261204_P3_opt20261212",
+    "study": 2,
+    "old_forecast_mse": 0.000223275624992419,
+    "replay_forecast_mse": 0.000223275624992419,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "informative_sigma0.0005_data20261204_P4_opt20261212",
+    "study": 2,
+    "old_forecast_mse": 0.0002119893886255689,
+    "replay_forecast_mse": 0.0002119893886255689,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "informative_sigma0.0005_data20261204_P3_opt20261213",
+    "study": 2,
+    "old_forecast_mse": 0.00011383587933202437,
+    "replay_forecast_mse": 0.00011383587933202437,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "informative_sigma0.0005_data20261204_P4_opt20261213",
+    "study": 2,
+    "old_forecast_mse": 7.898800829985472e-05,
+    "replay_forecast_mse": 7.898800829985472e-05,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "informative_sigma0.0005_data20261205_P3_opt20261211",
+    "study": 2,
+    "old_forecast_mse": 2.699165998994861e-05,
+    "replay_forecast_mse": 2.699165998994861e-05,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "informative_sigma0.0005_data20261205_P4_opt20261211",
+    "study": 2,
+    "old_forecast_mse": 2.250461715140755e-05,
+    "replay_forecast_mse": 2.250461715140755e-05,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "informative_sigma0.0005_data20261205_P3_opt20261212",
+    "study": 2,
+    "old_forecast_mse": 6.776368334533725e-05,
+    "replay_forecast_mse": 6.776368334533725e-05,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "informative_sigma0.0005_data20261205_P4_opt20261212",
+    "study": 2,
+    "old_forecast_mse": 5.7408540427976475e-05,
+    "replay_forecast_mse": 5.7408540427976475e-05,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "informative_sigma0.0005_data20261205_P3_opt20261213",
+    "study": 2,
+    "old_forecast_mse": 1.2708793631112653e-05,
+    "replay_forecast_mse": 1.2708793631112653e-05,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "informative_sigma0.0005_data20261205_P4_opt20261213",
+    "study": 2,
+    "old_forecast_mse": 2.126706420680664e-06,
+    "replay_forecast_mse": 2.126706420680664e-06,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "informative_sigma0.0015_data20261201_P3_opt20261211",
+    "study": 2,
+    "old_forecast_mse": 3.398295493028375e-05,
+    "replay_forecast_mse": 3.398295493028375e-05,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "informative_sigma0.0015_data20261201_P4_opt20261211",
+    "study": 2,
+    "old_forecast_mse": 3.702641814524588e-05,
+    "replay_forecast_mse": 3.702641814524588e-05,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "informative_sigma0.0015_data20261201_P3_opt20261212",
+    "study": 2,
+    "old_forecast_mse": 9.82487387440328e-06,
+    "replay_forecast_mse": 9.82487387440328e-06,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "informative_sigma0.0015_data20261201_P4_opt20261212",
+    "study": 2,
+    "old_forecast_mse": 1.953637828715787e-05,
+    "replay_forecast_mse": 1.953637828715787e-05,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "informative_sigma0.0015_data20261201_P3_opt20261213",
+    "study": 2,
+    "old_forecast_mse": 8.351781531801448e-05,
+    "replay_forecast_mse": 8.351781531801448e-05,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "informative_sigma0.0015_data20261201_P4_opt20261213",
+    "study": 2,
+    "old_forecast_mse": 8.117579021988875e-05,
+    "replay_forecast_mse": 8.117579021988875e-05,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "informative_sigma0.0015_data20261202_P3_opt20261211",
+    "study": 2,
+    "old_forecast_mse": 0.0001489914942108749,
+    "replay_forecast_mse": 0.0001489914942108749,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "informative_sigma0.0015_data20261202_P4_opt20261211",
+    "study": 2,
+    "old_forecast_mse": 0.00015051579468036366,
+    "replay_forecast_mse": 0.00015051579468036366,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "informative_sigma0.0015_data20261202_P3_opt20261212",
+    "study": 2,
+    "old_forecast_mse": 0.00028404258733318467,
+    "replay_forecast_mse": 0.00028404258733318467,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "informative_sigma0.0015_data20261202_P4_opt20261212",
+    "study": 2,
+    "old_forecast_mse": 0.0002678116477663268,
+    "replay_forecast_mse": 0.0002678116477663268,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "informative_sigma0.0015_data20261202_P3_opt20261213",
+    "study": 2,
+    "old_forecast_mse": 2.9133264813249803e-05,
+    "replay_forecast_mse": 2.9133264813249803e-05,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "informative_sigma0.0015_data20261202_P4_opt20261213",
+    "study": 2,
+    "old_forecast_mse": 1.4082022888776739e-05,
+    "replay_forecast_mse": 1.4082022888776739e-05,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "informative_sigma0.0015_data20261203_P3_opt20261211",
+    "study": 2,
+    "old_forecast_mse": 7.214429825546013e-05,
+    "replay_forecast_mse": 7.214429825546013e-05,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "informative_sigma0.0015_data20261203_P4_opt20261211",
+    "study": 2,
+    "old_forecast_mse": 7.557302917411106e-05,
+    "replay_forecast_mse": 7.557302917411106e-05,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "informative_sigma0.0015_data20261203_P3_opt20261212",
+    "study": 2,
+    "old_forecast_mse": 4.5398573537028615e-05,
+    "replay_forecast_mse": 4.5398573537028615e-05,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "informative_sigma0.0015_data20261203_P4_opt20261212",
+    "study": 2,
+    "old_forecast_mse": 3.706795575158225e-05,
+    "replay_forecast_mse": 3.706795575158225e-05,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "informative_sigma0.0015_data20261203_P3_opt20261213",
+    "study": 2,
+    "old_forecast_mse": 7.711958192586256e-05,
+    "replay_forecast_mse": 7.711958192586256e-05,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "informative_sigma0.0015_data20261203_P4_opt20261213",
+    "study": 2,
+    "old_forecast_mse": 8.319498347452063e-05,
+    "replay_forecast_mse": 8.319498347452063e-05,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "informative_sigma0.0015_data20261204_P3_opt20261211",
+    "study": 2,
+    "old_forecast_mse": 9.046960346964431e-05,
+    "replay_forecast_mse": 9.046960346964431e-05,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "informative_sigma0.0015_data20261204_P4_opt20261211",
+    "study": 2,
+    "old_forecast_mse": 9.886907157963246e-05,
+    "replay_forecast_mse": 9.886907157963246e-05,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "informative_sigma0.0015_data20261204_P3_opt20261212",
+    "study": 2,
+    "old_forecast_mse": 0.00019027827682308832,
+    "replay_forecast_mse": 0.00019027827682308832,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "informative_sigma0.0015_data20261204_P4_opt20261212",
+    "study": 2,
+    "old_forecast_mse": 0.00021124820030684352,
+    "replay_forecast_mse": 0.00021124820030684352,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "informative_sigma0.0015_data20261204_P3_opt20261213",
+    "study": 2,
+    "old_forecast_mse": 8.857822917863625e-05,
+    "replay_forecast_mse": 8.857822917863625e-05,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "informative_sigma0.0015_data20261204_P4_opt20261213",
+    "study": 2,
+    "old_forecast_mse": 7.835405736455882e-05,
+    "replay_forecast_mse": 7.835405736455882e-05,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "informative_sigma0.0015_data20261205_P3_opt20261211",
+    "study": 2,
+    "old_forecast_mse": 1.814747575622285e-05,
+    "replay_forecast_mse": 1.814747575622285e-05,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "informative_sigma0.0015_data20261205_P4_opt20261211",
+    "study": 2,
+    "old_forecast_mse": 2.255424127667862e-05,
+    "replay_forecast_mse": 2.255424127667862e-05,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "informative_sigma0.0015_data20261205_P3_opt20261212",
+    "study": 2,
+    "old_forecast_mse": 5.938675561191766e-05,
+    "replay_forecast_mse": 5.938675561191766e-05,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "informative_sigma0.0015_data20261205_P4_opt20261212",
+    "study": 2,
+    "old_forecast_mse": 5.7534849306350036e-05,
+    "replay_forecast_mse": 5.7534849306350036e-05,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "informative_sigma0.0015_data20261205_P3_opt20261213",
+    "study": 2,
+    "old_forecast_mse": 1.79164085029256e-05,
+    "replay_forecast_mse": 1.79164085029256e-05,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "informative_sigma0.0015_data20261205_P4_opt20261213",
+    "study": 2,
+    "old_forecast_mse": 2.16591096277338e-06,
+    "replay_forecast_mse": 2.16591096277338e-06,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "obs0.025_data20261301_h0.0125_P3_opt20261311",
+    "study": 3,
+    "old_forecast_mse": 0.00015357678852344968,
+    "replay_forecast_mse": 0.00015357678852344968,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "obs0.025_data20261301_h0.0125_P4_opt20261311",
+    "study": 3,
+    "old_forecast_mse": 0.000146030239378266,
+    "replay_forecast_mse": 0.000146030239378266,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "obs0.025_data20261301_h0.0125_P3_opt20261312",
+    "study": 3,
+    "old_forecast_mse": 0.00026780446040451195,
+    "replay_forecast_mse": 0.00026780446040451195,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "obs0.025_data20261301_h0.0125_P4_opt20261312",
+    "study": 3,
+    "old_forecast_mse": 0.0002628136027414426,
+    "replay_forecast_mse": 0.0002628136027414426,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "obs0.025_data20261301_h0.0125_P3_opt20261313",
+    "study": 3,
+    "old_forecast_mse": 1.617121982630506e-05,
+    "replay_forecast_mse": 1.617121982630506e-05,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "obs0.025_data20261301_h0.0125_P4_opt20261313",
+    "study": 3,
+    "old_forecast_mse": 1.2183621800817319e-05,
+    "replay_forecast_mse": 1.2183621800817319e-05,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "obs0.025_data20261302_h0.0125_P3_opt20261311",
+    "study": 3,
+    "old_forecast_mse": 7.971758814274635e-05,
+    "replay_forecast_mse": 7.971758814274635e-05,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "obs0.025_data20261302_h0.0125_P4_opt20261311",
+    "study": 3,
+    "old_forecast_mse": 6.770632756685532e-05,
+    "replay_forecast_mse": 6.770632756685532e-05,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "obs0.025_data20261302_h0.0125_P3_opt20261312",
+    "study": 3,
+    "old_forecast_mse": 6.069633267667142e-05,
+    "replay_forecast_mse": 6.069633267667142e-05,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "obs0.025_data20261302_h0.0125_P4_opt20261312",
+    "study": 3,
+    "old_forecast_mse": 3.302811911075745e-05,
+    "replay_forecast_mse": 3.302811911075745e-05,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "obs0.025_data20261302_h0.0125_P3_opt20261313",
+    "study": 3,
+    "old_forecast_mse": 9.72392140875308e-05,
+    "replay_forecast_mse": 9.72392140875308e-05,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "obs0.025_data20261302_h0.0125_P4_opt20261313",
+    "study": 3,
+    "old_forecast_mse": 7.901253686909547e-05,
+    "replay_forecast_mse": 7.901253686909547e-05,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "obs0.025_data20261303_h0.0125_P3_opt20261311",
+    "study": 3,
+    "old_forecast_mse": 0.00011792902317325048,
+    "replay_forecast_mse": 0.00011792902317325048,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "obs0.025_data20261303_h0.0125_P4_opt20261311",
+    "study": 3,
+    "old_forecast_mse": 9.16162256619734e-05,
+    "replay_forecast_mse": 9.16162256619734e-05,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "obs0.025_data20261303_h0.0125_P3_opt20261312",
+    "study": 3,
+    "old_forecast_mse": 0.00023304343525890972,
+    "replay_forecast_mse": 0.00023304343525890972,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "obs0.025_data20261303_h0.0125_P4_opt20261312",
+    "study": 3,
+    "old_forecast_mse": 0.00020813728495883236,
+    "replay_forecast_mse": 0.00020813728495883236,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "obs0.025_data20261303_h0.0125_P3_opt20261313",
+    "study": 3,
+    "old_forecast_mse": 0.00011972658315762417,
+    "replay_forecast_mse": 0.00011972658315762417,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "obs0.025_data20261303_h0.0125_P4_opt20261313",
+    "study": 3,
+    "old_forecast_mse": 7.43888036961201e-05,
+    "replay_forecast_mse": 7.43888036961201e-05,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "obs0.025_data20261304_h0.0125_P3_opt20261311",
+    "study": 3,
+    "old_forecast_mse": 2.9315533418447504e-05,
+    "replay_forecast_mse": 2.9315533418447504e-05,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "obs0.025_data20261304_h0.0125_P4_opt20261311",
+    "study": 3,
+    "old_forecast_mse": 2.095022391769734e-05,
+    "replay_forecast_mse": 2.095022391769734e-05,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "obs0.025_data20261304_h0.0125_P3_opt20261312",
+    "study": 3,
+    "old_forecast_mse": 7.126883677943209e-05,
+    "replay_forecast_mse": 7.126883677943209e-05,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "obs0.025_data20261304_h0.0125_P4_opt20261312",
+    "study": 3,
+    "old_forecast_mse": 5.47694262382818e-05,
+    "replay_forecast_mse": 5.47694262382818e-05,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "obs0.025_data20261304_h0.0125_P3_opt20261313",
+    "study": 3,
+    "old_forecast_mse": 1.662259703401457e-05,
+    "replay_forecast_mse": 1.662259703401457e-05,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "obs0.025_data20261304_h0.0125_P4_opt20261313",
+    "study": 3,
+    "old_forecast_mse": 1.9602862928001848e-06,
+    "replay_forecast_mse": 1.9602862928001848e-06,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "obs0.025_data20261305_h0.0125_P3_opt20261311",
+    "study": 3,
+    "old_forecast_mse": 0.00021167384338732092,
+    "replay_forecast_mse": 0.00021167384338732092,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "obs0.025_data20261305_h0.0125_P4_opt20261311",
+    "study": 3,
+    "old_forecast_mse": 0.0001872235160757284,
+    "replay_forecast_mse": 0.0001872235160757284,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "obs0.025_data20261305_h0.0125_P3_opt20261312",
+    "study": 3,
+    "old_forecast_mse": 1.6154576868655595e-05,
+    "replay_forecast_mse": 1.6154576868655595e-05,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "obs0.025_data20261305_h0.0125_P4_opt20261312",
+    "study": 3,
+    "old_forecast_mse": 7.766593937119335e-06,
+    "replay_forecast_mse": 7.766593937119335e-06,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "obs0.025_data20261305_h0.0125_P3_opt20261313",
+    "study": 3,
+    "old_forecast_mse": 1.0026811303972392e-05,
+    "replay_forecast_mse": 1.0026811303972392e-05,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "obs0.025_data20261305_h0.0125_P4_opt20261313",
+    "study": 3,
+    "old_forecast_mse": 9.326509007789742e-07,
+    "replay_forecast_mse": 9.326509007789742e-07,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "obs0.025_data20261301_h0.025_P3_opt20261311",
+    "study": 3,
+    "old_forecast_mse": 0.00015099480169782306,
+    "replay_forecast_mse": 0.00015099480169782306,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "obs0.025_data20261301_h0.025_P4_opt20261311",
+    "study": 3,
+    "old_forecast_mse": 0.00014174108597353244,
+    "replay_forecast_mse": 0.00014174108597353244,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "obs0.025_data20261301_h0.025_P3_opt20261312",
+    "study": 3,
+    "old_forecast_mse": 0.00026811886108871804,
+    "replay_forecast_mse": 0.00026811886108871804,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "obs0.025_data20261301_h0.025_P4_opt20261312",
+    "study": 3,
+    "old_forecast_mse": 0.00026155871124865904,
+    "replay_forecast_mse": 0.00026155871124865904,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "obs0.025_data20261301_h0.025_P3_opt20261313",
+    "study": 3,
+    "old_forecast_mse": 1.675566137913299e-05,
+    "replay_forecast_mse": 1.675566137913299e-05,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "obs0.025_data20261301_h0.025_P4_opt20261313",
+    "study": 3,
+    "old_forecast_mse": 1.186304696413476e-05,
+    "replay_forecast_mse": 1.186304696413476e-05,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "obs0.025_data20261302_h0.025_P3_opt20261311",
+    "study": 3,
+    "old_forecast_mse": 7.866086709723749e-05,
+    "replay_forecast_mse": 7.866086709723749e-05,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "obs0.025_data20261302_h0.025_P4_opt20261311",
+    "study": 3,
+    "old_forecast_mse": 6.610447450966218e-05,
+    "replay_forecast_mse": 6.610447450966218e-05,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "obs0.025_data20261302_h0.025_P3_opt20261312",
+    "study": 3,
+    "old_forecast_mse": 6.246071487440432e-05,
+    "replay_forecast_mse": 6.246071487440432e-05,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "obs0.025_data20261302_h0.025_P4_opt20261312",
+    "study": 3,
+    "old_forecast_mse": 3.3570976460494024e-05,
+    "replay_forecast_mse": 3.3570976460494024e-05,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "obs0.025_data20261302_h0.025_P3_opt20261313",
+    "study": 3,
+    "old_forecast_mse": 9.70350807667926e-05,
+    "replay_forecast_mse": 9.70350807667926e-05,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "obs0.025_data20261302_h0.025_P4_opt20261313",
+    "study": 3,
+    "old_forecast_mse": 7.700036246942076e-05,
+    "replay_forecast_mse": 7.700036246942076e-05,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "obs0.025_data20261303_h0.025_P3_opt20261311",
+    "study": 3,
+    "old_forecast_mse": 0.00011780914638893741,
+    "replay_forecast_mse": 0.00011780914638893741,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "obs0.025_data20261303_h0.025_P4_opt20261311",
+    "study": 3,
+    "old_forecast_mse": 8.928787454069615e-05,
+    "replay_forecast_mse": 8.928787454069615e-05,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "obs0.025_data20261303_h0.025_P3_opt20261312",
+    "study": 3,
+    "old_forecast_mse": 0.00023520310942064444,
+    "replay_forecast_mse": 0.00023520310942064444,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "obs0.025_data20261303_h0.025_P4_opt20261312",
+    "study": 3,
+    "old_forecast_mse": 0.00020817254241156785,
+    "replay_forecast_mse": 0.00020817254241156785,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "obs0.025_data20261303_h0.025_P3_opt20261313",
+    "study": 3,
+    "old_forecast_mse": 0.00011972599070343014,
+    "replay_forecast_mse": 0.00011972599070343014,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "obs0.025_data20261303_h0.025_P4_opt20261313",
+    "study": 3,
+    "old_forecast_mse": 7.229429063999872e-05,
+    "replay_forecast_mse": 7.229429063999872e-05,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "obs0.025_data20261304_h0.025_P3_opt20261311",
+    "study": 3,
+    "old_forecast_mse": 2.9158369483867453e-05,
+    "replay_forecast_mse": 2.9158369483867453e-05,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "obs0.025_data20261304_h0.025_P4_opt20261311",
+    "study": 3,
+    "old_forecast_mse": 2.020400166435679e-05,
+    "replay_forecast_mse": 2.020400166435679e-05,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "obs0.025_data20261304_h0.025_P3_opt20261312",
+    "study": 3,
+    "old_forecast_mse": 6.855039845279403e-05,
+    "replay_forecast_mse": 6.855039845279403e-05,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "obs0.025_data20261304_h0.025_P4_opt20261312",
+    "study": 3,
+    "old_forecast_mse": 5.146531298687487e-05,
+    "replay_forecast_mse": 5.146531298687487e-05,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "obs0.025_data20261304_h0.025_P3_opt20261313",
+    "study": 3,
+    "old_forecast_mse": 1.7174336929151566e-05,
+    "replay_forecast_mse": 1.7174336929151566e-05,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "obs0.025_data20261304_h0.025_P4_opt20261313",
+    "study": 3,
+    "old_forecast_mse": 2.274889702700564e-06,
+    "replay_forecast_mse": 2.274889702700564e-06,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "obs0.025_data20261305_h0.025_P3_opt20261311",
+    "study": 3,
+    "old_forecast_mse": 0.00020913576843228297,
+    "replay_forecast_mse": 0.00020913576843228297,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "obs0.025_data20261305_h0.025_P4_opt20261311",
+    "study": 3,
+    "old_forecast_mse": 0.00018251404918332185,
+    "replay_forecast_mse": 0.00018251404918332185,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "obs0.025_data20261305_h0.025_P3_opt20261312",
+    "study": 3,
+    "old_forecast_mse": 1.6766037655732446e-05,
+    "replay_forecast_mse": 1.6766037655732446e-05,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "obs0.025_data20261305_h0.025_P4_opt20261312",
+    "study": 3,
+    "old_forecast_mse": 6.481785105364624e-06,
+    "replay_forecast_mse": 6.481785105364624e-06,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "obs0.025_data20261305_h0.025_P3_opt20261313",
+    "study": 3,
+    "old_forecast_mse": 1.075848276995893e-05,
+    "replay_forecast_mse": 1.075848276995893e-05,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "obs0.025_data20261305_h0.025_P4_opt20261313",
+    "study": 3,
+    "old_forecast_mse": 1.1521156721812371e-06,
+    "replay_forecast_mse": 1.1521156721812371e-06,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "obs0.05_data20261301_h0.0125_P3_opt20261311",
+    "study": 3,
+    "old_forecast_mse": 0.0001658504761899392,
+    "replay_forecast_mse": 0.0001658504761899392,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "obs0.05_data20261301_h0.0125_P4_opt20261311",
+    "study": 3,
+    "old_forecast_mse": 0.00015567775856306087,
+    "replay_forecast_mse": 0.00015567775856306087,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "obs0.05_data20261301_h0.0125_P3_opt20261312",
+    "study": 3,
+    "old_forecast_mse": 0.0002754949559931016,
+    "replay_forecast_mse": 0.0002754949559931016,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "obs0.05_data20261301_h0.0125_P4_opt20261312",
+    "study": 3,
+    "old_forecast_mse": 0.00026654725849740014,
+    "replay_forecast_mse": 0.00026654725849740014,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "obs0.05_data20261301_h0.0125_P3_opt20261313",
+    "study": 3,
+    "old_forecast_mse": 2.1022880479960086e-05,
+    "replay_forecast_mse": 2.1022880479960086e-05,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "obs0.05_data20261301_h0.0125_P4_opt20261313",
+    "study": 3,
+    "old_forecast_mse": 1.4296638312236053e-05,
+    "replay_forecast_mse": 1.4296638312236053e-05,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "obs0.05_data20261302_h0.0125_P3_opt20261311",
+    "study": 3,
+    "old_forecast_mse": 7.998273752491195e-05,
+    "replay_forecast_mse": 7.998273752491195e-05,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "obs0.05_data20261302_h0.0125_P4_opt20261311",
+    "study": 3,
+    "old_forecast_mse": 7.204862961061592e-05,
+    "replay_forecast_mse": 7.204862961061592e-05,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "obs0.05_data20261302_h0.0125_P3_opt20261312",
+    "study": 3,
+    "old_forecast_mse": 5.544387004281802e-05,
+    "replay_forecast_mse": 5.544387004281802e-05,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "obs0.05_data20261302_h0.0125_P4_opt20261312",
+    "study": 3,
+    "old_forecast_mse": 3.627009443536083e-05,
+    "replay_forecast_mse": 3.627009443536083e-05,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "obs0.05_data20261302_h0.0125_P3_opt20261313",
+    "study": 3,
+    "old_forecast_mse": 9.406043096141135e-05,
+    "replay_forecast_mse": 9.406043096141135e-05,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "obs0.05_data20261302_h0.0125_P4_opt20261313",
+    "study": 3,
+    "old_forecast_mse": 8.431347104975465e-05,
+    "replay_forecast_mse": 8.431347104975465e-05,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "obs0.05_data20261303_h0.0125_P3_opt20261311",
+    "study": 3,
+    "old_forecast_mse": 0.00011894727775184261,
+    "replay_forecast_mse": 0.00011894727775184261,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "obs0.05_data20261303_h0.0125_P4_opt20261311",
+    "study": 3,
+    "old_forecast_mse": 9.874135594175636e-05,
+    "replay_forecast_mse": 9.874135594175636e-05,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "obs0.05_data20261303_h0.0125_P3_opt20261312",
+    "study": 3,
+    "old_forecast_mse": 0.00023056822431444178,
+    "replay_forecast_mse": 0.00023056822431444178,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "obs0.05_data20261303_h0.0125_P4_opt20261312",
+    "study": 3,
+    "old_forecast_mse": 0.00021175191538468763,
+    "replay_forecast_mse": 0.00021175191538468763,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "obs0.05_data20261303_h0.0125_P3_opt20261313",
+    "study": 3,
+    "old_forecast_mse": 0.0001191052246585852,
+    "replay_forecast_mse": 0.0001191052246585852,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "obs0.05_data20261303_h0.0125_P4_opt20261313",
+    "study": 3,
+    "old_forecast_mse": 8.03332889389117e-05,
+    "replay_forecast_mse": 8.03332889389117e-05,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "obs0.05_data20261304_h0.0125_P3_opt20261311",
+    "study": 3,
+    "old_forecast_mse": 2.5956540901239658e-05,
+    "replay_forecast_mse": 2.5956540901239658e-05,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "obs0.05_data20261304_h0.0125_P4_opt20261311",
+    "study": 3,
+    "old_forecast_mse": 2.3397958547448558e-05,
+    "replay_forecast_mse": 2.3397958547448558e-05,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "obs0.05_data20261304_h0.0125_P3_opt20261312",
+    "study": 3,
+    "old_forecast_mse": 6.86470925413643e-05,
+    "replay_forecast_mse": 6.86470925413643e-05,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "obs0.05_data20261304_h0.0125_P4_opt20261312",
+    "study": 3,
+    "old_forecast_mse": 6.089629687612129e-05,
+    "replay_forecast_mse": 6.089629687612129e-05,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "obs0.05_data20261304_h0.0125_P3_opt20261313",
+    "study": 3,
+    "old_forecast_mse": 1.099732485047246e-05,
+    "replay_forecast_mse": 1.099732485047246e-05,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "obs0.05_data20261304_h0.0125_P4_opt20261313",
+    "study": 3,
+    "old_forecast_mse": 1.9842624916731597e-06,
+    "replay_forecast_mse": 1.9842624916731597e-06,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "obs0.05_data20261305_h0.0125_P3_opt20261311",
+    "study": 3,
+    "old_forecast_mse": 0.00021286697629204225,
+    "replay_forecast_mse": 0.00021286697629204225,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "obs0.05_data20261305_h0.0125_P4_opt20261311",
+    "study": 3,
+    "old_forecast_mse": 0.0001952812419963088,
+    "replay_forecast_mse": 0.0001952812419963088,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "obs0.05_data20261305_h0.0125_P3_opt20261312",
+    "study": 3,
+    "old_forecast_mse": 1.342541673141922e-05,
+    "replay_forecast_mse": 1.342541673141922e-05,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "obs0.05_data20261305_h0.0125_P4_opt20261312",
+    "study": 3,
+    "old_forecast_mse": 7.678543016681164e-06,
+    "replay_forecast_mse": 7.678543016681164e-06,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "obs0.05_data20261305_h0.0125_P3_opt20261313",
+    "study": 3,
+    "old_forecast_mse": 7.80857021209e-06,
+    "replay_forecast_mse": 7.80857021209e-06,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "obs0.05_data20261305_h0.0125_P4_opt20261313",
+    "study": 3,
+    "old_forecast_mse": 1.1302748992461329e-06,
+    "replay_forecast_mse": 1.1302748992461329e-06,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "obs0.05_data20261301_h0.025_P3_opt20261311",
+    "study": 3,
+    "old_forecast_mse": 0.00016369217333926455,
+    "replay_forecast_mse": 0.00016369217333926455,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "obs0.05_data20261301_h0.025_P4_opt20261311",
+    "study": 3,
+    "old_forecast_mse": 0.00015166312798807553,
+    "replay_forecast_mse": 0.00015166312798807553,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "obs0.05_data20261301_h0.025_P3_opt20261312",
+    "study": 3,
+    "old_forecast_mse": 0.00027648111390489325,
+    "replay_forecast_mse": 0.00027648111390489325,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "obs0.05_data20261301_h0.025_P4_opt20261312",
+    "study": 3,
+    "old_forecast_mse": 0.0002655558822378135,
+    "replay_forecast_mse": 0.0002655558822378135,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "obs0.05_data20261301_h0.025_P3_opt20261313",
+    "study": 3,
+    "old_forecast_mse": 2.1372180414600802e-05,
+    "replay_forecast_mse": 2.1372180414600802e-05,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "obs0.05_data20261301_h0.025_P4_opt20261313",
+    "study": 3,
+    "old_forecast_mse": 1.3834595774570452e-05,
+    "replay_forecast_mse": 1.3834595774570452e-05,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "obs0.05_data20261302_h0.025_P3_opt20261311",
+    "study": 3,
+    "old_forecast_mse": 7.904791059453626e-05,
+    "replay_forecast_mse": 7.904791059453626e-05,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "obs0.05_data20261302_h0.025_P4_opt20261311",
+    "study": 3,
+    "old_forecast_mse": 7.059013017031858e-05,
+    "replay_forecast_mse": 7.059013017031858e-05,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "obs0.05_data20261302_h0.025_P3_opt20261312",
+    "study": 3,
+    "old_forecast_mse": 5.739146948901488e-05,
+    "replay_forecast_mse": 5.739146948901488e-05,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "obs0.05_data20261302_h0.025_P4_opt20261312",
+    "study": 3,
+    "old_forecast_mse": 3.689725271862112e-05,
+    "replay_forecast_mse": 3.689725271862112e-05,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "obs0.05_data20261302_h0.025_P3_opt20261313",
+    "study": 3,
+    "old_forecast_mse": 9.389070869447632e-05,
+    "replay_forecast_mse": 9.389070869447632e-05,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "obs0.05_data20261302_h0.025_P4_opt20261313",
+    "study": 3,
+    "old_forecast_mse": 8.236258593033856e-05,
+    "replay_forecast_mse": 8.236258593033856e-05,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "obs0.05_data20261303_h0.025_P3_opt20261311",
+    "study": 3,
+    "old_forecast_mse": 0.00011920791817439226,
+    "replay_forecast_mse": 0.00011920791817439226,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "obs0.05_data20261303_h0.025_P4_opt20261311",
+    "study": 3,
+    "old_forecast_mse": 9.579884410695413e-05,
+    "replay_forecast_mse": 9.579884410695413e-05,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "obs0.05_data20261303_h0.025_P3_opt20261312",
+    "study": 3,
+    "old_forecast_mse": 0.00023299250874314416,
+    "replay_forecast_mse": 0.00023299250874314416,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "obs0.05_data20261303_h0.025_P4_opt20261312",
+    "study": 3,
+    "old_forecast_mse": 0.00021224785334170848,
+    "replay_forecast_mse": 0.00021224785334170848,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "obs0.05_data20261303_h0.025_P3_opt20261313",
+    "study": 3,
+    "old_forecast_mse": 0.00011921489194512491,
+    "replay_forecast_mse": 0.00011921489194512491,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "obs0.05_data20261303_h0.025_P4_opt20261313",
+    "study": 3,
+    "old_forecast_mse": 7.805166868082268e-05,
+    "replay_forecast_mse": 7.805166868082268e-05,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "obs0.05_data20261304_h0.025_P3_opt20261311",
+    "study": 3,
+    "old_forecast_mse": 2.5626480301182535e-05,
+    "replay_forecast_mse": 2.5626480301182535e-05,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "obs0.05_data20261304_h0.025_P4_opt20261311",
+    "study": 3,
+    "old_forecast_mse": 2.2526937678608303e-05,
+    "replay_forecast_mse": 2.2526937678608303e-05,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "obs0.05_data20261304_h0.025_P3_opt20261312",
+    "study": 3,
+    "old_forecast_mse": 6.611238389242976e-05,
+    "replay_forecast_mse": 6.611238389242976e-05,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "obs0.05_data20261304_h0.025_P4_opt20261312",
+    "study": 3,
+    "old_forecast_mse": 5.761809346875856e-05,
+    "replay_forecast_mse": 5.761809346875856e-05,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "obs0.05_data20261304_h0.025_P3_opt20261313",
+    "study": 3,
+    "old_forecast_mse": 1.1543219042858775e-05,
+    "replay_forecast_mse": 1.1543219042858775e-05,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "obs0.05_data20261304_h0.025_P4_opt20261313",
+    "study": 3,
+    "old_forecast_mse": 2.3152183807617486e-06,
+    "replay_forecast_mse": 2.3152183807617486e-06,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "obs0.05_data20261305_h0.025_P3_opt20261311",
+    "study": 3,
+    "old_forecast_mse": 0.00021080965872938566,
+    "replay_forecast_mse": 0.00021080965872938566,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "obs0.05_data20261305_h0.025_P4_opt20261311",
+    "study": 3,
+    "old_forecast_mse": 0.00019092045888513323,
+    "replay_forecast_mse": 0.00019092045888513323,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "obs0.05_data20261305_h0.025_P3_opt20261312",
+    "study": 3,
+    "old_forecast_mse": 1.3962778299697946e-05,
+    "replay_forecast_mse": 1.3962778299697946e-05,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "obs0.05_data20261305_h0.025_P4_opt20261312",
+    "study": 3,
+    "old_forecast_mse": 6.459426680666214e-06,
+    "replay_forecast_mse": 6.459426680666214e-06,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "obs0.05_data20261305_h0.025_P3_opt20261313",
+    "study": 3,
+    "old_forecast_mse": 8.380967511201836e-06,
+    "replay_forecast_mse": 8.380967511201836e-06,
+    "relative_difference": 0.0
+  },
+  {
+    "run": "obs0.05_data20261305_h0.025_P4_opt20261313",
+    "study": 3,
+    "old_forecast_mse": 1.2561347434015299e-06,
+    "replay_forecast_mse": 1.2561347434015299e-06,
+    "relative_difference": 0.0
+  }
+]

@@ -1,0 +1,160 @@
+{
+  "status": "diagnostic_completed",
+  "study": "E3",
+  "checkpoint_evaluations": 180,
+  "runtime": {
+    "python": "3.12.14",
+    "torch": "2.10.0+cpu",
+    "numpy": "2.4.2",
+    "cpu_capability": "AVX512",
+    "threads": 1
+  },
+  "bitwise_or_strict_audit_pass_claimed": false,
+  "differences": {
+    "delay_curve": {
+      "values": 36180,
+      "different_values": 4546,
+      "maximum_absolute_difference": 5.960464477539063e-08,
+      "maximum_relative_difference_nonzero_reference": 2.1484141695648775e-07
+    },
+    "delay_rmse": {
+      "values": 180,
+      "different_values": 180,
+      "maximum_absolute_difference": 2.0194791741645624e-09,
+      "maximum_relative_difference_nonzero_reference": 9.546197215829654e-08
+    },
+    "eval_h0.025_clean_train_mse": {
+      "values": 120,
+      "different_values": 120,
+      "maximum_absolute_difference": 8.842112935391298e-10,
+      "maximum_relative_difference_nonzero_reference": 2.4303826246610394e-05
+    },
+    "eval_h0.025_observed_train_mse": {
+      "values": 120,
+      "different_values": 120,
+      "maximum_absolute_difference": 8.859625974478799e-10,
+      "maximum_relative_difference_nonzero_reference": 2.1591850791675708e-05
+    },
+    "eval_h0.025_clean_test_mse": {
+      "values": 120,
+      "different_values": 120,
+      "maximum_absolute_difference": 7.958601760471931e-10,
+      "maximum_relative_difference_nonzero_reference": 2.4500786273137862e-05
+    },
+    "eval_h0.025_observed_test_mse": {
+      "values": 120,
+      "different_values": 120,
+      "maximum_absolute_difference": 7.954320461035867e-10,
+      "maximum_relative_difference_nonzero_reference": 2.1087010296522983e-05
+    },
+    "eval_h0.025_minimum_predicted_observation_state": {
+      "values": 120,
+      "different_values": 0,
+      "maximum_absolute_difference": 0.0,
+      "maximum_relative_difference_nonzero_reference": 0.0
+    },
+    "eval_h0.025_nonpositive_observation_count": {
+      "values": 120,
+      "different_values": 0,
+      "maximum_absolute_difference": 0.0,
+      "maximum_relative_difference_nonzero_reference": 0.0
+    },
+    "eval_h0.0125_clean_train_mse": {
+      "values": 120,
+      "different_values": 120,
+      "maximum_absolute_difference": 1.327006750686567e-09,
+      "maximum_relative_difference_nonzero_reference": 1.4448188679864809e-05
+    },
+    "eval_h0.0125_observed_train_mse": {
+      "values": 120,
+      "different_values": 120,
+      "maximum_absolute_difference": 1.325113578273026e-09,
+      "maximum_relative_difference_nonzero_reference": 1.3618798813329962e-05
+    },
+    "eval_h0.0125_clean_test_mse": {
+      "values": 120,
+      "different_values": 120,
+      "maximum_absolute_difference": 9.291187836734261e-10,
+      "maximum_relative_difference_nonzero_reference": 3.695145872995787e-05
+    },
+    "eval_h0.0125_observed_test_mse": {
+      "values": 120,
+      "different_values": 120,
+      "maximum_absolute_difference": 9.32609454777373e-10,
+      "maximum_relative_difference_nonzero_reference": 3.0070120367104588e-05
+    },
+    "eval_h0.0125_minimum_predicted_observation_state": {
+      "values": 120,
+      "different_values": 0,
+      "maximum_absolute_difference": 0.0,
+      "maximum_relative_difference_nonzero_reference": 0.0
+    },
+    "eval_h0.0125_nonpositive_observation_count": {
+      "values": 120,
+      "different_values": 0,
+      "maximum_absolute_difference": 0.0,
+      "maximum_relative_difference_nonzero_reference": 0.0
+    },
+    "eval_h0.00625_clean_train_mse": {
+      "values": 120,
+      "different_values": 120,
+      "maximum_absolute_difference": 9.058034996438195e-10,
+      "maximum_relative_difference_nonzero_reference": 3.421292471136465e-05
+    },
+    "eval_h0.00625_observed_train_mse": {
+      "values": 120,
+      "different_values": 120,
+      "maximum_absolute_difference": 9.055222237189589e-10,
+      "maximum_relative_difference_nonzero_reference": 3.124046755732269e-05
+    },
+    "eval_h0.00625_clean_test_mse": {
+      "values": 120,
+      "different_values": 120,
+      "maximum_absolute_difference": 8.65321040028396e-10,
+      "maximum_relative_difference_nonzero_reference": 5.0506227712485424e-05
+    },
+    "eval_h0.00625_observed_test_mse": {
+      "values": 120,
+      "different_values": 120,
+      "maximum_absolute_difference": 8.692917483391592e-10,
+      "maximum_relative_difference_nonzero_reference": 4.09856551539786e-05
+    },
+    "eval_h0.00625_minimum_predicted_observation_state": {
+      "values": 120,
+      "different_values": 0,
+      "maximum_absolute_difference": 0.0,
+      "maximum_relative_difference_nonzero_reference": 0.0
+    },
+    "eval_h0.00625_nonpositive_observation_count": {
+      "values": 120,
+      "different_values": 0,
+      "maximum_absolute_difference": 0.0,
+      "maximum_relative_difference_nonzero_reference": 0.0
+    },
+    "native_clean_train_mse": {
+      "values": 120,
+      "different_values": 120,
+      "maximum_absolute_difference": 1.327006750686567e-09,
+      "maximum_relative_difference_nonzero_reference": 2.4303826246610394e-05
+    },
+    "refined_clean_train_mse": {
+      "values": 120,
+      "different_values": 120,
+      "maximum_absolute_difference": 9.058034996438195e-10,
+      "maximum_relative_difference_nonzero_reference": 3.421292471136465e-05
+    },
+    "native_clean_test_mse": {
+      "values": 120,
+      "different_values": 120,
+      "maximum_absolute_difference": 9.291187836734261e-10,
+      "maximum_relative_difference_nonzero_reference": 3.695145872995787e-05
+    },
+    "refined_clean_test_mse": {
+      "values": 120,
+      "different_values": 120,
+      "maximum_absolute_difference": 8.65321040028396e-10,
+      "maximum_relative_difference_nonzero_reference": 5.0506227712485424e-05
+    }
+  },
+  "scope": "Measures numeric drift using retained sources and weights. Frozen strict audits and records are unchanged; no tolerance-based pass verdict is assigned."
+}

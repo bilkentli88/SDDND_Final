@@ -1,0 +1,286 @@
+{
+  "frozen_before_this_recovery_run_utc": "2026-10-20T08:57:42.750944+00:00",
+  "signature": {
+    "config": {
+      "protocol_id": "ASOC-E4-recovery-v1",
+      "generator": {
+        "growth": 1.1,
+        "capacity": 1.5,
+        "true_delay": 0.28
+      },
+      "delay_bounds": [
+        0.15,
+        0.5
+      ],
+      "initial_delay": 0.325,
+      "history_amplitude": 0.18,
+      "history_frequency": 3.141592653589793,
+      "history_c": [
+        -1.0,
+        0.0,
+        1.0,
+        0.0
+      ],
+      "history_d": [
+        0.0,
+        1.0,
+        0.0,
+        -1.0
+      ],
+      "train_states": [
+        0.45,
+        0.7,
+        0.95,
+        1.2
+      ],
+      "validation_states": [
+        0.55,
+        0.8,
+        1.05
+      ],
+      "test_states": [
+        0.575,
+        0.825,
+        1.075
+      ],
+      "horizon": 1.0,
+      "observation_step": 0.05,
+      "fine_observation_step": 0.025,
+      "training_step": 0.025,
+      "evaluation_steps": [
+        0.025,
+        0.0125,
+        0.00625
+      ],
+      "reference_steps": [
+        0.0025,
+        0.00125,
+        0.000625,
+        0.0003125
+      ],
+      "reference_tolerance": 1e-06,
+      "noise_levels": [
+        0.0005,
+        0.0015
+      ],
+      "delay_profile_points": 351,
+      "slope_window_duration": 0.2,
+      "slope_polynomial_degree": 2,
+      "geometry_norm_threshold": 1e-08,
+      "methods": [
+        "External-C",
+        "External-C+anchors",
+        "Structured-C",
+        "Structured-C+anchors"
+      ],
+      "learning_rates": [
+        0.0005,
+        0.002
+      ],
+      "schedules": {
+        "280": [
+          [
+            0.5,
+            90
+          ],
+          [
+            1.0,
+            190
+          ]
+        ],
+        "1200": [
+          [
+            0.5,
+            400
+          ],
+          [
+            1.0,
+            800
+          ]
+        ]
+      },
+      "anchor_weight": 0.08,
+      "field_weight_decay": 1e-06,
+      "gradient_clip": 5.0,
+      "calibration_data_seeds": [
+        20261501,
+        20261502
+      ],
+      "calibration_model_seed": 20261511,
+      "final_data_seeds": [
+        20261401,
+        20261402,
+        20261403,
+        20261404,
+        20261405
+      ],
+      "optimization_seeds": [
+        20261411,
+        20261412,
+        20261413
+      ],
+      "workers": 8,
+      "threads_per_worker": 1,
+      "solver_commit": "4888c63dc84e966f6c6553277adc3851a2cca4fc",
+      "architecture_source_commit": "9b573c4bed5efee9fe9c6b765044dbd506b5bf07",
+      "smoke": {
+        "noise_levels": [
+          0.0005
+        ],
+        "learning_rates": [
+          0.002
+        ],
+        "schedules": {
+          "4": [
+            [
+              0.5,
+              2
+            ],
+            [
+              1.0,
+              2
+            ]
+          ]
+        },
+        "calibration_data_seeds": [
+          930001
+        ],
+        "calibration_model_seed": 930002,
+        "final_data_seeds": [
+          930101
+        ],
+        "optimization_seeds": [
+          930102
+        ]
+      },
+      "mode": "full"
+    },
+    "source_sha256": {
+      "protocol.json": "f93aa70c55998dac470fa8352d814f57e5ec56b380765eafdd205303614b6f3f",
+      "PROTOCOL.md": "51ec6c52e37027c18bed9a552422b28a63976f430938e0b8e2c961ae64145006",
+      "e4_data.py": "33ed416a3535588e89ce59f99f5d8c20776e02ce59e9c01fc4215378195352cd",
+      "e4_neural.py": "506d28de4518de3538631bb6fa7b8e3d729bab9098c63680fff8034ac642eca2",
+      "e4_analysis.py": "d75e4de22edbe8a297043af909e5ec55abfd4bb974f3030c3d1c156062dec2f3",
+      "run.py": "9cc73c6251a8dffa6786eddc901ce10bcbcd71418158a3a73d46ef9cf6ccda86",
+      "audit.py": "66626432e2ef38da455b765a4be073e5384995938531697006fa375918af60d6",
+      "validate.py": "5c2fef9d7ab12bcebf591d08630afec9fbe3d71ec6658f652ca072016db67554"
+    },
+    "solver": {
+      "commit": "4888c63dc84e966f6c6553277adc3851a2cca4fc",
+      "tracked_sha256": {
+        ".flake8": "3e6d808cf3cfa6a666e55e56a580c48c95e221a223e3f5c9f398c52cab6a4b27",
+        ".github/workflows/build_docs.yml": "730687bb4b178603d07e3541385fa7030bf74d573021f42478a83cb3a0d55b25",
+        ".github/workflows/release.yml": "899e2807e2d01a3719b67df05663ade5075f4a26e25cf4d52a722ab18ff1ad0a",
+        ".github/workflows/run_tests.yml": "620c865f23a04375603aeffe53e9ab33cac1cdaec72a88e2ba76cd62bdffdd84",
+        ".gitignore": "801de2939005d3364eb40105d97476a43ff9264bc63d08d1b57e9d9b8dde42bd",
+        ".isort.cfg": "d97b3bdcce17d6203ab99cbbdfa10e5f763321dec8fe576eac737b0115b04a1d",
+        ".pre-commit-config.yaml": "d2a4c709318b4d3ae3f1cf1ab2d3da4347eca91d7ef87fc6f372d93f70acb25b",
+        "CONTRIBUTING.md": "bcde04c6c5b7f62869fce33bc77c3c947448172b74da3524aff26f3fa043dcc0",
+        "LICENSE": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+        "README.md": "884e6a8e4bdc07627b16f0557fe661963313e2dc9b590126589e1a12daa33520",
+        "docs/_overrides/partials/source.html": "3524f602a2e11817e91054e6996dcddd9c01847489409571694e8c40f7b4de89",
+        "docs/_static/README.md": "2d0bb35219541e9bd42c9c0e6430c344d9d5dc64d85852e0db139b06f54d5bb4",
+        "docs/_static/custom_css.css": "4c7680e36d4a8debec1b2478bde2332bec490bb23bf9c565fe9954e01518cc3f",
+        "docs/_static/favicon.png": "2815ee23d1a7220ff7ac3612745804602019b176b07b3261762ac50ecd45d695",
+        "docs/_static/mathjax.js": "3424e2d469e0367b966d670f157d343a5c4523d071493b4e2e517b0ddd713c38",
+        "docs/index.md": "4497630461021a1b62eb2a1f2d6fe4792dd8eb25b3f8d7e23c4bd95344e1abf6",
+        "docs/interpolators/linear-interpolator.md": "59d64da753298b3526829b3a8f914ad5c7fe85ddce940b8477c26b72f918ae36",
+        "docs/requirements.txt": "347f33a3e2db66fcae806b37440b654507206844827b6a71633efaf4415891ff",
+        "docs/usage/contribute.md": "162f672bb8654b6bbe2f137669958b6be7aa363de2e7fc8c409cbcfe897893aa",
+        "docs/usage/faq.md": "fea92ba9a0202bfbc0fa2f4f0a5d5de59ff3264a96c46156728327e6699f3e29",
+        "docs/usage/getting-started.md": "34c00f6de29f4d32cc9fc2180b3d5547c4da490dd2036e36e00890643555709b",
+        "docs/usage/integration-de.md": "a77288c82114e83e5822689d0ee952214ef9bf0408b432ac2c3f953be0a4dc54",
+        "docs/usage/neural-dde.md": "b4642fd3b8b6340a0c89fd2d1e790eb6552083ccc14bd2a6e7f1a40f6995d807",
+        "docs/usage/solvers.md": "272f7deaf2e62682ae8679d0c68d3e7f26691d81f7e982d7caec006042d169f7",
+        "docs/usage/stepsize-controller.md": "d65f0553d1938aabcc001f7f2f35c4eb69ce6e263d601febf3995328f1307d8d",
+        "docs/usage/training-de.md": "f13461d53dce857ae255b394a53ba19ebb357929e9e1fb9e032c30fa48dd6e3f",
+        "mkdocs.yml": "130c4ccb148e5db04495796ac7a951c91db41aff0a094c96c2837f58188d2e53",
+        "pyproject.toml": "170406294b3d79331d4ce2aae5cd8e59cc6508546266fa3621d00699d82fcbc7",
+        "test/requirements.txt": "c8911d03ad7a54a30fad6a1e8337480f997229e123c515c298b6f98a5c72139c",
+        "test/test_dde_backprop.py": "19e7d14bf8e2522283ed6b0ddb13fe7f9401b7a8318f4981a33a756887cde377",
+        "test/test_dde_solver.py": "24e16ff0d02ab9ce386d797e01cf53b0fbf7ff40081d87162083b6d2c383d97e",
+        "test/test_global_interpolation.py": "e75e1ca56f8307940f7ae59aec842211eaba283094bb0256be0deef280bbfbb3",
+        "test/test_local_interpolation.py": "1a300e8674c494471b3073615ef094d950a20f1d2628f1b1946fc09acdbde777",
+        "test/test_ode_backprop.py": "97e58c9d42f63588a78514d764cef097128fd9989913d45284026d52a2347418",
+        "test/test_ode_solver.py": "eabe0c2c6c4fb051841f496301e8962153cc3233f443bf98a4ff23830ba7b3b6",
+        "torchdde/__init__.py": "f39da19ad33607b6fc41e37ef467c235074f1cd41478546f54e3ebf8bdc41611",
+        "torchdde/adjoint_dde.py": "d09bbf276cffdcf527fac836523815ceaa2f56f76447d301da066df92a30e3c4",
+        "torchdde/adjoint_ode.py": "69f186240c5f1fe46214fdc8ed9745fa83ceb374e11c52cab0d43249e91e4ddf",
+        "torchdde/global_interpolation/__init__.py": "3a8b4c1e0c90ca48a9143d9427928583f3367df43e18cb4be2b46854227497d1",
+        "torchdde/global_interpolation/dense_interpolation.py": "4a1055b1bcc15f0e673a8c0e97fc0655c8dc13e811d9c26e5fe7f018c14d20a2",
+        "torchdde/global_interpolation/linear_interpolation.py": "98524575dfc3cc5f86c2a51e18f551e7897643dd1856fc5d3b27a8a8dfac99cf",
+        "torchdde/integrate.py": "62c66987d30d6a486cee326539545bcee072aae3d40ad5c5a303c3fa9cb373a4",
+        "torchdde/local_interpolation/__init__.py": "6a288a05b988964c3f63202449eda3c381a798229d16d32e15a58038bfc4b4cd",
+        "torchdde/local_interpolation/base.py": "0b63aab6d34b16d8b8170ad76b582f479f1a5f13af363c458e3a60b0ee9ee63a",
+        "torchdde/local_interpolation/first_order_interpolation.py": "2f74909910ff8812e242c91701b936ece109b9f3abcdf0799d9240aa43de26a9",
+        "torchdde/local_interpolation/fourth_order_interpolation.py": "5843a2eb3632eb5e637875308ea9c06cf78d765d00eef6b7c2babacdbeca78a0",
+        "torchdde/local_interpolation/third_order_interpolation.py": "190f664bfefc3514f5c17e91932f7eb62a5a830850c98b4027bb3142a699bf48",
+        "torchdde/misc.py": "7bf702243921287a03f9368f9470ab39334f543c39565287329bdad2b0990092",
+        "torchdde/solver/__init__.py": "a2587f4b43f68d3cd5170a7c3a00a264cab83605e690d40915d64901a7a12db0",
+        "torchdde/solver/base.py": "0ce98157d8c2e18293263cba3163c1e3186d917868d3963fe8a93846054fff57",
+        "torchdde/solver/bosh3.py": "b8a3d93d42d8478f429297baa66e29837805c02da444be13322aa77afb70ba01",
+        "torchdde/solver/dopri5.py": "3c7ecb5e5dcd9ee0127656ad7d60b51381ae03456c96e61ad8799a384cfaba5d",
+        "torchdde/solver/euler.py": "28474cba6e7a53b6b713fad0658915578f79a1517a061abfd7998bbf957c8c5e",
+        "torchdde/solver/implicit_euler.py": "dde564b223812a03c01eacbfb9b90c9cfcc1ce07ac964d9e4ac095e4024dc503",
+        "torchdde/solver/rk2.py": "468a137ace7d0e662d24b2fda42f7a5526350958f6f60ea10e7d79b1c27dbcd9",
+        "torchdde/solver/rk4.py": "b5e64d412c39e35c90a2b48dc2b7c371cc478ff61b1b8bf7e027def36a93df8c",
+        "torchdde/solver/runge_kutta.py": "726d39fbeeb7e5c2fc9c3cb6adee55f9d3d47b50becc788f757cdc4dccc4b225",
+        "torchdde/step_size_controller/__init__.py": "a766da16bb2360f3fd7ee04b17400c3efbc66695aca70814e71a6bab4dce5916",
+        "torchdde/step_size_controller/adaptive.py": "a21fe878814dee833f9590d4543a0e60cc5f86248a93b1c21a3eae86fecc7181",
+        "torchdde/step_size_controller/base.py": "12bd1aa22725dbf6c4e1b161887b3d4ee815120d3c5aa78a42ee25816f70dea7",
+        "torchdde/step_size_controller/constant.py": "79c7c35e0ec4c83646f53dc924df60fa6405b1e15874ff445e644685d9a9a943"
+      }
+    },
+    "architecture": {
+      "commit": "9b573c4bed5efee9fe9c6b765044dbd506b5bf07",
+      "tracked_sha256": {
+        ".gitignore": "1eab11160e173e69ebe27ad870397d4ec74acf42e3b46fafa308e1ae8c6a3d4d",
+        "README.md": "578bbb4641bf5818c3f3f40b1d96c8126624c63b7944e6e15bc54da2b35054d4",
+        "learnable_delays/__init__.py": "fac32710adcc96058435b0ce8d72ff800ad394e1fae60c5490766ca107053724",
+        "learnable_delays/bash_scripts/launch_brusselator_exp.sh": "d81b62f5925828371708e88b79ac93a80d0018bb410a901bd84eb0c6b085e377",
+        "learnable_delays/bash_scripts/launch_cavity_ablation_exp.sh": "8e1e6272a01a500799afd8e015859e1d7d8ff49023dbd7f8cd78dd65f4aea742",
+        "learnable_delays/bash_scripts/launch_cavity_exp.sh": "b82eb182370a1f236e9e218907a436f84c1ee9ef68b545e457a0754f7cf5d153",
+        "learnable_delays/bash_scripts/launch_generate_data.sh": "823cf4a30ffdedf18c1eed38cb2b5918a5e1ded6fc1eb663e3aa3a2733d8bf25",
+        "learnable_delays/bash_scripts/launch_ks_exp.sh": "918fa8f715057864e5c1a3dd2af2c126b70ed95a964a5d1c57501213c65c96e3",
+        "learnable_delays/bash_scripts/launch_processing_brusselator_exp.sh": "c433784ac8caca9b80d62a3ef12a3fd501a12ce4beaf57be14a0a57dfc15c446",
+        "learnable_delays/bash_scripts/launch_processing_cavity_ablation.sh": "a7c89b3b2e57ba9c49daa6e4f6f4e869bfb51d81244f43a69581e5078c8122bf",
+        "learnable_delays/bash_scripts/launch_processing_cavity_exp.sh": "94df7017c1194a588493bf27c6340dad831a122a46babe5c5a36334c81822c45",
+        "learnable_delays/bash_scripts/launch_processing_ks_exp.sh": "3fb42d88f7fbc2310b87eea0800eda6ffd4a16915ff0e9670e17261ab9190ccb",
+        "learnable_delays/brusselator.py": "309809c6440d37cc2407a0f63664bb005c955f25e3591f744cda098b013a30a0",
+        "learnable_delays/cavity.py": "87b5dd4d26a2a507cbd0ef68cfc49369d211809a1d5d114bd649dba502e665e5",
+        "learnable_delays/cavity_ablation.py": "d59883ed08507dd3e2faface613373b00520c86b72bef784fe2cc649e8dddb3b",
+        "learnable_delays/data_generation/__init__.py": "1022f8b2895ef85063b896cec5ee15376c035064c46680eb56787cdf7af3d4df",
+        "learnable_delays/data_generation/data_generator.py": "fb7d44edb33117a6b7b9e52420b96db75955ead48780db4e98ca84215b96b981",
+        "learnable_delays/data_generation/dynamical_systems.py": "986dbee28e5815a174387d5bc4df05d30ba3bafe373a992b3450a7f5eb17eda0",
+        "learnable_delays/ks.py": "3395cfa26954a7579a988c83f405835afd7ee1bf17cff02473d7939a70f05577",
+        "learnable_delays/models/__init__.py": "02d62d62913728b2af11ddaf0b20dc98ee9c38d6fa07dc9fe90d1dac60d39b02",
+        "learnable_delays/models/latent_ode.py": "a4589345990a44f5c0ec8a7ad371e9805c5e4080a58b4f41df127a169a4f60b5",
+        "learnable_delays/models/models.py": "a04d384517ea4216d97c6d00ea3171728c70a40615d85f57de1796a939331003",
+        "learnable_delays/results_processing/__init__.py": "00b55c1b94237407fc160f05031d8e8b5e7a0656ed3d33bd080d860a88b0f58f",
+        "learnable_delays/results_processing/brusselator.py": "2c15026f2c1ef76d3782dbfd9af11ec697255e8c896b18be4ecc3f17858417de",
+        "learnable_delays/results_processing/cavity.py": "9641e0bc97373cd1ad7904c6f6b09e8e1375ae0bfe4f6e096ecaf6433192046b",
+        "learnable_delays/results_processing/cavity_ablation.py": "431fceee6f042008debe048b04b9e2a38527a0465bc45237733fff54e549d7e3",
+        "learnable_delays/results_processing/ks.py": "3b6a71e7aabd2e3ff08c85bb16b37ceaa8abc86c158b91dd7025fdc53919b0fc",
+        "learnable_delays/results_processing/misc.py": "e00e7a52d679389478b4ca30b1db8ebd06324cdef9022e1438e0d90fadea5756",
+        "learnable_delays/trainer/__init__.py": "2b9860f7189b6b92f9b69a5ca27594eec0cd7ba97bba4c4c65ed60846592c2b2",
+        "learnable_delays/trainer/anode_trainer.py": "ced827433387bbaaefd7cec38a654faeb50f7f2171019b65dee3d4b4ed9de084",
+        "learnable_delays/trainer/base_trainer.py": "cf47d4e4d75f8cd36014f53ffabb214ecd722466b2c91ff66c05cf48b56c45e8",
+        "learnable_delays/trainer/dde_trainer.py": "dc562fe4cc7a168b513a013295d45f1078269af6fdf1d9af61b78e2fa4dbcd88",
+        "learnable_delays/trainer/latent_ode_trainer.py": "040331bff0150530a334b50f92ba889e163a2aaa87c51cc9c413f9d90446010c",
+        "learnable_delays/trainer/lstm_trainer.py": "5a2a5c9b9fa12d4a8c27bc9eb37a9cbfc60998df593f13671ec1270f7b9f8f60",
+        "learnable_delays/trainer/ode_trainer.py": "c0fdd16f9fb41da16a09523f9906411ec157701abbcf62dd65669295c4650664",
+        "pyproject.toml": "780c13e60babe71bf428b3d1c7845b41f2bb5f1a39e7b43d58f1c15308250d46",
+        "sshadd.sh": "26176f979b1b57bd662e35b20528e3381d0cd0cc85fbe8831e80ed99768c4e9c"
+      }
+    },
+    "runtime": {
+      "python": "3.12.14",
+      "torch": "2.10.0+cpu",
+      "numpy": "2.3.5",
+      "workers": 8,
+      "threads_per_worker": 1,
+      "device": "cpu"
+    }
+  },
+  "recovery_disclosure": "Original attempt outputs were lost during workspace maintenance. Its calibration completion and selected configurations were seen. This is a reconstructed rerun under the same scientific settings, with eight rather than four one-thread workers; not a fresh public preregistration."
+}

@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "Please cite the accompanying manuscript. Add journal and DOI details when available."
+title: "Identifiability-Aware Learning of State-Dependent Delays in Neural Differential Equations"
+type: software
+authors:
+  - family-names: "Altay"
+    given-names: "Aykut Tayyip"
+license: MIT

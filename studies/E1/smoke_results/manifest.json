@@ -1,0 +1,134 @@
+{
+  "frozen_before_training_utc": "2026-10-19T19:20:45.267587+00:00",
+  "signature": {
+    "config_file_sha256": "6621be2bec073f2361bcf92050371ca79f996cd8602175e4c61e02aceb169e7b",
+    "runner_sha256": "2236b0bd2ded9f64cc09abb02fee322f51fce565f48477dfbdb04215b464c18c",
+    "protocol_sha256": "40bddfd27e860bf7c7e131e50dbef1eab46dd5dfeadf6199e92b1fe571c65679",
+    "execution_config": {
+      "protocol_id": "ASOC-E1-v1.0",
+      "repository": "https://github.com/bilkentli88/NSDDNew.git",
+      "commit": "ee1014a80760dd720e680c7597a3b985f0f4b609",
+      "data_seeds": [
+        20260901
+      ],
+      "optimization_seeds": [
+        20261001
+      ],
+      "noise_std": 0.0005,
+      "train_states": [
+        -0.75,
+        -0.25,
+        0.25,
+        0.75
+      ],
+      "test_states": [
+        -0.5,
+        0.0,
+        0.5
+      ],
+      "delay_grid": [
+        -0.75,
+        0.75,
+        201
+      ],
+      "schedule": [
+        [
+          10,
+          2
+        ],
+        [
+          20,
+          2
+        ]
+      ],
+      "anchor_only_updates": 4,
+      "anchor_long_updates": 8,
+      "learning_rate": 0.002,
+      "weight_decay": 1e-06,
+      "anchor_weight": 0.08,
+      "smoothness_weight": 0.0002,
+      "gradient_clip": 5.0,
+      "smoothness_grid": [
+        -1.5,
+        1.5,
+        100
+      ],
+      "practical_ratio_threshold": 0.8,
+      "practical_min_dataset_wins": 4,
+      "neural_methods": [
+        "P3",
+        "P4",
+        "A1",
+        "A2"
+      ],
+      "direct_methods": [
+        "Linear",
+        "PCHIP"
+      ],
+      "smoke": {
+        "data_seeds": [
+          20260901
+        ],
+        "optimization_seeds": [
+          20261001
+        ],
+        "schedule": [
+          [
+            10,
+            2
+          ],
+          [
+            20,
+            2
+          ]
+        ],
+        "anchor_only_updates": 4,
+        "anchor_long_updates": 8
+      },
+      "execution_mode": "smoke"
+    },
+    "source_sha256": {
+      "sdde_core.py": "8cbec2eab5c90412f74728977107660a4dc12aa453f5e7d8a694a0634bda3b1f",
+      "numpy_data.py": "941f091c6f83f684abc364338ff3d76ccd320c4643e78b527e927cc28c4080be"
+    },
+    "python": "3.12.14",
+    "torch": "2.10.0+cpu",
+    "numpy": "2.4.2",
+    "pandas": "2.2.3",
+    "scipy": "1.17.0"
+  },
+  "archived_anchor_checks": [
+    {
+      "archived_data_seed": 20260901,
+      "anchor_mae_matches": true,
+      "history_and_initial_state_unchanged": true
+    },
+    {
+      "archived_data_seed": 20260902,
+      "anchor_mae_matches": true,
+      "history_and_initial_state_unchanged": true
+    },
+    {
+      "archived_data_seed": 20260903,
+      "anchor_mae_matches": true,
+      "history_and_initial_state_unchanged": true
+    },
+    {
+      "archived_data_seed": 20260904,
+      "anchor_mae_matches": true,
+      "history_and_initial_state_unchanged": true
+    },
+    {
+      "archived_data_seed": 20260905,
+      "anchor_mae_matches": true,
+      "history_and_initial_state_unchanged": true
+    }
+  ],
+  "primary_unit": "independently generated observation-noise dataset",
+  "device": "cpu",
+  "threads": 1,
+  "dtype": "float32",
+  "platform": "Linux-6.18.55-x86_64-with-glibc2.39",
+  "machine": "x86_64",
+  "processor": "x86_64"
+}

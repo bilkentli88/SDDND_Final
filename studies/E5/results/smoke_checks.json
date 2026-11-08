@@ -1,0 +1,32 @@
+[
+  {
+    "study": 1,
+    "state_derivative_retained": 0.018311716616153717,
+    "stage2_updates": 4,
+    "stage2_seconds": 0.03496584399999847,
+    "clipped_updates": 0,
+    "frozen_tau_sha256": "cf40a4218ee329e5ee002fd4056c92f03db4591fd12551547643a2211477065b",
+    "tau_unchanged": true,
+    "field_parameters_updated": true
+  },
+  {
+    "study": 2,
+    "state_derivative_retained": 0.004617561120539904,
+    "stage2_updates": 4,
+    "stage2_seconds": 0.08045403699998133,
+    "clipped_updates": 0,
+    "frozen_tau_sha256": "e009108980632a838fce3126abe40cdbafcc96cfcbc8f4a5ffe8d43e8182f4bf",
+    "tau_unchanged": true,
+    "field_parameters_updated": true
+  },
+  {
+    "study": 3,
+    "state_derivative_retained": -0.0008379656355828047,
+    "stage2_updates": 4,
+    "stage2_seconds": 0.1743713089999801,
+    "clipped_updates": 0,
+    "frozen_tau_sha256": "d17d3889abd4c9a76ee071ffec95d76c039a002a9739f1f65b318098db13d9c2",
+    "tau_unchanged": true,
+    "field_parameters_updated": true
+  }
+]

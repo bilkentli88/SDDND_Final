@@ -1,0 +1,62 @@
+PASS: five archived anchor checks, direct-interpolant and exact-history checks.
+TRAIN P3_data20260901_opt20261001
+DONE P3_data20260901_opt20261001: delay_RMSE=0.0362607
+TRAIN P4_data20260901_opt20261001
+DONE P4_data20260901_opt20261001: delay_RMSE=0.0363206
+TRAIN A1_data20260901_opt20261001
+DONE A1_data20260901_opt20261001: delay_RMSE=0.0364922
+TRAIN A2_data20260901_opt20261001
+DONE A2_data20260901_opt20261001: delay_RMSE=0.0333369
+{
+  "complete": true,
+  "mode": "smoke",
+  "independent_noise_datasets": 1,
+  "optimization_repeats_per_dataset": 1,
+  "recorded_neural_fits": 4,
+  "recorded_direct_functions": 2,
+  "failed_fits": 0,
+  "dataset_comparisons": {
+    "A1": {
+      "complete_datasets": 1,
+      "median_dataset_ratio": 0.993655697974585,
+      "min_dataset_ratio": 0.993655697974585,
+      "max_dataset_ratio": 0.993655697974585,
+      "datasets_with_P3_improvement": 1,
+      "descriptive_criterion_met": false
+    },
+    "A2": {
+      "complete_datasets": 1,
+      "median_dataset_ratio": 1.0877026546155222,
+      "min_dataset_ratio": 1.0877026546155222,
+      "max_dataset_ratio": 1.0877026546155222,
+      "datasets_with_P3_improvement": 0,
+      "descriptive_criterion_met": false
+    },
+    "P4": {
+      "complete_datasets": 1,
+      "median_dataset_ratio": 0.998349689017742,
+      "min_dataset_ratio": 0.998349689017742,
+      "max_dataset_ratio": 0.998349689017742,
+      "datasets_with_P3_improvement": 1,
+      "descriptive_criterion_met": false
+    },
+    "Linear": {
+      "complete_datasets": 1,
+      "median_dataset_ratio": 2.5078636260842124,
+      "min_dataset_ratio": 2.5078636260842124,
+      "max_dataset_ratio": 2.5078636260842124,
+      "datasets_with_P3_improvement": 0,
+      "descriptive_criterion_met": false
+    },
+    "PCHIP": {
+      "complete_datasets": 1,
+      "median_dataset_ratio": 2.3501722773070033,
+      "min_dataset_ratio": 2.3501722773070033,
+      "max_dataset_ratio": 2.3501722773070033,
+      "datasets_with_P3_improvement": 0,
+      "descriptive_criterion_met": false
+    }
+  },
+  "consistent_practical_joint_advantage": null,
+  "inference": "Descriptive only; no statistical confidence or deterministic certification."
+}

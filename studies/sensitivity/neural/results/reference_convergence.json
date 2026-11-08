@@ -1,0 +1,13 @@
+{
+  "selected_step": 0.00125,
+  "tolerance": 1e-06,
+  "comparisons": [
+    {
+      "coarser_step": 0.0025,
+      "finer_step": 0.00125,
+      "max_observation_difference": 1.5604909542332734e-07,
+      "passes": true
+    }
+  ],
+  "scope": "Empirical convergence at observation times; not a rigorous solver-error enclosure."
+}

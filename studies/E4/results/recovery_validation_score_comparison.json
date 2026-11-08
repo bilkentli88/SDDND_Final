@@ -1,0 +1,38 @@
+{
+  "scope": "Comparison to eight selected mean validation scores printed in the lost original attempt; not recovery of all original individual records.",
+  "all_eight_selected_scores_match_exactly": true,
+  "cells": {
+    "External-C|sigma0.0005": {
+      "earlier_printed_mean": 2.3249301067415715e-06,
+      "rerun_mean": 2.3249301067415715e-06
+    },
+    "External-C|sigma0.0015": {
+      "earlier_printed_mean": 4.0318054515784495e-06,
+      "rerun_mean": 4.0318054515784495e-06
+    },
+    "External-C+anchors|sigma0.0005": {
+      "earlier_printed_mean": 2.8001788299829437e-06,
+      "rerun_mean": 2.8001788299829437e-06
+    },
+    "External-C+anchors|sigma0.0015": {
+      "earlier_printed_mean": 5.706734779372725e-06,
+      "rerun_mean": 5.706734779372725e-06
+    },
+    "Structured-C|sigma0.0005": {
+      "earlier_printed_mean": 3.1397213615487872e-06,
+      "rerun_mean": 3.1397213615487872e-06
+    },
+    "Structured-C|sigma0.0015": {
+      "earlier_printed_mean": 4.763311174585897e-06,
+      "rerun_mean": 4.763311174585897e-06
+    },
+    "Structured-C+anchors|sigma0.0005": {
+      "earlier_printed_mean": 4.956438912449858e-06,
+      "rerun_mean": 4.956438912449858e-06
+    },
+    "Structured-C+anchors|sigma0.0015": {
+      "earlier_printed_mean": 5.64599384546304e-06,
+      "rerun_mean": 5.64599384546304e-06
+    }
+  }
+}

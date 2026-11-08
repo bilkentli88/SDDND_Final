@@ -1,0 +1,12 @@
+{
+  "scope": "Analytic design quantities and execution checks, not noisy learning performance.",
+  "target_state_gain_magnitude_lower_bound": 0.33,
+  "centered_history_norm_lower_bound": 0.11885097586973159,
+  "ideal_unsquared_profile_separation_lower_bound": 0.05855092348948036,
+  "analytic_true_solution_positive_box": [
+    0.09611846889972403,
+    3.60499922873572
+  ],
+  "preparation_tests_passed": 11,
+  "reserved_seed_smoke_complete": true
+}

@@ -1,0 +1,11 @@
+{
+  "status": "passed",
+  "checkpoints_replayed": 8,
+  "calibration_records": 4,
+  "final_records": 4,
+  "observation_datasets": 2,
+  "direct_estimates": 1,
+  "checks": 307,
+  "maximum_metric_difference": 0.0,
+  "scope": "Consistency replay with independent score/selection arithmetic; shared architecture/solver, not independent research replication."
+}

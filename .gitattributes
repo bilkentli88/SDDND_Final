@@ -1,0 +1,3 @@
+# Preserve the exact bytes of archived sources, data and checksummed records.
+# Disable automatic LF/CRLF conversion on checkout and commit.
+* -text

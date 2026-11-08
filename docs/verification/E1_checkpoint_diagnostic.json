@@ -1,0 +1,46 @@
+{
+  "status": "diagnostic_completed",
+  "study": "E1",
+  "checkpoint_evaluations": 60,
+  "runtime": {
+    "python": "3.12.14",
+    "torch": "2.10.0+cpu",
+    "numpy": "2.4.2",
+    "cpu_capability": "AVX512",
+    "threads": 1
+  },
+  "bitwise_or_strict_audit_pass_claimed": false,
+  "differences": {
+    "delay_curve": {
+      "values": 12060,
+      "different_values": 920,
+      "maximum_absolute_difference": 5.960464477539063e-08,
+      "maximum_relative_difference_nonzero_reference": 2.11319855212088e-07
+    },
+    "delay_rmse": {
+      "values": 60,
+      "different_values": 60,
+      "maximum_absolute_difference": 1.350145278564141e-09,
+      "maximum_relative_difference_nonzero_reference": 3.31688539433843e-07
+    },
+    "clean_train_mse": {
+      "values": 30,
+      "different_values": 30,
+      "maximum_absolute_difference": 1.178419424215961e-10,
+      "maximum_relative_difference_nonzero_reference": 6.394479865215181e-06
+    },
+    "clean_test_mse": {
+      "values": 30,
+      "different_values": 30,
+      "maximum_absolute_difference": 2.2181507745486738e-10,
+      "maximum_relative_difference_nonzero_reference": 5.580978505582277e-06
+    },
+    "noisy_test_mse": {
+      "values": 30,
+      "different_values": 30,
+      "maximum_absolute_difference": 2.2017276234609015e-10,
+      "maximum_relative_difference_nonzero_reference": 5.032140881072814e-06
+    }
+  },
+  "scope": "Measures numeric drift using retained sources and weights. Frozen strict audits and records are unchanged; no tolerance-based pass verdict is assigned."
+}

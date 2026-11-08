@@ -1,0 +1,7 @@
+# Generated runs and dependency checkouts
+/generated/
+/.repro-deps/
+/.venv*/
+__pycache__/
+*.py[cod]
+.pytest_cache/

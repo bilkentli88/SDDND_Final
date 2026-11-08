@@ -1,0 +1,23 @@
+{
+  "status": "passed",
+  "scope": "Old-seed reduced-budget execution check; excluded from scientific results.",
+  "neural_fits": 4,
+  "direct_functions": 2,
+  "all_initial_delay_hashes_identical": true,
+  "all_neural_outputs_finite": true,
+  "updates": {
+    "P3": 4,
+    "P4": 4,
+    "A1": 4,
+    "A2": 8
+  },
+  "software": {
+    "python": "3.12.14",
+    "torch": "2.10.0+cpu",
+    "numpy": "2.4.2",
+    "pandas": "2.2.3",
+    "scipy": "1.17.0"
+  },
+  "runner_sha256": "2236b0bd2ded9f64cc09abb02fee322f51fce565f48477dfbdb04215b464c18c",
+  "protocol_sha256": "40bddfd27e860bf7c7e131e50dbef1eab46dd5dfeadf6199e92b1fe571c65679"
+}

@@ -1,0 +1,19 @@
+{
+ "protocol_id":"ASOC-E4-recovery-v1",
+ "generator":{"growth":1.1,"capacity":1.5,"true_delay":0.28},
+ "delay_bounds":[0.15,0.5],"initial_delay":0.325,
+ "history_amplitude":0.18,"history_frequency":3.141592653589793,
+ "history_c":[-1.0,0.0,1.0,0.0],"history_d":[0.0,1.0,0.0,-1.0],
+ "train_states":[0.45,0.7,0.95,1.2],"validation_states":[0.55,0.8,1.05],"test_states":[0.575,0.825,1.075],
+ "horizon":1.0,"observation_step":0.05,"fine_observation_step":0.025,"training_step":0.025,
+ "evaluation_steps":[0.025,0.0125,0.00625],"reference_steps":[0.0025,0.00125,0.000625,0.0003125],"reference_tolerance":0.000001,
+ "noise_levels":[0.0005,0.0015],"delay_profile_points":351,"slope_window_duration":0.2,"slope_polynomial_degree":2,"geometry_norm_threshold":0.00000001,
+ "methods":["External-C","External-C+anchors","Structured-C","Structured-C+anchors"],
+ "learning_rates":[0.0005,0.002],"schedules":{"280":[[0.5,90],[1.0,190]],"1200":[[0.5,400],[1.0,800]]},
+ "anchor_weight":0.08,"field_weight_decay":0.000001,"gradient_clip":5.0,
+ "calibration_data_seeds":[20261501,20261502],"calibration_model_seed":20261511,
+ "final_data_seeds":[20261401,20261402,20261403,20261404,20261405],"optimization_seeds":[20261411,20261412,20261413],
+ "workers":8,"threads_per_worker":1,
+ "solver_commit":"4888c63dc84e966f6c6553277adc3851a2cca4fc","architecture_source_commit":"9b573c4bed5efee9fe9c6b765044dbd506b5bf07",
+ "smoke":{"noise_levels":[0.0005],"learning_rates":[0.002],"schedules":{"4":[[0.5,2],[1.0,2]]},"calibration_data_seeds":[930001],"calibration_model_seed":930002,"final_data_seeds":[930101],"optimization_seeds":[930102]}
+}

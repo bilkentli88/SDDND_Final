@@ -1,0 +1,64 @@
+{
+  "status": "diagnostic_completed",
+  "study": "E2",
+  "checkpoint_evaluations": 180,
+  "runtime": {
+    "python": "3.12.14",
+    "torch": "2.10.0+cpu",
+    "numpy": "2.4.2",
+    "cpu_capability": "AVX512",
+    "threads": 1
+  },
+  "bitwise_or_strict_audit_pass_claimed": false,
+  "differences": {
+    "delay_curve": {
+      "values": 36180,
+      "different_values": 4531,
+      "maximum_absolute_difference": 8.940696716308594e-08,
+      "maximum_relative_difference_nonzero_reference": 2.366203888453836e-07
+    },
+    "delay_rmse": {
+      "values": 180,
+      "different_values": 180,
+      "maximum_absolute_difference": 2.9188599592888664e-09,
+      "maximum_relative_difference_nonzero_reference": 1.3678750669932292e-07
+    },
+    "clean_train_mse": {
+      "values": 120,
+      "different_values": 110,
+      "maximum_absolute_difference": 1.9082232628883297e-09,
+      "maximum_relative_difference_nonzero_reference": 9.519559586059075e-06
+    },
+    "observed_train_mse": {
+      "values": 120,
+      "different_values": 110,
+      "maximum_absolute_difference": 1.9097300273823205e-09,
+      "maximum_relative_difference_nonzero_reference": 8.295314158343016e-06
+    },
+    "clean_test_mse": {
+      "values": 120,
+      "different_values": 108,
+      "maximum_absolute_difference": 1.7869314498963115e-09,
+      "maximum_relative_difference_nonzero_reference": 7.780912110241605e-05
+    },
+    "observed_test_mse": {
+      "values": 120,
+      "different_values": 108,
+      "maximum_absolute_difference": 1.7899082563468472e-09,
+      "maximum_relative_difference_nonzero_reference": 6.606176907934498e-05
+    },
+    "minimum_predicted_state": {
+      "values": 120,
+      "different_values": 0,
+      "maximum_absolute_difference": 0.0,
+      "maximum_relative_difference_nonzero_reference": 0.0
+    },
+    "nonpositive_prediction_count": {
+      "values": 120,
+      "different_values": 0,
+      "maximum_absolute_difference": 0.0,
+      "maximum_relative_difference_nonzero_reference": 0.0
+    }
+  },
+  "scope": "Measures numeric drift using retained sources and weights. Frozen strict audits and records are unchanged; no tolerance-based pass verdict is assigned."
+}

@@ -1,0 +1,62 @@
+{
+  "mode": "smoke",
+  "complete": true,
+  "independent_base_noise_replications": 1,
+  "optimization_repeats_per_dataset": 1,
+  "conditions_paired_across_noise_and_history": true,
+  "trained_neural_fits": 6,
+  "direct_functions": 2,
+  "structural_abstention_records": 4,
+  "numerical_failures": 0,
+  "degenerate_P3_P4_pairs_equal": 1,
+  "degenerate_P3_P4_pairs_expected": 1,
+  "per_noise": {
+    "0.0005": {
+      "dataset_comparisons": {
+        "A1": {
+          "complete_datasets": 1,
+          "median_dataset_ratio": 0.9895363453165648,
+          "min_dataset_ratio": 0.9895363453165648,
+          "max_dataset_ratio": 0.9895363453165648,
+          "datasets_with_P3_improvement": 1,
+          "descriptive_criterion_met": false
+        },
+        "A2": {
+          "complete_datasets": 1,
+          "median_dataset_ratio": 0.7655177544569337,
+          "min_dataset_ratio": 0.7655177544569337,
+          "max_dataset_ratio": 0.7655177544569337,
+          "datasets_with_P3_improvement": 1,
+          "descriptive_criterion_met": false
+        },
+        "P4": {
+          "complete_datasets": 1,
+          "median_dataset_ratio": 1.0018323084016578,
+          "min_dataset_ratio": 1.0018323084016578,
+          "max_dataset_ratio": 1.0018323084016578,
+          "datasets_with_P3_improvement": 0,
+          "descriptive_criterion_met": false
+        },
+        "Linear": {
+          "complete_datasets": 1,
+          "median_dataset_ratio": 0.8899221534971521,
+          "min_dataset_ratio": 0.8899221534971521,
+          "max_dataset_ratio": 0.8899221534971521,
+          "datasets_with_P3_improvement": 1,
+          "descriptive_criterion_met": false
+        },
+        "PCHIP": {
+          "complete_datasets": 1,
+          "median_dataset_ratio": 0.8518704454317857,
+          "min_dataset_ratio": 0.8518704454317857,
+          "max_dataset_ratio": 0.8518704454317857,
+          "datasets_with_P3_improvement": 1,
+          "descriptive_criterion_met": false
+        }
+      },
+      "consistent_practical_joint_advantage": null
+    }
+  },
+  "consistent_practical_joint_advantage_at_both_noise_levels": null,
+  "inference": "Descriptive controlled study. No calibrated confidence or deterministic certification."
+}

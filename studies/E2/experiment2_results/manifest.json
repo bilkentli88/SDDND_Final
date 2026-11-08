@@ -1,0 +1,160 @@
+{
+  "frozen_before_reference_generation_utc": "2026-10-19T20:08:10.187979+00:00",
+  "signature": {
+    "config_file_sha256": "faa10bf03ab83580bd42f2f81b71debc846a204b86f50865eca375e07e575a89",
+    "source_sha256": {
+      "run_experiment2.py": "1d384558819daad52fc267f1c265a8af80b671e4129be00323a70fe2f84261f5",
+      "e2_data.py": "ed222bcd42e1a76a797c7f73942dd6453419726293cb614dc75579e3dcacf30c",
+      "e2_neural.py": "c42713358afbf73274f72c8cb7a9a19349e194b5fdad9ac5094aa7f24f6149c7",
+      "ASOC_Experiment2_Protocol.md": "80f3babcd54b72b9a1ceac1a3a16e14029bab017aa98db742aeb8f08c8e1cbbd",
+      "ASOC_Experiment2_Model_Check.md": "24888d1639fbeae1f269518a8c1609437e5954c9f0fce5c27f970c0971584152"
+    },
+    "execution_config": {
+      "protocol_id": "ASOC-E2-v1.0",
+      "model": {
+        "growth": 1.1,
+        "capacity": 1.5,
+        "tau_center": 0.28,
+        "tau_amplitude": 0.07,
+        "tau_slope": 2.0,
+        "tau_state_center": 0.8
+      },
+      "delay_bounds": [
+        0.15,
+        0.5
+      ],
+      "history_amplitude": 0.18,
+      "history_frequency": 3.141592653589793,
+      "history_c": [
+        -1.0,
+        0.0,
+        1.0,
+        0.0
+      ],
+      "history_d": [
+        0.0,
+        1.0,
+        0.0,
+        -1.0
+      ],
+      "train_states": [
+        0.45,
+        0.7,
+        0.95,
+        1.2
+      ],
+      "test_states": [
+        0.575,
+        0.825,
+        1.075
+      ],
+      "horizon": 1.0,
+      "observation_step": 0.05,
+      "rollout_step": 0.025,
+      "reference_steps": [
+        0.0025,
+        0.00125,
+        0.000625,
+        0.0003125
+      ],
+      "reference_tolerance": 1e-06,
+      "delay_profile_points": 351,
+      "geometry_norm_threshold": 1e-08,
+      "slope_window_points": 5,
+      "slope_polynomial_degree": 2,
+      "delay_grid": [
+        0.45,
+        1.2,
+        201
+      ],
+      "noise_levels": [
+        0.0005,
+        0.0015
+      ],
+      "data_seeds": [
+        20261201,
+        20261202,
+        20261203,
+        20261204,
+        20261205
+      ],
+      "optimization_seeds": [
+        20261211,
+        20261212,
+        20261213
+      ],
+      "designs": [
+        "informative",
+        "degenerate"
+      ],
+      "schedule": [
+        [
+          10,
+          90
+        ],
+        [
+          20,
+          190
+        ]
+      ],
+      "anchor_only_updates": 280,
+      "anchor_long_updates": 1200,
+      "learning_rate": 0.002,
+      "weight_decay": 1e-06,
+      "anchor_weight": 0.08,
+      "smoothness_weight": 0.0002,
+      "gradient_clip": 5.0,
+      "smoothness_grid": [
+        0.45,
+        1.2,
+        100
+      ],
+      "practical_ratio_threshold": 0.8,
+      "practical_min_dataset_wins": 4,
+      "neural_methods": [
+        "P3",
+        "P4",
+        "A1",
+        "A2"
+      ],
+      "direct_methods": [
+        "Linear",
+        "PCHIP"
+      ],
+      "smoke": {
+        "data_seeds": [
+          900001
+        ],
+        "optimization_seeds": [
+          900002
+        ],
+        "noise_levels": [
+          0.0005
+        ],
+        "schedule": [
+          [
+            10,
+            2
+          ],
+          [
+            20,
+            2
+          ]
+        ],
+        "anchor_only_updates": 4,
+        "anchor_long_updates": 8
+      },
+      "execution_mode": "full"
+    },
+    "python": "3.12.14",
+    "torch": "2.10.0+cpu",
+    "numpy": "2.4.2",
+    "pandas": "2.2.3",
+    "scipy": "1.17.0"
+  },
+  "device": "cpu",
+  "threads": 1,
+  "dtype": "float32",
+  "platform": "Linux-6.18.55-x86_64-with-glibc2.39",
+  "interpretation": "Internal prospective protocol; not public preregistration."
+}

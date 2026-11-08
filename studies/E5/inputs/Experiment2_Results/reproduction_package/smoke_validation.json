@@ -1,0 +1,9 @@
+{
+  "scope": "Reserved-seed smoke check, excluded from scientific results.",
+  "status": "passed",
+  "trained_neural_fits": 6,
+  "direct_functions": 2,
+  "structural_abstention_records": 4,
+  "degenerate_P3_P4_pairs_equal": 1,
+  "algebra_gradient_accounting_tests_passed": 11
+}

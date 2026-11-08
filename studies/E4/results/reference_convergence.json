@@ -1,0 +1,14 @@
+{
+  "selected_step": 0.00125,
+  "comparisons": [
+    {
+      "coarser_step": 0.0025,
+      "finer_step": 0.00125,
+      "max_difference": 7.706591675926688e-08,
+      "passes": true
+    }
+  ],
+  "tolerance": 1e-06,
+  "observation_grid_step": 0.025,
+  "scope": "Empirical 40-trajectory convergence, not a rigorous enclosure."
+}

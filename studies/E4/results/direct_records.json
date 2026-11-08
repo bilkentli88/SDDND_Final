@@ -1,0 +1,72 @@
+[
+  {
+    "method": "Anchor-C",
+    "noise_std": 0.0005,
+    "data_seed": 20261401,
+    "estimated_delay": 0.23249999999999998,
+    "absolute_delay_error": 0.04750000000000004
+  },
+  {
+    "method": "Anchor-C",
+    "noise_std": 0.0005,
+    "data_seed": 20261402,
+    "estimated_delay": 0.26349999999999996,
+    "absolute_delay_error": 0.01650000000000007
+  },
+  {
+    "method": "Anchor-C",
+    "noise_std": 0.0005,
+    "data_seed": 20261403,
+    "estimated_delay": 0.27049999999999996,
+    "absolute_delay_error": 0.009500000000000064
+  },
+  {
+    "method": "Anchor-C",
+    "noise_std": 0.0005,
+    "data_seed": 20261404,
+    "estimated_delay": 0.25025,
+    "absolute_delay_error": 0.029750000000000054
+  },
+  {
+    "method": "Anchor-C",
+    "noise_std": 0.0005,
+    "data_seed": 20261405,
+    "estimated_delay": 0.2335,
+    "absolute_delay_error": 0.046500000000000014
+  },
+  {
+    "method": "Anchor-C",
+    "noise_std": 0.0015,
+    "data_seed": 20261401,
+    "estimated_delay": 0.17725000000000002,
+    "absolute_delay_error": 0.10275000000000001
+  },
+  {
+    "method": "Anchor-C",
+    "noise_std": 0.0015,
+    "data_seed": 20261402,
+    "estimated_delay": 0.27575000000000005,
+    "absolute_delay_error": 0.004249999999999976
+  },
+  {
+    "method": "Anchor-C",
+    "noise_std": 0.0015,
+    "data_seed": 20261403,
+    "estimated_delay": 0.28875,
+    "absolute_delay_error": 0.00874999999999998
+  },
+  {
+    "method": "Anchor-C",
+    "noise_std": 0.0015,
+    "data_seed": 20261404,
+    "estimated_delay": 0.24325,
+    "absolute_delay_error": 0.03675000000000003
+  },
+  {
+    "method": "Anchor-C",
+    "noise_std": 0.0015,
+    "data_seed": 20261405,
+    "estimated_delay": 0.22274999999999998,
+    "absolute_delay_error": 0.05725000000000005
+  }
+]

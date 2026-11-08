@@ -1,0 +1,286 @@
+{
+  "locked_utc": "2026-10-20T09:02:13.344130+00:00",
+  "calibration_records_sha256": "e544e1d3b301f37fd7a05bd0fe0df4026e84698459644a1df047f3935566ea74",
+  "selections": {
+    "External-C|sigma0.0005": {
+      "selected": {
+        "learning_rate": 0.0005,
+        "budget": 1200,
+        "eligible": true,
+        "score": 2.3249301067415715e-06
+      },
+      "trials": [
+        {
+          "learning_rate": 0.0005,
+          "budget": 280,
+          "eligible": true,
+          "score": 6.996180713626709e-05
+        },
+        {
+          "learning_rate": 0.0005,
+          "budget": 1200,
+          "eligible": true,
+          "score": 2.3249301067415715e-06
+        },
+        {
+          "learning_rate": 0.002,
+          "budget": 280,
+          "eligible": true,
+          "score": 3.250744882762327e-05
+        },
+        {
+          "learning_rate": 0.002,
+          "budget": 1200,
+          "eligible": true,
+          "score": 2.4329986447669362e-06
+        }
+      ],
+      "available": true
+    },
+    "External-C|sigma0.0015": {
+      "selected": {
+        "learning_rate": 0.002,
+        "budget": 1200,
+        "eligible": true,
+        "score": 4.0318054515784495e-06
+      },
+      "trials": [
+        {
+          "learning_rate": 0.0005,
+          "budget": 280,
+          "eligible": true,
+          "score": 7.085049643812821e-05
+        },
+        {
+          "learning_rate": 0.0005,
+          "budget": 1200,
+          "eligible": true,
+          "score": 4.165010083699083e-06
+        },
+        {
+          "learning_rate": 0.002,
+          "budget": 280,
+          "eligible": true,
+          "score": 1.2855749118097156e-05
+        },
+        {
+          "learning_rate": 0.002,
+          "budget": 1200,
+          "eligible": true,
+          "score": 4.0318054515784495e-06
+        }
+      ],
+      "available": true
+    },
+    "External-C+anchors|sigma0.0005": {
+      "selected": {
+        "learning_rate": 0.002,
+        "budget": 1200,
+        "eligible": true,
+        "score": 2.8001788299829437e-06
+      },
+      "trials": [
+        {
+          "learning_rate": 0.0005,
+          "budget": 280,
+          "eligible": true,
+          "score": 9.638695935496013e-05
+        },
+        {
+          "learning_rate": 0.0005,
+          "budget": 1200,
+          "eligible": true,
+          "score": 3.673874602091067e-06
+        },
+        {
+          "learning_rate": 0.002,
+          "budget": 280,
+          "eligible": true,
+          "score": 5.026464991041869e-05
+        },
+        {
+          "learning_rate": 0.002,
+          "budget": 1200,
+          "eligible": true,
+          "score": 2.8001788299829437e-06
+        }
+      ],
+      "available": true
+    },
+    "External-C+anchors|sigma0.0015": {
+      "selected": {
+        "learning_rate": 0.002,
+        "budget": 1200,
+        "eligible": true,
+        "score": 5.706734779372725e-06
+      },
+      "trials": [
+        {
+          "learning_rate": 0.0005,
+          "budget": 280,
+          "eligible": true,
+          "score": 9.174809705419845e-05
+        },
+        {
+          "learning_rate": 0.0005,
+          "budget": 1200,
+          "eligible": true,
+          "score": 6.446229262605827e-06
+        },
+        {
+          "learning_rate": 0.002,
+          "budget": 280,
+          "eligible": true,
+          "score": 3.803996846439568e-05
+        },
+        {
+          "learning_rate": 0.002,
+          "budget": 1200,
+          "eligible": true,
+          "score": 5.706734779372725e-06
+        }
+      ],
+      "available": true
+    },
+    "Structured-C|sigma0.0005": {
+      "selected": {
+        "learning_rate": 0.002,
+        "budget": 1200,
+        "eligible": true,
+        "score": 3.1397213615487872e-06
+      },
+      "trials": [
+        {
+          "learning_rate": 0.0005,
+          "budget": 280,
+          "eligible": true,
+          "score": 0.00021888401879582349
+        },
+        {
+          "learning_rate": 0.0005,
+          "budget": 1200,
+          "eligible": true,
+          "score": 6.977329082764356e-06
+        },
+        {
+          "learning_rate": 0.002,
+          "budget": 280,
+          "eligible": true,
+          "score": 7.05971807649927e-05
+        },
+        {
+          "learning_rate": 0.002,
+          "budget": 1200,
+          "eligible": true,
+          "score": 3.1397213615487872e-06
+        }
+      ],
+      "available": true
+    },
+    "Structured-C|sigma0.0015": {
+      "selected": {
+        "learning_rate": 0.002,
+        "budget": 1200,
+        "eligible": true,
+        "score": 4.763311174585897e-06
+      },
+      "trials": [
+        {
+          "learning_rate": 0.0005,
+          "budget": 280,
+          "eligible": true,
+          "score": 0.00022208177340177093
+        },
+        {
+          "learning_rate": 0.0005,
+          "budget": 1200,
+          "eligible": true,
+          "score": 8.67340818480744e-06
+        },
+        {
+          "learning_rate": 0.002,
+          "budget": 280,
+          "eligible": true,
+          "score": 7.278234247208443e-05
+        },
+        {
+          "learning_rate": 0.002,
+          "budget": 1200,
+          "eligible": true,
+          "score": 4.763311174585897e-06
+        }
+      ],
+      "available": true
+    },
+    "Structured-C+anchors|sigma0.0005": {
+      "selected": {
+        "learning_rate": 0.002,
+        "budget": 1200,
+        "eligible": true,
+        "score": 4.956438912449858e-06
+      },
+      "trials": [
+        {
+          "learning_rate": 0.0005,
+          "budget": 280,
+          "eligible": true,
+          "score": 0.00022380105208410396
+        },
+        {
+          "learning_rate": 0.0005,
+          "budget": 1200,
+          "eligible": true,
+          "score": 8.114674660124571e-06
+        },
+        {
+          "learning_rate": 0.002,
+          "budget": 280,
+          "eligible": true,
+          "score": 7.68199955866203e-05
+        },
+        {
+          "learning_rate": 0.002,
+          "budget": 1200,
+          "eligible": true,
+          "score": 4.956438912449858e-06
+        }
+      ],
+      "available": true
+    },
+    "Structured-C+anchors|sigma0.0015": {
+      "selected": {
+        "learning_rate": 0.002,
+        "budget": 1200,
+        "eligible": true,
+        "score": 5.64599384546304e-06
+      },
+      "trials": [
+        {
+          "learning_rate": 0.0005,
+          "budget": 280,
+          "eligible": true,
+          "score": 0.00022463492169115052
+        },
+        {
+          "learning_rate": 0.0005,
+          "budget": 1200,
+          "eligible": true,
+          "score": 9.691322086333112e-06
+        },
+        {
+          "learning_rate": 0.002,
+          "budget": 280,
+          "eligible": true,
+          "score": 7.606646927611998e-05
+        },
+        {
+          "learning_rate": 0.002,
+          "budget": 1200,
+          "eligible": true,
+          "score": 5.64599384546304e-06
+        }
+      ],
+      "available": true
+    }
+  }
+}

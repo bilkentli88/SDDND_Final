@@ -1,0 +1,1230 @@
+[
+  {
+    "check": "frozen protocol.json",
+    "passed": true
+  },
+  {
+    "check": "frozen PROTOCOL.md",
+    "passed": true
+  },
+  {
+    "check": "frozen e4_data.py",
+    "passed": true
+  },
+  {
+    "check": "frozen e4_neural.py",
+    "passed": true
+  },
+  {
+    "check": "frozen e4_analysis.py",
+    "passed": true
+  },
+  {
+    "check": "frozen run.py",
+    "passed": true
+  },
+  {
+    "check": "frozen audit.py",
+    "passed": true
+  },
+  {
+    "check": "frozen validate.py",
+    "passed": true
+  },
+  {
+    "check": "solver provenance",
+    "passed": true
+  },
+  {
+    "check": "architecture provenance",
+    "passed": true
+  },
+  {
+    "check": "runtime torch",
+    "passed": true
+  },
+  {
+    "check": "runtime numpy",
+    "passed": true
+  },
+  {
+    "check": "reference",
+    "passed": true
+  },
+  {
+    "check": "data/0.0005/930001/train/clean",
+    "passed": true
+  },
+  {
+    "check": "data/0.0005/930001/train/noisy",
+    "passed": true
+  },
+  {
+    "check": "data/0.0005/930001/train/fine_clean",
+    "passed": true
+  },
+  {
+    "check": "data/0.0005/930001/train/fine_noisy",
+    "passed": true
+  },
+  {
+    "check": "meta/0.0005/930001/train/s",
+    "passed": true
+  },
+  {
+    "check": "meta/0.0005/930001/train/c",
+    "passed": true
+  },
+  {
+    "check": "meta/0.0005/930001/train/d",
+    "passed": true
+  },
+  {
+    "check": "data/0.0005/930001/validation/clean",
+    "passed": true
+  },
+  {
+    "check": "data/0.0005/930001/validation/noisy",
+    "passed": true
+  },
+  {
+    "check": "data/0.0005/930001/validation/fine_clean",
+    "passed": true
+  },
+  {
+    "check": "data/0.0005/930001/validation/fine_noisy",
+    "passed": true
+  },
+  {
+    "check": "meta/0.0005/930001/validation/s",
+    "passed": true
+  },
+  {
+    "check": "meta/0.0005/930001/validation/c",
+    "passed": true
+  },
+  {
+    "check": "meta/0.0005/930001/validation/d",
+    "passed": true
+  },
+  {
+    "check": "data/0.0005/930001/test/clean",
+    "passed": true
+  },
+  {
+    "check": "data/0.0005/930001/test/noisy",
+    "passed": true
+  },
+  {
+    "check": "data/0.0005/930001/test/fine_clean",
+    "passed": true
+  },
+  {
+    "check": "data/0.0005/930001/test/fine_noisy",
+    "passed": true
+  },
+  {
+    "check": "meta/0.0005/930001/test/s",
+    "passed": true
+  },
+  {
+    "check": "meta/0.0005/930001/test/c",
+    "passed": true
+  },
+  {
+    "check": "meta/0.0005/930001/test/d",
+    "passed": true
+  },
+  {
+    "check": "anchors/0.0005/930001/delays",
+    "passed": true
+  },
+  {
+    "check": "anchors/0.0005/930001/slope_estimates",
+    "passed": true
+  },
+  {
+    "check": "anchors/0.0005/930001/profiles",
+    "passed": true
+  },
+  {
+    "check": "anchors/0.0005/930001/minimum_signature_norm",
+    "passed": true
+  },
+  {
+    "check": "data/0.0005/930101/train/clean",
+    "passed": true
+  },
+  {
+    "check": "data/0.0005/930101/train/noisy",
+    "passed": true
+  },
+  {
+    "check": "data/0.0005/930101/train/fine_clean",
+    "passed": true
+  },
+  {
+    "check": "data/0.0005/930101/train/fine_noisy",
+    "passed": true
+  },
+  {
+    "check": "meta/0.0005/930101/train/s",
+    "passed": true
+  },
+  {
+    "check": "meta/0.0005/930101/train/c",
+    "passed": true
+  },
+  {
+    "check": "meta/0.0005/930101/train/d",
+    "passed": true
+  },
+  {
+    "check": "data/0.0005/930101/validation/clean",
+    "passed": true
+  },
+  {
+    "check": "data/0.0005/930101/validation/noisy",
+    "passed": true
+  },
+  {
+    "check": "data/0.0005/930101/validation/fine_clean",
+    "passed": true
+  },
+  {
+    "check": "data/0.0005/930101/validation/fine_noisy",
+    "passed": true
+  },
+  {
+    "check": "meta/0.0005/930101/validation/s",
+    "passed": true
+  },
+  {
+    "check": "meta/0.0005/930101/validation/c",
+    "passed": true
+  },
+  {
+    "check": "meta/0.0005/930101/validation/d",
+    "passed": true
+  },
+  {
+    "check": "data/0.0005/930101/test/clean",
+    "passed": true
+  },
+  {
+    "check": "data/0.0005/930101/test/noisy",
+    "passed": true
+  },
+  {
+    "check": "data/0.0005/930101/test/fine_clean",
+    "passed": true
+  },
+  {
+    "check": "data/0.0005/930101/test/fine_noisy",
+    "passed": true
+  },
+  {
+    "check": "meta/0.0005/930101/test/s",
+    "passed": true
+  },
+  {
+    "check": "meta/0.0005/930101/test/c",
+    "passed": true
+  },
+  {
+    "check": "meta/0.0005/930101/test/d",
+    "passed": true
+  },
+  {
+    "check": "anchors/0.0005/930101/delays",
+    "passed": true
+  },
+  {
+    "check": "anchors/0.0005/930101/slope_estimates",
+    "passed": true
+  },
+  {
+    "check": "anchors/0.0005/930101/profiles",
+    "passed": true
+  },
+  {
+    "check": "anchors/0.0005/930101/minimum_signature_norm",
+    "passed": true
+  },
+  {
+    "check": "calibration complete",
+    "passed": true
+  },
+  {
+    "check": "calibration hash",
+    "passed": true
+  },
+  {
+    "check": "unique records",
+    "passed": true
+  },
+  {
+    "check": "independent selection arithmetic",
+    "passed": true
+  },
+  {
+    "check": "expected final cells",
+    "passed": true
+  },
+  {
+    "check": "lock before final submissions",
+    "passed": true
+  },
+  {
+    "check": "initial hash calibration_sigma0.0005_data930001_External-C+anchors_lr0.002_u4_seed930002",
+    "passed": true
+  },
+  {
+    "check": "checkpoint hash calibration_sigma0.0005_data930001_External-C+anchors_lr0.002_u4_seed930002",
+    "passed": true
+  },
+  {
+    "check": "finite weights",
+    "passed": true
+  },
+  {
+    "check": "updates",
+    "passed": true
+  },
+  {
+    "check": "metric calibration_sigma0.0005_data930001_External-C+anchors_lr0.002_u4_seed930002/estimated_delay",
+    "passed": true
+  },
+  {
+    "check": "metric calibration_sigma0.0005_data930001_External-C+anchors_lr0.002_u4_seed930002/absolute_delay_error",
+    "passed": true
+  },
+  {
+    "check": "metric calibration_sigma0.0005_data930001_External-C+anchors_lr0.002_u4_seed930002/h0.025_train_clean_mse",
+    "passed": true
+  },
+  {
+    "check": "metric calibration_sigma0.0005_data930001_External-C+anchors_lr0.002_u4_seed930002/h0.025_train_noisy_mse",
+    "passed": true
+  },
+  {
+    "check": "metric calibration_sigma0.0005_data930001_External-C+anchors_lr0.002_u4_seed930002/h0.025_validation_clean_mse",
+    "passed": true
+  },
+  {
+    "check": "metric calibration_sigma0.0005_data930001_External-C+anchors_lr0.002_u4_seed930002/h0.025_validation_noisy_mse",
+    "passed": true
+  },
+  {
+    "check": "metric calibration_sigma0.0005_data930001_External-C+anchors_lr0.002_u4_seed930002/h0.025_minimum_observation",
+    "passed": true
+  },
+  {
+    "check": "metric calibration_sigma0.0005_data930001_External-C+anchors_lr0.002_u4_seed930002/h0.025_nonpositive_observations",
+    "passed": true
+  },
+  {
+    "check": "metric calibration_sigma0.0005_data930001_External-C+anchors_lr0.002_u4_seed930002/final_weighted_training_mse",
+    "passed": true
+  },
+  {
+    "check": "metric calibration_sigma0.0005_data930001_External-C+anchors_lr0.002_u4_seed930002/final_anchor_fit_mse",
+    "passed": true
+  },
+  {
+    "check": "metric calibration_sigma0.0005_data930001_External-C+anchors_lr0.002_u4_seed930002/final_objective",
+    "passed": true
+  },
+  {
+    "check": "initial hash calibration_sigma0.0005_data930001_External-C_lr0.002_u4_seed930002",
+    "passed": true
+  },
+  {
+    "check": "checkpoint hash calibration_sigma0.0005_data930001_External-C_lr0.002_u4_seed930002",
+    "passed": true
+  },
+  {
+    "check": "finite weights",
+    "passed": true
+  },
+  {
+    "check": "updates",
+    "passed": true
+  },
+  {
+    "check": "metric calibration_sigma0.0005_data930001_External-C_lr0.002_u4_seed930002/estimated_delay",
+    "passed": true
+  },
+  {
+    "check": "metric calibration_sigma0.0005_data930001_External-C_lr0.002_u4_seed930002/absolute_delay_error",
+    "passed": true
+  },
+  {
+    "check": "metric calibration_sigma0.0005_data930001_External-C_lr0.002_u4_seed930002/h0.025_train_clean_mse",
+    "passed": true
+  },
+  {
+    "check": "metric calibration_sigma0.0005_data930001_External-C_lr0.002_u4_seed930002/h0.025_train_noisy_mse",
+    "passed": true
+  },
+  {
+    "check": "metric calibration_sigma0.0005_data930001_External-C_lr0.002_u4_seed930002/h0.025_validation_clean_mse",
+    "passed": true
+  },
+  {
+    "check": "metric calibration_sigma0.0005_data930001_External-C_lr0.002_u4_seed930002/h0.025_validation_noisy_mse",
+    "passed": true
+  },
+  {
+    "check": "metric calibration_sigma0.0005_data930001_External-C_lr0.002_u4_seed930002/h0.025_minimum_observation",
+    "passed": true
+  },
+  {
+    "check": "metric calibration_sigma0.0005_data930001_External-C_lr0.002_u4_seed930002/h0.025_nonpositive_observations",
+    "passed": true
+  },
+  {
+    "check": "metric calibration_sigma0.0005_data930001_External-C_lr0.002_u4_seed930002/final_weighted_training_mse",
+    "passed": true
+  },
+  {
+    "check": "metric calibration_sigma0.0005_data930001_External-C_lr0.002_u4_seed930002/final_anchor_fit_mse",
+    "passed": true
+  },
+  {
+    "check": "metric calibration_sigma0.0005_data930001_External-C_lr0.002_u4_seed930002/final_objective",
+    "passed": true
+  },
+  {
+    "check": "initial hash calibration_sigma0.0005_data930001_Structured-C+anchors_lr0.002_u4_seed930002",
+    "passed": true
+  },
+  {
+    "check": "checkpoint hash calibration_sigma0.0005_data930001_Structured-C+anchors_lr0.002_u4_seed930002",
+    "passed": true
+  },
+  {
+    "check": "finite weights",
+    "passed": true
+  },
+  {
+    "check": "updates",
+    "passed": true
+  },
+  {
+    "check": "metric calibration_sigma0.0005_data930001_Structured-C+anchors_lr0.002_u4_seed930002/estimated_delay",
+    "passed": true
+  },
+  {
+    "check": "metric calibration_sigma0.0005_data930001_Structured-C+anchors_lr0.002_u4_seed930002/absolute_delay_error",
+    "passed": true
+  },
+  {
+    "check": "metric calibration_sigma0.0005_data930001_Structured-C+anchors_lr0.002_u4_seed930002/h0.025_train_clean_mse",
+    "passed": true
+  },
+  {
+    "check": "metric calibration_sigma0.0005_data930001_Structured-C+anchors_lr0.002_u4_seed930002/h0.025_train_noisy_mse",
+    "passed": true
+  },
+  {
+    "check": "metric calibration_sigma0.0005_data930001_Structured-C+anchors_lr0.002_u4_seed930002/h0.025_validation_clean_mse",
+    "passed": true
+  },
+  {
+    "check": "metric calibration_sigma0.0005_data930001_Structured-C+anchors_lr0.002_u4_seed930002/h0.025_validation_noisy_mse",
+    "passed": true
+  },
+  {
+    "check": "metric calibration_sigma0.0005_data930001_Structured-C+anchors_lr0.002_u4_seed930002/h0.025_minimum_observation",
+    "passed": true
+  },
+  {
+    "check": "metric calibration_sigma0.0005_data930001_Structured-C+anchors_lr0.002_u4_seed930002/h0.025_nonpositive_observations",
+    "passed": true
+  },
+  {
+    "check": "metric calibration_sigma0.0005_data930001_Structured-C+anchors_lr0.002_u4_seed930002/final_weighted_training_mse",
+    "passed": true
+  },
+  {
+    "check": "metric calibration_sigma0.0005_data930001_Structured-C+anchors_lr0.002_u4_seed930002/final_anchor_fit_mse",
+    "passed": true
+  },
+  {
+    "check": "metric calibration_sigma0.0005_data930001_Structured-C+anchors_lr0.002_u4_seed930002/final_objective",
+    "passed": true
+  },
+  {
+    "check": "initial hash calibration_sigma0.0005_data930001_Structured-C_lr0.002_u4_seed930002",
+    "passed": true
+  },
+  {
+    "check": "checkpoint hash calibration_sigma0.0005_data930001_Structured-C_lr0.002_u4_seed930002",
+    "passed": true
+  },
+  {
+    "check": "finite weights",
+    "passed": true
+  },
+  {
+    "check": "updates",
+    "passed": true
+  },
+  {
+    "check": "metric calibration_sigma0.0005_data930001_Structured-C_lr0.002_u4_seed930002/estimated_delay",
+    "passed": true
+  },
+  {
+    "check": "metric calibration_sigma0.0005_data930001_Structured-C_lr0.002_u4_seed930002/absolute_delay_error",
+    "passed": true
+  },
+  {
+    "check": "metric calibration_sigma0.0005_data930001_Structured-C_lr0.002_u4_seed930002/h0.025_train_clean_mse",
+    "passed": true
+  },
+  {
+    "check": "metric calibration_sigma0.0005_data930001_Structured-C_lr0.002_u4_seed930002/h0.025_train_noisy_mse",
+    "passed": true
+  },
+  {
+    "check": "metric calibration_sigma0.0005_data930001_Structured-C_lr0.002_u4_seed930002/h0.025_validation_clean_mse",
+    "passed": true
+  },
+  {
+    "check": "metric calibration_sigma0.0005_data930001_Structured-C_lr0.002_u4_seed930002/h0.025_validation_noisy_mse",
+    "passed": true
+  },
+  {
+    "check": "metric calibration_sigma0.0005_data930001_Structured-C_lr0.002_u4_seed930002/h0.025_minimum_observation",
+    "passed": true
+  },
+  {
+    "check": "metric calibration_sigma0.0005_data930001_Structured-C_lr0.002_u4_seed930002/h0.025_nonpositive_observations",
+    "passed": true
+  },
+  {
+    "check": "metric calibration_sigma0.0005_data930001_Structured-C_lr0.002_u4_seed930002/final_weighted_training_mse",
+    "passed": true
+  },
+  {
+    "check": "metric calibration_sigma0.0005_data930001_Structured-C_lr0.002_u4_seed930002/final_anchor_fit_mse",
+    "passed": true
+  },
+  {
+    "check": "metric calibration_sigma0.0005_data930001_Structured-C_lr0.002_u4_seed930002/final_objective",
+    "passed": true
+  },
+  {
+    "check": "initial hash final_sigma0.0005_data930101_External-C+anchors_lr0.002_u4_seed930102",
+    "passed": true
+  },
+  {
+    "check": "checkpoint hash final_sigma0.0005_data930101_External-C+anchors_lr0.002_u4_seed930102",
+    "passed": true
+  },
+  {
+    "check": "finite weights",
+    "passed": true
+  },
+  {
+    "check": "updates",
+    "passed": true
+  },
+  {
+    "check": "selected final settings",
+    "passed": true
+  },
+  {
+    "check": "metric final_sigma0.0005_data930101_External-C+anchors_lr0.002_u4_seed930102/estimated_delay",
+    "passed": true
+  },
+  {
+    "check": "metric final_sigma0.0005_data930101_External-C+anchors_lr0.002_u4_seed930102/absolute_delay_error",
+    "passed": true
+  },
+  {
+    "check": "metric final_sigma0.0005_data930101_External-C+anchors_lr0.002_u4_seed930102/h0.025_train_clean_mse",
+    "passed": true
+  },
+  {
+    "check": "metric final_sigma0.0005_data930101_External-C+anchors_lr0.002_u4_seed930102/h0.025_train_noisy_mse",
+    "passed": true
+  },
+  {
+    "check": "metric final_sigma0.0005_data930101_External-C+anchors_lr0.002_u4_seed930102/h0.025_test_clean_mse",
+    "passed": true
+  },
+  {
+    "check": "metric final_sigma0.0005_data930101_External-C+anchors_lr0.002_u4_seed930102/h0.025_test_noisy_mse",
+    "passed": true
+  },
+  {
+    "check": "metric final_sigma0.0005_data930101_External-C+anchors_lr0.002_u4_seed930102/h0.025_minimum_observation",
+    "passed": true
+  },
+  {
+    "check": "metric final_sigma0.0005_data930101_External-C+anchors_lr0.002_u4_seed930102/h0.025_nonpositive_observations",
+    "passed": true
+  },
+  {
+    "check": "metric final_sigma0.0005_data930101_External-C+anchors_lr0.002_u4_seed930102/h0.0125_train_clean_mse",
+    "passed": true
+  },
+  {
+    "check": "metric final_sigma0.0005_data930101_External-C+anchors_lr0.002_u4_seed930102/h0.0125_train_noisy_mse",
+    "passed": true
+  },
+  {
+    "check": "metric final_sigma0.0005_data930101_External-C+anchors_lr0.002_u4_seed930102/h0.0125_test_clean_mse",
+    "passed": true
+  },
+  {
+    "check": "metric final_sigma0.0005_data930101_External-C+anchors_lr0.002_u4_seed930102/h0.0125_test_noisy_mse",
+    "passed": true
+  },
+  {
+    "check": "metric final_sigma0.0005_data930101_External-C+anchors_lr0.002_u4_seed930102/h0.0125_minimum_observation",
+    "passed": true
+  },
+  {
+    "check": "metric final_sigma0.0005_data930101_External-C+anchors_lr0.002_u4_seed930102/h0.0125_nonpositive_observations",
+    "passed": true
+  },
+  {
+    "check": "metric final_sigma0.0005_data930101_External-C+anchors_lr0.002_u4_seed930102/h0.00625_train_clean_mse",
+    "passed": true
+  },
+  {
+    "check": "metric final_sigma0.0005_data930101_External-C+anchors_lr0.002_u4_seed930102/h0.00625_train_noisy_mse",
+    "passed": true
+  },
+  {
+    "check": "metric final_sigma0.0005_data930101_External-C+anchors_lr0.002_u4_seed930102/h0.00625_test_clean_mse",
+    "passed": true
+  },
+  {
+    "check": "metric final_sigma0.0005_data930101_External-C+anchors_lr0.002_u4_seed930102/h0.00625_test_noisy_mse",
+    "passed": true
+  },
+  {
+    "check": "metric final_sigma0.0005_data930101_External-C+anchors_lr0.002_u4_seed930102/h0.00625_minimum_observation",
+    "passed": true
+  },
+  {
+    "check": "metric final_sigma0.0005_data930101_External-C+anchors_lr0.002_u4_seed930102/h0.00625_nonpositive_observations",
+    "passed": true
+  },
+  {
+    "check": "metric final_sigma0.0005_data930101_External-C+anchors_lr0.002_u4_seed930102/final_weighted_training_mse",
+    "passed": true
+  },
+  {
+    "check": "metric final_sigma0.0005_data930101_External-C+anchors_lr0.002_u4_seed930102/final_anchor_fit_mse",
+    "passed": true
+  },
+  {
+    "check": "metric final_sigma0.0005_data930101_External-C+anchors_lr0.002_u4_seed930102/final_objective",
+    "passed": true
+  },
+  {
+    "check": "initial hash final_sigma0.0005_data930101_External-C_lr0.002_u4_seed930102",
+    "passed": true
+  },
+  {
+    "check": "checkpoint hash final_sigma0.0005_data930101_External-C_lr0.002_u4_seed930102",
+    "passed": true
+  },
+  {
+    "check": "finite weights",
+    "passed": true
+  },
+  {
+    "check": "updates",
+    "passed": true
+  },
+  {
+    "check": "selected final settings",
+    "passed": true
+  },
+  {
+    "check": "metric final_sigma0.0005_data930101_External-C_lr0.002_u4_seed930102/estimated_delay",
+    "passed": true
+  },
+  {
+    "check": "metric final_sigma0.0005_data930101_External-C_lr0.002_u4_seed930102/absolute_delay_error",
+    "passed": true
+  },
+  {
+    "check": "metric final_sigma0.0005_data930101_External-C_lr0.002_u4_seed930102/h0.025_train_clean_mse",
+    "passed": true
+  },
+  {
+    "check": "metric final_sigma0.0005_data930101_External-C_lr0.002_u4_seed930102/h0.025_train_noisy_mse",
+    "passed": true
+  },
+  {
+    "check": "metric final_sigma0.0005_data930101_External-C_lr0.002_u4_seed930102/h0.025_test_clean_mse",
+    "passed": true
+  },
+  {
+    "check": "metric final_sigma0.0005_data930101_External-C_lr0.002_u4_seed930102/h0.025_test_noisy_mse",
+    "passed": true
+  },
+  {
+    "check": "metric final_sigma0.0005_data930101_External-C_lr0.002_u4_seed930102/h0.025_minimum_observation",
+    "passed": true
+  },
+  {
+    "check": "metric final_sigma0.0005_data930101_External-C_lr0.002_u4_seed930102/h0.025_nonpositive_observations",
+    "passed": true
+  },
+  {
+    "check": "metric final_sigma0.0005_data930101_External-C_lr0.002_u4_seed930102/h0.0125_train_clean_mse",
+    "passed": true
+  },
+  {
+    "check": "metric final_sigma0.0005_data930101_External-C_lr0.002_u4_seed930102/h0.0125_train_noisy_mse",
+    "passed": true
+  },
+  {
+    "check": "metric final_sigma0.0005_data930101_External-C_lr0.002_u4_seed930102/h0.0125_test_clean_mse",
+    "passed": true
+  },
+  {
+    "check": "metric final_sigma0.0005_data930101_External-C_lr0.002_u4_seed930102/h0.0125_test_noisy_mse",
+    "passed": true
+  },
+  {
+    "check": "metric final_sigma0.0005_data930101_External-C_lr0.002_u4_seed930102/h0.0125_minimum_observation",
+    "passed": true
+  },
+  {
+    "check": "metric final_sigma0.0005_data930101_External-C_lr0.002_u4_seed930102/h0.0125_nonpositive_observations",
+    "passed": true
+  },
+  {
+    "check": "metric final_sigma0.0005_data930101_External-C_lr0.002_u4_seed930102/h0.00625_train_clean_mse",
+    "passed": true
+  },
+  {
+    "check": "metric final_sigma0.0005_data930101_External-C_lr0.002_u4_seed930102/h0.00625_train_noisy_mse",
+    "passed": true
+  },
+  {
+    "check": "metric final_sigma0.0005_data930101_External-C_lr0.002_u4_seed930102/h0.00625_test_clean_mse",
+    "passed": true
+  },
+  {
+    "check": "metric final_sigma0.0005_data930101_External-C_lr0.002_u4_seed930102/h0.00625_test_noisy_mse",
+    "passed": true
+  },
+  {
+    "check": "metric final_sigma0.0005_data930101_External-C_lr0.002_u4_seed930102/h0.00625_minimum_observation",
+    "passed": true
+  },
+  {
+    "check": "metric final_sigma0.0005_data930101_External-C_lr0.002_u4_seed930102/h0.00625_nonpositive_observations",
+    "passed": true
+  },
+  {
+    "check": "metric final_sigma0.0005_data930101_External-C_lr0.002_u4_seed930102/final_weighted_training_mse",
+    "passed": true
+  },
+  {
+    "check": "metric final_sigma0.0005_data930101_External-C_lr0.002_u4_seed930102/final_anchor_fit_mse",
+    "passed": true
+  },
+  {
+    "check": "metric final_sigma0.0005_data930101_External-C_lr0.002_u4_seed930102/final_objective",
+    "passed": true
+  },
+  {
+    "check": "initial hash final_sigma0.0005_data930101_Structured-C+anchors_lr0.002_u4_seed930102",
+    "passed": true
+  },
+  {
+    "check": "checkpoint hash final_sigma0.0005_data930101_Structured-C+anchors_lr0.002_u4_seed930102",
+    "passed": true
+  },
+  {
+    "check": "finite weights",
+    "passed": true
+  },
+  {
+    "check": "updates",
+    "passed": true
+  },
+  {
+    "check": "selected final settings",
+    "passed": true
+  },
+  {
+    "check": "metric final_sigma0.0005_data930101_Structured-C+anchors_lr0.002_u4_seed930102/estimated_delay",
+    "passed": true
+  },
+  {
+    "check": "metric final_sigma0.0005_data930101_Structured-C+anchors_lr0.002_u4_seed930102/absolute_delay_error",
+    "passed": true
+  },
+  {
+    "check": "metric final_sigma0.0005_data930101_Structured-C+anchors_lr0.002_u4_seed930102/h0.025_train_clean_mse",
+    "passed": true
+  },
+  {
+    "check": "metric final_sigma0.0005_data930101_Structured-C+anchors_lr0.002_u4_seed930102/h0.025_train_noisy_mse",
+    "passed": true
+  },
+  {
+    "check": "metric final_sigma0.0005_data930101_Structured-C+anchors_lr0.002_u4_seed930102/h0.025_test_clean_mse",
+    "passed": true
+  },
+  {
+    "check": "metric final_sigma0.0005_data930101_Structured-C+anchors_lr0.002_u4_seed930102/h0.025_test_noisy_mse",
+    "passed": true
+  },
+  {
+    "check": "metric final_sigma0.0005_data930101_Structured-C+anchors_lr0.002_u4_seed930102/h0.025_minimum_observation",
+    "passed": true
+  },
+  {
+    "check": "metric final_sigma0.0005_data930101_Structured-C+anchors_lr0.002_u4_seed930102/h0.025_nonpositive_observations",
+    "passed": true
+  },
+  {
+    "check": "metric final_sigma0.0005_data930101_Structured-C+anchors_lr0.002_u4_seed930102/h0.0125_train_clean_mse",
+    "passed": true
+  },
+  {
+    "check": "metric final_sigma0.0005_data930101_Structured-C+anchors_lr0.002_u4_seed930102/h0.0125_train_noisy_mse",
+    "passed": true
+  },
+  {
+    "check": "metric final_sigma0.0005_data930101_Structured-C+anchors_lr0.002_u4_seed930102/h0.0125_test_clean_mse",
+    "passed": true
+  },
+  {
+    "check": "metric final_sigma0.0005_data930101_Structured-C+anchors_lr0.002_u4_seed930102/h0.0125_test_noisy_mse",
+    "passed": true
+  },
+  {
+    "check": "metric final_sigma0.0005_data930101_Structured-C+anchors_lr0.002_u4_seed930102/h0.0125_minimum_observation",
+    "passed": true
+  },
+  {
+    "check": "metric final_sigma0.0005_data930101_Structured-C+anchors_lr0.002_u4_seed930102/h0.0125_nonpositive_observations",
+    "passed": true
+  },
+  {
+    "check": "metric final_sigma0.0005_data930101_Structured-C+anchors_lr0.002_u4_seed930102/h0.00625_train_clean_mse",
+    "passed": true
+  },
+  {
+    "check": "metric final_sigma0.0005_data930101_Structured-C+anchors_lr0.002_u4_seed930102/h0.00625_train_noisy_mse",
+    "passed": true
+  },
+  {
+    "check": "metric final_sigma0.0005_data930101_Structured-C+anchors_lr0.002_u4_seed930102/h0.00625_test_clean_mse",
+    "passed": true
+  },
+  {
+    "check": "metric final_sigma0.0005_data930101_Structured-C+anchors_lr0.002_u4_seed930102/h0.00625_test_noisy_mse",
+    "passed": true
+  },
+  {
+    "check": "metric final_sigma0.0005_data930101_Structured-C+anchors_lr0.002_u4_seed930102/h0.00625_minimum_observation",
+    "passed": true
+  },
+  {
+    "check": "metric final_sigma0.0005_data930101_Structured-C+anchors_lr0.002_u4_seed930102/h0.00625_nonpositive_observations",
+    "passed": true
+  },
+  {
+    "check": "metric final_sigma0.0005_data930101_Structured-C+anchors_lr0.002_u4_seed930102/final_weighted_training_mse",
+    "passed": true
+  },
+  {
+    "check": "metric final_sigma0.0005_data930101_Structured-C+anchors_lr0.002_u4_seed930102/final_anchor_fit_mse",
+    "passed": true
+  },
+  {
+    "check": "metric final_sigma0.0005_data930101_Structured-C+anchors_lr0.002_u4_seed930102/final_objective",
+    "passed": true
+  },
+  {
+    "check": "initial hash final_sigma0.0005_data930101_Structured-C_lr0.002_u4_seed930102",
+    "passed": true
+  },
+  {
+    "check": "checkpoint hash final_sigma0.0005_data930101_Structured-C_lr0.002_u4_seed930102",
+    "passed": true
+  },
+  {
+    "check": "finite weights",
+    "passed": true
+  },
+  {
+    "check": "updates",
+    "passed": true
+  },
+  {
+    "check": "selected final settings",
+    "passed": true
+  },
+  {
+    "check": "metric final_sigma0.0005_data930101_Structured-C_lr0.002_u4_seed930102/estimated_delay",
+    "passed": true
+  },
+  {
+    "check": "metric final_sigma0.0005_data930101_Structured-C_lr0.002_u4_seed930102/absolute_delay_error",
+    "passed": true
+  },
+  {
+    "check": "metric final_sigma0.0005_data930101_Structured-C_lr0.002_u4_seed930102/h0.025_train_clean_mse",
+    "passed": true
+  },
+  {
+    "check": "metric final_sigma0.0005_data930101_Structured-C_lr0.002_u4_seed930102/h0.025_train_noisy_mse",
+    "passed": true
+  },
+  {
+    "check": "metric final_sigma0.0005_data930101_Structured-C_lr0.002_u4_seed930102/h0.025_test_clean_mse",
+    "passed": true
+  },
+  {
+    "check": "metric final_sigma0.0005_data930101_Structured-C_lr0.002_u4_seed930102/h0.025_test_noisy_mse",
+    "passed": true
+  },
+  {
+    "check": "metric final_sigma0.0005_data930101_Structured-C_lr0.002_u4_seed930102/h0.025_minimum_observation",
+    "passed": true
+  },
+  {
+    "check": "metric final_sigma0.0005_data930101_Structured-C_lr0.002_u4_seed930102/h0.025_nonpositive_observations",
+    "passed": true
+  },
+  {
+    "check": "metric final_sigma0.0005_data930101_Structured-C_lr0.002_u4_seed930102/h0.0125_train_clean_mse",
+    "passed": true
+  },
+  {
+    "check": "metric final_sigma0.0005_data930101_Structured-C_lr0.002_u4_seed930102/h0.0125_train_noisy_mse",
+    "passed": true
+  },
+  {
+    "check": "metric final_sigma0.0005_data930101_Structured-C_lr0.002_u4_seed930102/h0.0125_test_clean_mse",
+    "passed": true
+  },
+  {
+    "check": "metric final_sigma0.0005_data930101_Structured-C_lr0.002_u4_seed930102/h0.0125_test_noisy_mse",
+    "passed": true
+  },
+  {
+    "check": "metric final_sigma0.0005_data930101_Structured-C_lr0.002_u4_seed930102/h0.0125_minimum_observation",
+    "passed": true
+  },
+  {
+    "check": "metric final_sigma0.0005_data930101_Structured-C_lr0.002_u4_seed930102/h0.0125_nonpositive_observations",
+    "passed": true
+  },
+  {
+    "check": "metric final_sigma0.0005_data930101_Structured-C_lr0.002_u4_seed930102/h0.00625_train_clean_mse",
+    "passed": true
+  },
+  {
+    "check": "metric final_sigma0.0005_data930101_Structured-C_lr0.002_u4_seed930102/h0.00625_train_noisy_mse",
+    "passed": true
+  },
+  {
+    "check": "metric final_sigma0.0005_data930101_Structured-C_lr0.002_u4_seed930102/h0.00625_test_clean_mse",
+    "passed": true
+  },
+  {
+    "check": "metric final_sigma0.0005_data930101_Structured-C_lr0.002_u4_seed930102/h0.00625_test_noisy_mse",
+    "passed": true
+  },
+  {
+    "check": "metric final_sigma0.0005_data930101_Structured-C_lr0.002_u4_seed930102/h0.00625_minimum_observation",
+    "passed": true
+  },
+  {
+    "check": "metric final_sigma0.0005_data930101_Structured-C_lr0.002_u4_seed930102/h0.00625_nonpositive_observations",
+    "passed": true
+  },
+  {
+    "check": "metric final_sigma0.0005_data930101_Structured-C_lr0.002_u4_seed930102/final_weighted_training_mse",
+    "passed": true
+  },
+  {
+    "check": "metric final_sigma0.0005_data930101_Structured-C_lr0.002_u4_seed930102/final_anchor_fit_mse",
+    "passed": true
+  },
+  {
+    "check": "metric final_sigma0.0005_data930101_Structured-C_lr0.002_u4_seed930102/final_objective",
+    "passed": true
+  },
+  {
+    "check": "paired initialization",
+    "passed": true
+  },
+  {
+    "check": "direct (0.0005, 930101)",
+    "passed": true
+  },
+  {
+    "check": "three repeats",
+    "passed": true
+  },
+  {
+    "check": "dataset median absolute_delay_error",
+    "passed": true
+  },
+  {
+    "check": "dataset median h0.00625_test_clean_mse",
+    "passed": true
+  },
+  {
+    "check": "three repeats",
+    "passed": true
+  },
+  {
+    "check": "dataset median absolute_delay_error",
+    "passed": true
+  },
+  {
+    "check": "dataset median h0.00625_test_clean_mse",
+    "passed": true
+  },
+  {
+    "check": "three repeats",
+    "passed": true
+  },
+  {
+    "check": "dataset median absolute_delay_error",
+    "passed": true
+  },
+  {
+    "check": "dataset median h0.00625_test_clean_mse",
+    "passed": true
+  },
+  {
+    "check": "three repeats",
+    "passed": true
+  },
+  {
+    "check": "dataset median absolute_delay_error",
+    "passed": true
+  },
+  {
+    "check": "dataset median h0.00625_test_clean_mse",
+    "passed": true
+  },
+  {
+    "check": "paired values",
+    "passed": true
+  },
+  {
+    "check": "paired difference",
+    "passed": true
+  },
+  {
+    "check": "paired wins",
+    "passed": true
+  },
+  {
+    "check": "paired ratio",
+    "passed": true
+  },
+  {
+    "check": "paired values",
+    "passed": true
+  },
+  {
+    "check": "paired difference",
+    "passed": true
+  },
+  {
+    "check": "paired wins",
+    "passed": true
+  },
+  {
+    "check": "paired ratio",
+    "passed": true
+  },
+  {
+    "check": "paired values",
+    "passed": true
+  },
+  {
+    "check": "paired difference",
+    "passed": true
+  },
+  {
+    "check": "paired wins",
+    "passed": true
+  },
+  {
+    "check": "paired ratio",
+    "passed": true
+  },
+  {
+    "check": "paired values",
+    "passed": true
+  },
+  {
+    "check": "paired difference",
+    "passed": true
+  },
+  {
+    "check": "paired wins",
+    "passed": true
+  },
+  {
+    "check": "paired ratio",
+    "passed": true
+  },
+  {
+    "check": "paired values",
+    "passed": true
+  },
+  {
+    "check": "paired difference",
+    "passed": true
+  },
+  {
+    "check": "paired wins",
+    "passed": true
+  },
+  {
+    "check": "paired ratio",
+    "passed": true
+  },
+  {
+    "check": "paired values",
+    "passed": true
+  },
+  {
+    "check": "paired difference",
+    "passed": true
+  },
+  {
+    "check": "paired wins",
+    "passed": true
+  },
+  {
+    "check": "paired ratio",
+    "passed": true
+  },
+  {
+    "check": "paired values",
+    "passed": true
+  },
+  {
+    "check": "paired difference",
+    "passed": true
+  },
+  {
+    "check": "paired wins",
+    "passed": true
+  },
+  {
+    "check": "paired ratio",
+    "passed": true
+  },
+  {
+    "check": "paired values",
+    "passed": true
+  },
+  {
+    "check": "paired difference",
+    "passed": true
+  },
+  {
+    "check": "paired wins",
+    "passed": true
+  },
+  {
+    "check": "paired ratio",
+    "passed": true
+  },
+  {
+    "check": "five datasets",
+    "passed": true
+  },
+  {
+    "check": "marginal median",
+    "passed": true
+  },
+  {
+    "check": "marginal range",
+    "passed": true
+  },
+  {
+    "check": "marginal median",
+    "passed": true
+  },
+  {
+    "check": "marginal range",
+    "passed": true
+  },
+  {
+    "check": "five datasets",
+    "passed": true
+  },
+  {
+    "check": "marginal median",
+    "passed": true
+  },
+  {
+    "check": "marginal range",
+    "passed": true
+  },
+  {
+    "check": "marginal median",
+    "passed": true
+  },
+  {
+    "check": "marginal range",
+    "passed": true
+  },
+  {
+    "check": "five datasets",
+    "passed": true
+  },
+  {
+    "check": "marginal median",
+    "passed": true
+  },
+  {
+    "check": "marginal range",
+    "passed": true
+  },
+  {
+    "check": "marginal median",
+    "passed": true
+  },
+  {
+    "check": "marginal range",
+    "passed": true
+  },
+  {
+    "check": "five datasets",
+    "passed": true
+  },
+  {
+    "check": "marginal median",
+    "passed": true
+  },
+  {
+    "check": "marginal range",
+    "passed": true
+  },
+  {
+    "check": "marginal median",
+    "passed": true
+  },
+  {
+    "check": "marginal range",
+    "passed": true
+  }
+]

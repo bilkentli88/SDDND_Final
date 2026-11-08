@@ -1,0 +1,17 @@
+{
+  "protocol_id": "ASOC-R1-E2E3-neural-v1",
+  "base_protocol": "ASOC-E3-v1.0",
+  "noise_levels": [0.0005, 0.0015],
+  "observation_steps": [0.05, 0.025],
+  "rollout_step": 0.025,
+  "evaluation_steps": [0.025, 0.00625],
+  "data_seeds": [20270301, 20270302, 20270303, 20270304, 20270305, 20270306, 20270307, 20270308, 20270309, 20270310],
+  "optimization_seeds": [20270401, 20270402, 20270403],
+  "methods": ["P3", "P4"],
+  "metrics": ["delay_rmse", "refined_clean_test_mse"],
+  "smoke": {
+    "data_seeds": [940001],
+    "optimization_seeds": [940002],
+    "training_phases": [[0.5, 2], [1.0, 2]]
+  }
+}

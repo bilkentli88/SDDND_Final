@@ -1,0 +1,12 @@
+[
+  {
+    "update": 1,
+    "loss_before_update": 0.13709816336631775,
+    "delay_after_update": 0.3229999840259552
+  },
+  {
+    "update": 4,
+    "loss_before_update": 0.24948391318321228,
+    "delay_after_update": 0.3175245225429535
+  }
+]

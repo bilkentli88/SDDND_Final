@@ -1,0 +1,17 @@
+{
+  "status": "passed",
+  "scope": "Consistency/replay audit, not independent scientific replication.",
+  "trained_checkpoint_delay_replays": 180,
+  "frozen_solver_trajectory_metric_sets_replayed": 360,
+  "direct_function_replays": 20,
+  "raw_observation_sets_reconstructed": 10,
+  "anchor_entries_recomputed": 40,
+  "shared_noise_pairings_verified": true,
+  "initial_hashes_reconstructed": 180,
+  "cross_cell_initialization_groups": 15,
+  "numerical_failures_retained": 0,
+  "reference_refinement_reproduced": true,
+  "all_dataset_statistics_and_contrasts_recomputed": true,
+  "frozen_sources_unchanged": true,
+  "neural_csv_precision": "Exact float32 round-trip"
+}

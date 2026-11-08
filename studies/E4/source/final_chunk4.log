@@ -1,0 +1,25 @@
+final 97/120 final_sigma0.0015_data20261404_External-C+anchors_lr0.002_u1200_seed20261713 ok seconds=47.5
+final 98/120 final_sigma0.0015_data20261404_External-C_lr0.002_u1200_seed20261713 ok seconds=48.5
+final 99/120 final_sigma0.0015_data20261404_External-C_lr0.002_u1200_seed20261711 ok seconds=48.8
+final 100/120 final_sigma0.0015_data20261404_External-C_lr0.002_u1200_seed20261712 ok seconds=48.8
+final 101/120 final_sigma0.0015_data20261404_Structured-C_lr0.002_u1200_seed20261711 ok seconds=49.4
+final 102/120 final_sigma0.0015_data20261404_External-C+anchors_lr0.002_u1200_seed20261712 ok seconds=50.5
+final 103/120 final_sigma0.0015_data20261404_External-C+anchors_lr0.002_u1200_seed20261711 ok seconds=52.4
+final 104/120 final_sigma0.0015_data20261404_Structured-C_lr0.002_u1200_seed20261712 ok seconds=55.5
+final 105/120 final_sigma0.0015_data20261405_External-C_lr0.002_u1200_seed20261811 ok seconds=46.4
+final 106/120 final_sigma0.0015_data20261404_Structured-C_lr0.002_u1200_seed20261713 ok seconds=49.1
+final 107/120 final_sigma0.0015_data20261404_Structured-C+anchors_lr0.002_u1200_seed20261712 ok seconds=48.4
+final 108/120 final_sigma0.0015_data20261405_External-C_lr0.002_u1200_seed20261812 ok seconds=47.7
+final 109/120 final_sigma0.0015_data20261405_External-C_lr0.002_u1200_seed20261813 ok seconds=45.8
+final 110/120 final_sigma0.0015_data20261404_Structured-C+anchors_lr0.002_u1200_seed20261711 ok seconds=50.5
+final 111/120 final_sigma0.0015_data20261404_Structured-C+anchors_lr0.002_u1200_seed20261713 ok seconds=51.0
+final 112/120 final_sigma0.0015_data20261405_External-C+anchors_lr0.002_u1200_seed20261811 ok seconds=47.8
+final 113/120 final_sigma0.0015_data20261405_External-C+anchors_lr0.002_u1200_seed20261812 ok seconds=52.2
+final 114/120 final_sigma0.0015_data20261405_External-C+anchors_lr0.002_u1200_seed20261813 ok seconds=51.5
+final 115/120 final_sigma0.0015_data20261405_Structured-C_lr0.002_u1200_seed20261811 ok seconds=53.0
+final 116/120 final_sigma0.0015_data20261405_Structured-C_lr0.002_u1200_seed20261812 ok seconds=54.0
+final 117/120 final_sigma0.0015_data20261405_Structured-C_lr0.002_u1200_seed20261813 ok seconds=54.1
+final 118/120 final_sigma0.0015_data20261405_Structured-C+anchors_lr0.002_u1200_seed20261811 ok seconds=54.0
+final 119/120 final_sigma0.0015_data20261405_Structured-C+anchors_lr0.002_u1200_seed20261812 ok seconds=53.6
+final 120/120 final_sigma0.0015_data20261405_Structured-C+anchors_lr0.002_u1200_seed20261813 ok seconds=51.2
+FINAL COMPLETE

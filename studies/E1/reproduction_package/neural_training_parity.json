@@ -1,0 +1,19 @@
+{
+  "scope": "Old-seed smoke-budget implementation parity; no new experiment evidence.",
+  "repository_commit": "ee1014a80760dd720e680c7597a3b985f0f4b609",
+  "torch": "2.10.0+cpu",
+  "data_seed": 20260901,
+  "model_seed": 20261001,
+  "checks": [
+    {
+      "method": "P3",
+      "all_parameters_bitwise_equal_to_original": true,
+      "updates": 4
+    },
+    {
+      "method": "P4",
+      "all_parameters_bitwise_equal_to_original": true,
+      "updates": 4
+    }
+  ]
+}

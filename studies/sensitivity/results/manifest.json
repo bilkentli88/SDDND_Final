@@ -1,0 +1,38 @@
+{
+  "started_utc": "2026-11-07T20:02:12.198088+00:00",
+  "python": "3.12.14",
+  "numpy": "2.3.5",
+  "source_sha256": {
+    "studies/E2/reproduction_package/protocol.json": "faa10bf03ab83580bd42f2f81b71debc846a204b86f50865eca375e07e575a89",
+    "studies/E3/reproduction_package/protocol.json": "1a4000231f701ee9e2d0f33906be06ea4c824a1016a61fb982a047c97d0763dd",
+    "studies/E3/reproduction_package/e3_data.py": "b9a4f778144c0f61c11aff79b0607cb547a226f9d344c826bfd15f2ae6b25c78",
+    "studies/R1_robustness/protocol.json": "9909cf5812c2cac2ea8e5a5f2f56c2f853bc355535e97625b2daa85f0dcc46c3",
+    "studies/R1_robustness/run_profile_pilot.py": "21694d975d21afa30173059a5ccffc00d0e2f65baa6c72d0f1187b6f4cb15f76"
+  },
+  "protocol": {
+    "protocol_id": "ASOC-R1-profile-pilot-v1",
+    "noise_levels": [
+      0.0005,
+      0.0015
+    ],
+    "observation_steps": [
+      0.05,
+      0.025
+    ],
+    "response_windows": {
+      "polynomial": 0.2,
+      "weak_short": 0.05,
+      "weak_matched": 0.2
+    },
+    "data_seed_start": 20270101,
+    "data_seed_count": 40,
+    "perturbation_seed": 20270201,
+    "perturbation_count": 2000,
+    "interval_quantiles": [
+      0.025,
+      0.975
+    ],
+    "maximum_interval_width": 0.09,
+    "large_delay_error_threshold": 0.035
+  }
+}

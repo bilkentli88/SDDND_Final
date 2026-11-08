@@ -1,0 +1,31 @@
+{
+  "input_archives": {
+    "ASOC_Two_Stage_Complete_Package.zip": {
+      "sha256": "851bfdbb7044e737b6242254d48cb8bdde521f9bd27d2a085cdd56696abedfb0",
+      "size_bytes": 17495103
+    },
+    "ASOC_Experiment4_Complete_Package.zip": {
+      "sha256": "ecf8b86a09f03f5f6bc7705d6b628bfa2ea0fbe0c7cbf0585926fc2f7e4bbf26",
+      "size_bytes": 3743529
+    },
+    "ASOC_Experiment1_Results.zip": {
+      "sha256": "df80df85f08c989085694d132d22b311df1a103fd006163d5a20774b26409aa6",
+      "size_bytes": 844531
+    },
+    "ASOC_Experiment2_Results.zip": {
+      "sha256": "9fdc089d454433e0d48cd0eca3c8756b4aee2bd94aa56425939c2447e1e7055a",
+      "size_bytes": 2724523
+    },
+    "ASOC_Experiment3_Results.zip": {
+      "sha256": "f809310703410cfc410f7ac205bb659cfa1ac7aa5d4bf03369346d91b3959e23",
+      "size_bytes": 2935983
+    }
+  },
+  "excluded_non_numerical_files": [
+    {
+      "path": "studies/E5/inputs/ASOC_Combined_R5.zip",
+      "sha256": "c247f0a949815dfa14b5a9f6e8f920c7c5ddfd4749c2180e9de793921a25e7e1",
+      "reason": "Historical manuscript source snapshot; not used by numerical reproduction."
+    }
+  ]
+}

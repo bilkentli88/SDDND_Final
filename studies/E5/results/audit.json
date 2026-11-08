@@ -1,0 +1,1267 @@
+{
+  "status": "passed",
+  "checkpoint_replays": 210,
+  "checks": [
+    {
+      "run": "T1_data20261020_opt20261101",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "f98e7f26d0f19ab9ef7f43c6f275dec11e8ee75b5b1a31870bd04a7134f769e2"
+    },
+    {
+      "run": "T1_data20261020_opt20261102",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "382b8fa1fa791f4205b8b1e23b5388d5d520a6147403ff87fcaa2c8377cc5975"
+    },
+    {
+      "run": "T1_data20261020_opt20261103",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "11478ff3ee5dc5b3eba1fc6270741b07f095a98fc3919f9926633fe3fa2da840"
+    },
+    {
+      "run": "T1_data20261021_opt20261101",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "2a8d6fccbd3f611c6bbf0d9d723f9d99424081c6c1b3c398da595de542d93eed"
+    },
+    {
+      "run": "T1_data20261021_opt20261102",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "792715b12d3c08de57c22542e26a0d8138784962de2d4e412fe71be66c5cf776"
+    },
+    {
+      "run": "T1_data20261021_opt20261103",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "d3db1bab14bf5a9d2f165a198f52f051ccaeb4d5d59bf34583b15c5aef527c1e"
+    },
+    {
+      "run": "T1_data20261022_opt20261101",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "799c36160a6277eced237edc5f47f4b41d47b750fb843b48c40e7aee6a0c069f"
+    },
+    {
+      "run": "T1_data20261022_opt20261102",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "8f9cb5b6c7268b6bad0fc23ff0aab6cb4319b840f1ce78e0614205d5ee834691"
+    },
+    {
+      "run": "T1_data20261022_opt20261103",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "c41800284ecd67b8157fcec81a239e271eb93b088ca05d1f1011da6276657a39"
+    },
+    {
+      "run": "T1_data20261023_opt20261101",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "4eed1ec030d28245d2e536312142472d68b9b9c766ad12490848e0fb1f8faf89"
+    },
+    {
+      "run": "T1_data20261023_opt20261102",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "e2baee8a9edf1e844204d00feca8228a15a4ab971ec7b265d6a83dff68d39f5e"
+    },
+    {
+      "run": "T1_data20261023_opt20261103",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "0779f03780e08c702a0f33093a6ae0ebad35dd7795a766c9347e957ec59a6980"
+    },
+    {
+      "run": "T1_data20261024_opt20261101",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "48ec449cbc1d0a1659a8be5a6b943f17e2a1a76af585dd15024e89d787890cb4"
+    },
+    {
+      "run": "T1_data20261024_opt20261102",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "53db4736ccfd7099a6ac9791eca338c093d29ef165942da410b5aca5b7d5f3dd"
+    },
+    {
+      "run": "T1_data20261024_opt20261103",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "babc8b6115b0c2d47fb5cf42b3ec042130477b99777415849fd4f202a9634283"
+    },
+    {
+      "run": "T2_data20261020_opt20261101",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "10ecd039b39651fa9e7ccf2a1b2f56d49ea34d7392566d28ebe5584d0be951bf"
+    },
+    {
+      "run": "T2_data20261020_opt20261102",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "0054b9ef3b00dc5e117b1cb360cef54f9e627fdd847a1c78147de415f71dd656"
+    },
+    {
+      "run": "T2_data20261020_opt20261103",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "b4972fcb1c368163919d348450b7e192932d432691e11ba5f1a8d47c864b6232"
+    },
+    {
+      "run": "T2_data20261021_opt20261101",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "0bdaca21bb235788ea037a2be0255d69791a28e0d47345e03e67d97ceea9600f"
+    },
+    {
+      "run": "T2_data20261021_opt20261102",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "784cd8056b50df128e23943e173bdaa54e0ea0447bae5740548c1c7f9bfe9e3c"
+    },
+    {
+      "run": "T2_data20261021_opt20261103",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "561ec30813e5c7b396331c8a5f92bbb5c523c68c007fedf5163bacdd6fe601db"
+    },
+    {
+      "run": "T2_data20261022_opt20261101",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "0c22ea2a8bab0d8d10c2565401f94fd1ded96c7f61426d183b526cf25e4aa7bc"
+    },
+    {
+      "run": "T2_data20261022_opt20261102",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "c8fe61b11115b903e0f1ea90071daeec2e35ca742a68ba985470ba9299850099"
+    },
+    {
+      "run": "T2_data20261022_opt20261103",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "eb6212421d6919ae87c74d041bd3b5e8e73c8639c882817d90380dd045f6b4a3"
+    },
+    {
+      "run": "T2_data20261023_opt20261101",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "b6ddd98429e3b8114a2d5cd1c3b5134c432f99105a4b2a770107526b31ca60c7"
+    },
+    {
+      "run": "T2_data20261023_opt20261102",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "1b85e24479dbda9e871b56cc9d2f35bdc9f92a24df1e8db5a8e0a98c6cb0ae9f"
+    },
+    {
+      "run": "T2_data20261023_opt20261103",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "418bd0231bc632da75d1e839114cbc5d0aea7be73771df6fc30097d702f9aa40"
+    },
+    {
+      "run": "T2_data20261024_opt20261101",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "2a8badca49268ccd2f2fd0a7240b425d6086ec51e0fff4d44cb1c7ac08995024"
+    },
+    {
+      "run": "T2_data20261024_opt20261102",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "61ea11584d042d74d9557e3294d7705f613cfc4f4511d0178629060d6ce28dc3"
+    },
+    {
+      "run": "T2_data20261024_opt20261103",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "3823d07431a4433c70e5973754e4adc76860a8007e51c151420dc34d39772d96"
+    },
+    {
+      "run": "informative_sigma0.0005_data20261201_T1_opt20261211",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "704b7430c7d2d09ccb8cb9e69a1b136dddb38cb6ed0afd1fcc86cacd793b8c11"
+    },
+    {
+      "run": "informative_sigma0.0005_data20261201_T1_opt20261212",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "ebcd2d3ebdb5515994842a56588f98054ceb83d140220e5d33c0455b2d3f98f8"
+    },
+    {
+      "run": "informative_sigma0.0005_data20261201_T1_opt20261213",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "02b4ed570748a286244116cca510a9cacd0f1326c9d476b64b794b5a5fd143d4"
+    },
+    {
+      "run": "informative_sigma0.0005_data20261201_T2_opt20261211",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "77da2b3d8c33cab5bf7b436b468a643a54def84cce3d51112cca43d9f103c3f9"
+    },
+    {
+      "run": "informative_sigma0.0005_data20261201_T2_opt20261212",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "a86ab15567093d64cb086f074db69c2b361dc1ca5434dd10db37307d450c557d"
+    },
+    {
+      "run": "informative_sigma0.0005_data20261201_T2_opt20261213",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "99a5678ba8a44a737e5f8c39e5f148f4b980225c9fff205ad4d2e5876be1c253"
+    },
+    {
+      "run": "informative_sigma0.0005_data20261202_T1_opt20261211",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "714507444e6e3fde77217f432e04e4b1e0b1db54fe0fa5f7c3cfb817ee81dc67"
+    },
+    {
+      "run": "informative_sigma0.0005_data20261202_T1_opt20261212",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "64ba2b917000d6c109d8cdb612915a482b17a1d25483db81374580b8c2992c10"
+    },
+    {
+      "run": "informative_sigma0.0005_data20261202_T1_opt20261213",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "1982d428f73de4f8619c89419ed850db474bb86dfec6a8f41b77f55929d54a20"
+    },
+    {
+      "run": "informative_sigma0.0005_data20261202_T2_opt20261211",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "51c448f1637c626a24cdd13414862e59f5735387727dfd3940b3873ac94f8e7a"
+    },
+    {
+      "run": "informative_sigma0.0005_data20261202_T2_opt20261212",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "80ee8939c9828b9dda83f4c27c2bc3902472d2422f91c312ec20c98439c1f198"
+    },
+    {
+      "run": "informative_sigma0.0005_data20261202_T2_opt20261213",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "aa0e0672f28c8c80480b33e389bf36d63c2a269f83dcd67e9f3466c6d3d58acd"
+    },
+    {
+      "run": "informative_sigma0.0005_data20261203_T1_opt20261211",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "7fd33f8728a334c8132ac1e7342ae4aacc2bf0d9586c39acfa7fa469047d0e6f"
+    },
+    {
+      "run": "informative_sigma0.0005_data20261203_T1_opt20261212",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "80debbf897c8805abdc096923835fe48373140d2881249395da38a49da39ebee"
+    },
+    {
+      "run": "informative_sigma0.0005_data20261203_T1_opt20261213",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "3976d0ebc666461c51763cfbeffa99856432372a03b024a2ba949ec576082e17"
+    },
+    {
+      "run": "informative_sigma0.0005_data20261203_T2_opt20261211",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "77f2fef317571735bb7b5325e553f866917050508dc845d7bd4dec076f0f0cae"
+    },
+    {
+      "run": "informative_sigma0.0005_data20261203_T2_opt20261212",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "c3566405b51b86214e94ade86e58dd5b81f3179ddba389e04260298375d98bd5"
+    },
+    {
+      "run": "informative_sigma0.0005_data20261203_T2_opt20261213",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "090c91312f1e1b2e1b46e3315ea611822b23c50afc119e33511c57e8cd8bde44"
+    },
+    {
+      "run": "informative_sigma0.0005_data20261204_T1_opt20261211",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "57793039c8a2dbd96ebea564e17add875d76a18c6b01d4e0bbb7fc1e7ec09d7a"
+    },
+    {
+      "run": "informative_sigma0.0005_data20261204_T1_opt20261212",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "a67b40c16904968e118f5d4583a1cc4d790f049432e9b098b106eef8f255ef26"
+    },
+    {
+      "run": "informative_sigma0.0005_data20261204_T1_opt20261213",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "3e0f0c8fb18f1c506272dd44252f0895b2c5868cb65ac185bd968b5bba841022"
+    },
+    {
+      "run": "informative_sigma0.0005_data20261204_T2_opt20261211",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "ead7b0be498c2dc17d3f2e40552b319ba880484528796de760bf43fbac9f1b21"
+    },
+    {
+      "run": "informative_sigma0.0005_data20261204_T2_opt20261212",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "2c758d07fd04d0b15d907352b0c7135e8baa4d3d306add08ab8de3485f24f469"
+    },
+    {
+      "run": "informative_sigma0.0005_data20261204_T2_opt20261213",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "b2942f295e2f37d00753fa5c238e8d0a18ae484b7b11830c2b4b77b0edaa9203"
+    },
+    {
+      "run": "informative_sigma0.0005_data20261205_T1_opt20261211",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "1c10d09c25c1bd8fb4457f3096c0c4a05239aa23ac66f13a64f7e7d374922973"
+    },
+    {
+      "run": "informative_sigma0.0005_data20261205_T1_opt20261212",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "6d1fd169845a34251f3f532e31b15ea2397956ec985ff73c3ee83658e5957432"
+    },
+    {
+      "run": "informative_sigma0.0005_data20261205_T1_opt20261213",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "ed4878ebfd33a0686abea9a0086b36272c1d986d7eabbb4bc7b9ce520779130c"
+    },
+    {
+      "run": "informative_sigma0.0005_data20261205_T2_opt20261211",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "01422df580f59d5f1a9abe0731a2bc34984d827a9f41e9c60557bd6f428893ca"
+    },
+    {
+      "run": "informative_sigma0.0005_data20261205_T2_opt20261212",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "9655b93f144c42b47d01da79a98d1f96448e86608f64acc13144fe52d08dde4f"
+    },
+    {
+      "run": "informative_sigma0.0005_data20261205_T2_opt20261213",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "057d3a92f7c54b24f687c9302eb419816ca1c00f11f8251d40937118640a30d5"
+    },
+    {
+      "run": "informative_sigma0.0015_data20261201_T1_opt20261211",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "1855acac73828481123976b2ebeb66742254f65a9283c95cb6ff64b38f0d8001"
+    },
+    {
+      "run": "informative_sigma0.0015_data20261201_T1_opt20261212",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "33b888885a47d2fec87072d8991bb294b6922a4c41a79520ffecc2e45cb68876"
+    },
+    {
+      "run": "informative_sigma0.0015_data20261201_T1_opt20261213",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "bc85175044afe54b0b34172e4a6deb6259360c51950293e00615a110cd3634d7"
+    },
+    {
+      "run": "informative_sigma0.0015_data20261201_T2_opt20261211",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "693fdcfc38590bb8280f8ee5e9a12a5e1a54ad70e80ed8d6cf52d9f35f806ac4"
+    },
+    {
+      "run": "informative_sigma0.0015_data20261201_T2_opt20261212",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "bc44658e1158b52bfe42a78063dec9971d41fb5b43f66ee3c7fc58c586d4da41"
+    },
+    {
+      "run": "informative_sigma0.0015_data20261201_T2_opt20261213",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "d31af30157402be194a7bbd84f3f871c32491ac93f8ed1363021d5bde26ae140"
+    },
+    {
+      "run": "informative_sigma0.0015_data20261202_T1_opt20261211",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "658fc8ddfca4a8c2c3ebb8866efb8fa3391471c8ff8486e012780bdbbf1b3c86"
+    },
+    {
+      "run": "informative_sigma0.0015_data20261202_T1_opt20261212",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "70c97b0c21bdb536e0bdf21566228107dd4701af01368dcdda7cf2f93e991626"
+    },
+    {
+      "run": "informative_sigma0.0015_data20261202_T1_opt20261213",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "512831f4128542bd3a85f8efa1385df0395a98d01741f0096aafe8ca0a462b41"
+    },
+    {
+      "run": "informative_sigma0.0015_data20261202_T2_opt20261211",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "7ac13ccdf849ca3ca60ae97f9b00dde5a6a5f52b7dedf00d9e2b248e15f44b05"
+    },
+    {
+      "run": "informative_sigma0.0015_data20261202_T2_opt20261212",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "de498edb6b7af18376d496701c25a55f52b9ef6d7e0f5e6fb4ce6fa958d7f1f2"
+    },
+    {
+      "run": "informative_sigma0.0015_data20261202_T2_opt20261213",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "e71103342af60294298e719ab8af0b6bd3e9a62d71f7c6487bf007144440b2a3"
+    },
+    {
+      "run": "informative_sigma0.0015_data20261203_T1_opt20261211",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "88bb098be1d74e681b9aa78342db57345c0562f29782b1ed5e8ea5a51ed05a45"
+    },
+    {
+      "run": "informative_sigma0.0015_data20261203_T1_opt20261212",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "3661634ccb6b4f9b00e78bcb6deadbe7dc7859cc6d4fa1ea1928d0bead18f7f7"
+    },
+    {
+      "run": "informative_sigma0.0015_data20261203_T1_opt20261213",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "2b31934005415ff5e2fa767955e0a677868f5cb0d7b713d21c833a7a95dca7f4"
+    },
+    {
+      "run": "informative_sigma0.0015_data20261203_T2_opt20261211",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "4011bf6ba96d2971c1a8c66c63df2e66072168cf01a05e0b64f88b859820976d"
+    },
+    {
+      "run": "informative_sigma0.0015_data20261203_T2_opt20261212",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "590dd17e26e889be90dfd83beff7410543b37754b0718491895c0a3207639dcf"
+    },
+    {
+      "run": "informative_sigma0.0015_data20261203_T2_opt20261213",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "865c20d5a6e6f372926e86d0d74713b01fad35ebdd9f0e2f0c25b9d577686b66"
+    },
+    {
+      "run": "informative_sigma0.0015_data20261204_T1_opt20261211",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "89399c4fcf2b9a99c4e52e7c05462953b501f98f51435f74b5958932e8dc3de2"
+    },
+    {
+      "run": "informative_sigma0.0015_data20261204_T1_opt20261212",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "66833cad344649d8e65ed5a26f88ffb66a25352df5d01a0f7797d3a2395eb10d"
+    },
+    {
+      "run": "informative_sigma0.0015_data20261204_T1_opt20261213",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "60ef2d6abe5b4189273fac8a002d32dffe00f0b509a65d96df019f42d697800a"
+    },
+    {
+      "run": "informative_sigma0.0015_data20261204_T2_opt20261211",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "b1f31f9ee6f3720d80170a0c830c538aa0e9deb69435ff67a2ece6e2983a1134"
+    },
+    {
+      "run": "informative_sigma0.0015_data20261204_T2_opt20261212",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "8467b64da827b8727538e4fd8b730c76895a42c12999d848f471cf5f26ab52a1"
+    },
+    {
+      "run": "informative_sigma0.0015_data20261204_T2_opt20261213",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "b56d9caeb50ae57ad86b2bb85d3475e42cc3a9d4059e221ac446a2e55a88606a"
+    },
+    {
+      "run": "informative_sigma0.0015_data20261205_T1_opt20261211",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "6e80288aa0abd8fd959d9dc9f71460a5b7456a1b0813af0e2431346807e63b48"
+    },
+    {
+      "run": "informative_sigma0.0015_data20261205_T1_opt20261212",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "a22d02b1928e44d03da6514b3a74a6299f90e38ccd0c31c3bf46c119d5f30ad4"
+    },
+    {
+      "run": "informative_sigma0.0015_data20261205_T1_opt20261213",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "adde7e857eec3bd25aeb20e8dcbb2ba5a66c0b963d7f17e710070f287e0ba7a6"
+    },
+    {
+      "run": "informative_sigma0.0015_data20261205_T2_opt20261211",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "9aa44911e6d14c0e73fab298cbfb174cf0a89bd29acb4652227fdb76a54035fa"
+    },
+    {
+      "run": "informative_sigma0.0015_data20261205_T2_opt20261212",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "6342d2086634c3be370e921378df59ad319202cd41dc426481e5bada3cf794e7"
+    },
+    {
+      "run": "informative_sigma0.0015_data20261205_T2_opt20261213",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "620a91cf6900db69e7600c0748902015757f1285054dcbc91ae745ab3c9cda11"
+    },
+    {
+      "run": "obs0.025_data20261301_h0.0125_T1_opt20261311",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "de6ba50691364e9a8f6d6dffa5bf7658fe28a397d668b93d44a7d3c820e53262"
+    },
+    {
+      "run": "obs0.025_data20261301_h0.0125_T1_opt20261312",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "f7b786d9a31f890cf24fc56379c67764a601832309bf099ffbdb45a961cf97d5"
+    },
+    {
+      "run": "obs0.025_data20261301_h0.0125_T1_opt20261313",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "aaf406d0be1cff872200e5b72635cddfa0d27716169e74eae739793a5d13a8e9"
+    },
+    {
+      "run": "obs0.025_data20261301_h0.0125_T2_opt20261311",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "408f870aa24aea45e2d96b938d6ddf3fd1f3a7ea550d0d359e8d520a164b3075"
+    },
+    {
+      "run": "obs0.025_data20261301_h0.0125_T2_opt20261312",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "6a7dbf857b3abefccc29d3b884f31b1b4fc994646891b53321a432d45366f152"
+    },
+    {
+      "run": "obs0.025_data20261301_h0.0125_T2_opt20261313",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "5ea69e182350d63d89b2acd412e3726b7ead384ddcee94921e2ab413898c71de"
+    },
+    {
+      "run": "obs0.025_data20261301_h0.025_T1_opt20261311",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "3744d2280e446bd976099c36cab0e23d43275b5a87d452f923b7b7a6a4f73b1e"
+    },
+    {
+      "run": "obs0.025_data20261301_h0.025_T1_opt20261312",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "98b691ccfa6177af2e4e2b2805ecc1136a0114295e9fa2aa4e7a5af205a8f59e"
+    },
+    {
+      "run": "obs0.025_data20261301_h0.025_T1_opt20261313",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "8fa7d868f582c1d1513d81a7cdf577474a5144a7c22a38323ef23115c050b929"
+    },
+    {
+      "run": "obs0.025_data20261301_h0.025_T2_opt20261311",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "d40086531d5e7b472921147340b334206a2e25eabd6675d924e5750408a36200"
+    },
+    {
+      "run": "obs0.025_data20261301_h0.025_T2_opt20261312",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "e85f44ed9932718ff9efd62352d69a8fcc2baa3187200bf51d7934ee5450e300"
+    },
+    {
+      "run": "obs0.025_data20261301_h0.025_T2_opt20261313",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "f9b9df5ce3be44cabc6cbf3ff3a940de648e84453df6686c5a5726cc93fcca36"
+    },
+    {
+      "run": "obs0.025_data20261302_h0.0125_T1_opt20261311",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "1ae58be0d936ca54673a3924abef23e595a1e4eb31d3cf8b4846673d06a227fe"
+    },
+    {
+      "run": "obs0.025_data20261302_h0.0125_T1_opt20261312",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "b2c1f52dad9fb5c2f82b6d69b5fc8bbecdba6319b4aef32e6ad7d481e2220fcc"
+    },
+    {
+      "run": "obs0.025_data20261302_h0.0125_T1_opt20261313",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "0e8e4c0d0d78b05e3df68f8f71473a3ca0efd0f9e1c8c919483cee8fa689fefa"
+    },
+    {
+      "run": "obs0.025_data20261302_h0.0125_T2_opt20261311",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "75a7f62d120a9830c9bb95daa4eb03321546d2fc739fc9462453f6f0ac464302"
+    },
+    {
+      "run": "obs0.025_data20261302_h0.0125_T2_opt20261312",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "23557a789d2454f7634923d8d27054da733e5da7da661231807c2050d38d3839"
+    },
+    {
+      "run": "obs0.025_data20261302_h0.0125_T2_opt20261313",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "5cc53c7a78c090115e93fd20769fda0ad88ef277ac2c46d8538445b02b946a31"
+    },
+    {
+      "run": "obs0.025_data20261302_h0.025_T1_opt20261311",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "d59540c010042a8affaaf47fc9d4370449fd5e8ba4bbc31088cd1683cac137b7"
+    },
+    {
+      "run": "obs0.025_data20261302_h0.025_T1_opt20261312",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "73abb265d192fb62890510c663bc52de72c08966ba75c4fef411eb843d0f85e0"
+    },
+    {
+      "run": "obs0.025_data20261302_h0.025_T1_opt20261313",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "12ae5de8101642a561e24ef3fd17fb316bd5018449e2b95a5703dad6fc9df647"
+    },
+    {
+      "run": "obs0.025_data20261302_h0.025_T2_opt20261311",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "bf8d7433859f6e891c1cf09aa4b215a19fd19ec410e901bcb698e66204ec5274"
+    },
+    {
+      "run": "obs0.025_data20261302_h0.025_T2_opt20261312",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "ac37ca88dd56635290cd86c8e825928792976fd6b8cecb8c550f9ab72229a66d"
+    },
+    {
+      "run": "obs0.025_data20261302_h0.025_T2_opt20261313",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "c92565a85b6ab6cc1bf60fda1f56029f720dbf04eec8260314ec2624a1ac017d"
+    },
+    {
+      "run": "obs0.025_data20261303_h0.0125_T1_opt20261311",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "2a8093379eb3df448a5fd81f7930d2361e8d4a8d956770bc5636cace0b951fa7"
+    },
+    {
+      "run": "obs0.025_data20261303_h0.0125_T1_opt20261312",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "1bee86e0472ae7cb7626ef4d51d24e55b5d879d71b59a8790ea142fb64a31cd2"
+    },
+    {
+      "run": "obs0.025_data20261303_h0.0125_T1_opt20261313",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "dce52b0eb1739aa769ac2fce8b976debbdd77382609c3a4513268a1018e4e097"
+    },
+    {
+      "run": "obs0.025_data20261303_h0.0125_T2_opt20261311",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "92744a1c469d633e85048a23cf1cd0434fa8875b007adb1443da2688e0c85549"
+    },
+    {
+      "run": "obs0.025_data20261303_h0.0125_T2_opt20261312",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "0007f568393a0080954ae3bf9fedbc6b2799c088536be1feddae9187696ed152"
+    },
+    {
+      "run": "obs0.025_data20261303_h0.0125_T2_opt20261313",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "b5e5465b8ca8aa327a2bccf94f3bfbcd9fef2dcd76c764bbe704c820ca3bf898"
+    },
+    {
+      "run": "obs0.025_data20261303_h0.025_T1_opt20261311",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "8d8865f2effd6d90bcd1003f1cfb5879695f0916588dc3e1bf17c8749b1fec0d"
+    },
+    {
+      "run": "obs0.025_data20261303_h0.025_T1_opt20261312",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "008b1acc9abfcd20d64a6513e9f9f97d3fcd52fb0ae45ff3fadea65b9f1b7765"
+    },
+    {
+      "run": "obs0.025_data20261303_h0.025_T1_opt20261313",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "53d5d5baec5bd059ab58a08d8e1672fd460fafc7d8d2658eb2c44d3a6dd0cb8a"
+    },
+    {
+      "run": "obs0.025_data20261303_h0.025_T2_opt20261311",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "a1a063d53ef58d5efdce5b9a89a4fbf534e6663aa51610528e30454a67c54067"
+    },
+    {
+      "run": "obs0.025_data20261303_h0.025_T2_opt20261312",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "065132df162e917e00d9e68dc07673faa86579154edc8622fb42eed7dddbc281"
+    },
+    {
+      "run": "obs0.025_data20261303_h0.025_T2_opt20261313",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "a1888c6e16c6812d808893fd4f323b7962a9532bbb378bc63d8ac246107de6bd"
+    },
+    {
+      "run": "obs0.025_data20261304_h0.0125_T1_opt20261311",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "735ef6520714f36d703322392da36bb8acc87b2acb19707fbd3da5ffc10b42ea"
+    },
+    {
+      "run": "obs0.025_data20261304_h0.0125_T1_opt20261312",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "ad0d9694f7ed7ad1b353dc5a57fbeee988515b656fbc4b08d9d44bd9f006bc05"
+    },
+    {
+      "run": "obs0.025_data20261304_h0.0125_T1_opt20261313",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "6fdd65cc3bc29810068d54fda72183a17efbd8ee697a2d370fd5709193d3c81c"
+    },
+    {
+      "run": "obs0.025_data20261304_h0.0125_T2_opt20261311",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "0b83f4b3a3c5ad12a2f04089aaf4a75d0872ab0f9af9bca74c9babb1d4237e28"
+    },
+    {
+      "run": "obs0.025_data20261304_h0.0125_T2_opt20261312",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "168a30114fafd9fdac0028eeee201d05c32cf9ea0f80895d7e18fe83308e6251"
+    },
+    {
+      "run": "obs0.025_data20261304_h0.0125_T2_opt20261313",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "a4e9134a26a7ee1d0cded7c2cc07b6351d25a1b7c2e57d3141e0933426aa9066"
+    },
+    {
+      "run": "obs0.025_data20261304_h0.025_T1_opt20261311",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "36daa21f27dc5d88d232167fb0b6ac02af27fea24e2fcfad9c68bbc27336dd2c"
+    },
+    {
+      "run": "obs0.025_data20261304_h0.025_T1_opt20261312",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "42edf8a6551c68769237f69fbb05424820c0f735623c563b62b4fca3f21bf36e"
+    },
+    {
+      "run": "obs0.025_data20261304_h0.025_T1_opt20261313",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "abad97859b0b0006002d6a052744c2eb4220b98cb736497e60852aa55efe833c"
+    },
+    {
+      "run": "obs0.025_data20261304_h0.025_T2_opt20261311",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "e11ba378e855a65d4980919c4bb52f91a003f966866d4f295765025ec4cc9333"
+    },
+    {
+      "run": "obs0.025_data20261304_h0.025_T2_opt20261312",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "176053a939ecd56dad4914e2b0091e5c0202fa0113a01728a02d6d0266764f08"
+    },
+    {
+      "run": "obs0.025_data20261304_h0.025_T2_opt20261313",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "dccd79abf368e67193f0854ea31d1a17e902b7f7fb403a8122e65ce9cde3a25e"
+    },
+    {
+      "run": "obs0.025_data20261305_h0.0125_T1_opt20261311",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "1a0efcbc2e3dfeb00ded5df3b02f01b8f85bc854f80b4670428cb9f88b8dcc6c"
+    },
+    {
+      "run": "obs0.025_data20261305_h0.0125_T1_opt20261312",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "19ca3025cdd4c64c02c9c014be71300ecec4bbebca5d964922ce11c5be88dc02"
+    },
+    {
+      "run": "obs0.025_data20261305_h0.0125_T1_opt20261313",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "c100a5b0d86f42a04b92c68981df2f395247daba034de4c48e94ba261dff7ca3"
+    },
+    {
+      "run": "obs0.025_data20261305_h0.0125_T2_opt20261311",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "b831777a2187ef8c018beb9a86afc6e2d492e5a2ef6cef7001876aab4a64ab52"
+    },
+    {
+      "run": "obs0.025_data20261305_h0.0125_T2_opt20261312",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "ba9a909a5de859c29ae30847581e45ab7ce650420c3f81b2cd1152c449473308"
+    },
+    {
+      "run": "obs0.025_data20261305_h0.0125_T2_opt20261313",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "b1a3b61a1d4d8145a934c5082ca68b7bf318190f01972b14966d54aa5d375289"
+    },
+    {
+      "run": "obs0.025_data20261305_h0.025_T1_opt20261311",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "3bc35b0377e7eaa758da4e4745d1adabcf6cf69fbdaff643c3726da942a49210"
+    },
+    {
+      "run": "obs0.025_data20261305_h0.025_T1_opt20261312",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "287f026efdd8a93b1ac734be65e6de1cc5a282a234f6c84191902449bf9bdad0"
+    },
+    {
+      "run": "obs0.025_data20261305_h0.025_T1_opt20261313",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "2cafd8e6ad6c083e0f43fb88e4ba3ca83aed3a776e137f80e12e1d7b522b1f79"
+    },
+    {
+      "run": "obs0.025_data20261305_h0.025_T2_opt20261311",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "60885c8ed9757596fb7a6d0172f5d1a1a286254d93f67a6118864222667ff401"
+    },
+    {
+      "run": "obs0.025_data20261305_h0.025_T2_opt20261312",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "f77e22ee268a55b94755c80c0f1269b7598c79687a1104f21d724f71c7d216f1"
+    },
+    {
+      "run": "obs0.025_data20261305_h0.025_T2_opt20261313",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "6b9db7100eea6eccfbf371b7616f7954bda61aa9fc771c4e68e923f3ce0b0a00"
+    },
+    {
+      "run": "obs0.05_data20261301_h0.0125_T1_opt20261311",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "1559fda6ad85caa34fb8ef4c32d7d7a2cdec9e879124ddbba6cd5656dc06b4b9"
+    },
+    {
+      "run": "obs0.05_data20261301_h0.0125_T1_opt20261312",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "ee269c19dcdb98c9a64e1e09bf81bb84ba0f93bf68567036e31c9a1770f97557"
+    },
+    {
+      "run": "obs0.05_data20261301_h0.0125_T1_opt20261313",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "e561f61b37c21aeac52fdb717b92ea8aedea30975a2610d9ff87835912749517"
+    },
+    {
+      "run": "obs0.05_data20261301_h0.0125_T2_opt20261311",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "32c882a5df21b6258b1f1f9a7b8dc5a43b4ec46201b43bf62f54c99f1ce7b3f9"
+    },
+    {
+      "run": "obs0.05_data20261301_h0.0125_T2_opt20261312",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "7f51f7439d7824b71f6653d86e98fb1a26101bfb6b3901d230c322ded629b2b6"
+    },
+    {
+      "run": "obs0.05_data20261301_h0.0125_T2_opt20261313",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "3f6ae83acf41a43cf84576769a1fcac211688cee61d33315ea4213ee24b7ca9a"
+    },
+    {
+      "run": "obs0.05_data20261301_h0.025_T1_opt20261311",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "455d4f7b12e8ec02b09a808a144fe51e45a8c75b529c5a37918fcd50b60a8d52"
+    },
+    {
+      "run": "obs0.05_data20261301_h0.025_T1_opt20261312",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "01a78df036c78f6aa089efcb3cde00f07226e66dc882c0ee674539ba3aafd603"
+    },
+    {
+      "run": "obs0.05_data20261301_h0.025_T1_opt20261313",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "1dac1be8bb6e278454e603fde081696ef0ae6c34136b1d933e948bee9bcf93e5"
+    },
+    {
+      "run": "obs0.05_data20261301_h0.025_T2_opt20261311",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "5cd63f28312de1025ff5ba12542c7e75639995e1700e6afcc715f55092e1b1f3"
+    },
+    {
+      "run": "obs0.05_data20261301_h0.025_T2_opt20261312",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "03f69c84344e176ce77355cd5d8d496d39757d761e425d6133b217597ee2b32d"
+    },
+    {
+      "run": "obs0.05_data20261301_h0.025_T2_opt20261313",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "fc78d84c8547ba4d35b1cf3be6e66c3dfbebd0ab8def571bd85219a3c63f83ec"
+    },
+    {
+      "run": "obs0.05_data20261302_h0.0125_T1_opt20261311",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "cd5abf1b43b6a672de7b5b8fb05eaf449104c6e4744b5286d52c712837d2151a"
+    },
+    {
+      "run": "obs0.05_data20261302_h0.0125_T1_opt20261312",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "d93289822359ca5a97c89d1c7f627ad35410db3538f07007bdfdeb283300f85f"
+    },
+    {
+      "run": "obs0.05_data20261302_h0.0125_T1_opt20261313",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "eb9c5969df1d2768b50d46a9cc2fcc23f806c555f7bd05265d7877bb6468dccf"
+    },
+    {
+      "run": "obs0.05_data20261302_h0.0125_T2_opt20261311",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "371f34a71d8d39d57bd63156963f49292a345fc005d2ae83efe08b7b7d92b02a"
+    },
+    {
+      "run": "obs0.05_data20261302_h0.0125_T2_opt20261312",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "db526c0f110d9dab63d74dcbf3891366ffd697617817e1e762ec01d3ecdb151a"
+    },
+    {
+      "run": "obs0.05_data20261302_h0.0125_T2_opt20261313",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "3d554f3fda32efb06dbd32dba54d77ef009ca79d8df83b5c213bf9b97a1c511f"
+    },
+    {
+      "run": "obs0.05_data20261302_h0.025_T1_opt20261311",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "04010c502891ea15817bb1f63f20256cee993eb6fb61da1bbd5ad8cba6b44772"
+    },
+    {
+      "run": "obs0.05_data20261302_h0.025_T1_opt20261312",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "38edfc10ed51c25b7db7dcfe2a244854eb26ca7166fd82161635ec00396d306d"
+    },
+    {
+      "run": "obs0.05_data20261302_h0.025_T1_opt20261313",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "a13c8c05117ea6ea50b5ae5a12434ded0e5d9f21eb4988092b82611756cf1756"
+    },
+    {
+      "run": "obs0.05_data20261302_h0.025_T2_opt20261311",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "dfda62023b97f5d7e1dfd9a5062433c2a7cd2fd03c05ab3b2e1729d928b6254b"
+    },
+    {
+      "run": "obs0.05_data20261302_h0.025_T2_opt20261312",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "9fd376eeab0fd323e86a40d2c0fe1cb02891a60fca034376f92fca659d92f802"
+    },
+    {
+      "run": "obs0.05_data20261302_h0.025_T2_opt20261313",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "ee044b6668d1457be5f0af9b2f9b45dbec062965df6855f7caf561463c4e83b6"
+    },
+    {
+      "run": "obs0.05_data20261303_h0.0125_T1_opt20261311",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "36b5428b8f4a6620be032f544593ff8723368cbcd1ee81bf9d3288137f2ce10e"
+    },
+    {
+      "run": "obs0.05_data20261303_h0.0125_T1_opt20261312",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "2df6368b815d80dd310d41e32632298a943a7161448a7a327bdba7edc6683834"
+    },
+    {
+      "run": "obs0.05_data20261303_h0.0125_T1_opt20261313",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "0b8f603830b5b019d226ecb5f704b1a7776eab33efa388c44f95d8adcb8a8947"
+    },
+    {
+      "run": "obs0.05_data20261303_h0.0125_T2_opt20261311",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "268e1be0ad8f38880282e7738c1a47e928aa559a9ff9a7dddddcf5b060baa1b3"
+    },
+    {
+      "run": "obs0.05_data20261303_h0.0125_T2_opt20261312",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "8032b9e5926fca2770f9f3bf7f78500a32d0f501fd411d8818317ff7243af35f"
+    },
+    {
+      "run": "obs0.05_data20261303_h0.0125_T2_opt20261313",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "546c29e6c70652c7fe7d4f68ca7786e712888352d6d3b1683c3529d8833f86ad"
+    },
+    {
+      "run": "obs0.05_data20261303_h0.025_T1_opt20261311",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "7a60ac3801341b0bb1947fa5acf16a93a1de87bbf0366782c2ab8af66c0d0441"
+    },
+    {
+      "run": "obs0.05_data20261303_h0.025_T1_opt20261312",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "6b406456df885ce835379d06696a5db59052e3bb58b8b56458da453cdcfdd418"
+    },
+    {
+      "run": "obs0.05_data20261303_h0.025_T1_opt20261313",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "3ddf12065f5866a2834b614016460859ca0d2708140ced41eb76dabdd7c3db9d"
+    },
+    {
+      "run": "obs0.05_data20261303_h0.025_T2_opt20261311",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "b83b10d689312dbd63d80bf95a44717931a967231b8123dba75dd2dc8a9d23d4"
+    },
+    {
+      "run": "obs0.05_data20261303_h0.025_T2_opt20261312",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "f95ce647c45edfe40faa60b373f002461b78c4cb6bc933811486a7f709746093"
+    },
+    {
+      "run": "obs0.05_data20261303_h0.025_T2_opt20261313",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "83c4a811c06cae4fca961a1ca74738273f45199f35115092ae55ba5ce965b603"
+    },
+    {
+      "run": "obs0.05_data20261304_h0.0125_T1_opt20261311",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "3ad9ee2a51a0769d41bee252f9bb76a54ddcf20bdee3d59f62ace5fa35f0c672"
+    },
+    {
+      "run": "obs0.05_data20261304_h0.0125_T1_opt20261312",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "1174a7e6e30add7d73d1a30dfe40c5dd6f5d89523982e245ecf97bde12857119"
+    },
+    {
+      "run": "obs0.05_data20261304_h0.0125_T1_opt20261313",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "681006db21119b876d00f6a7b23ab89789c2b439b667c68e5343d1b6e06e7076"
+    },
+    {
+      "run": "obs0.05_data20261304_h0.0125_T2_opt20261311",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "c2f3fd22e3d1fdfcb164009534cde6ce514e63df2f401ead0347855dcf42c147"
+    },
+    {
+      "run": "obs0.05_data20261304_h0.0125_T2_opt20261312",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "a0cfccfca3c27642eb873bcf346044b9b01b29ec50debbcfe3db5fcd87765d0e"
+    },
+    {
+      "run": "obs0.05_data20261304_h0.0125_T2_opt20261313",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "a060401ca207b14a1407cb6bbbee1fabe60780a134437e9f0feb44efe5850ff3"
+    },
+    {
+      "run": "obs0.05_data20261304_h0.025_T1_opt20261311",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "4fb560aad111b412f1e5fed8d8763b3d71b399f7e49234cb837d7eb8077c1771"
+    },
+    {
+      "run": "obs0.05_data20261304_h0.025_T1_opt20261312",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "34c15fb2ef47e66f887da9e653cca7e9f62f017200007cc5e483d6e12ae29a1e"
+    },
+    {
+      "run": "obs0.05_data20261304_h0.025_T1_opt20261313",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "7240b5367897a52ca5a81ae88551b79612a7c2814e6a0ade7f4552243d213c06"
+    },
+    {
+      "run": "obs0.05_data20261304_h0.025_T2_opt20261311",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "bd7318aee57937c6e34d572f3f68bf1c8966d584eb5ef9ffe84be006dc104fe9"
+    },
+    {
+      "run": "obs0.05_data20261304_h0.025_T2_opt20261312",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "f300ec6b0c1d60964be518b18f4283c3511979de69494dde9cd85316700cbad6"
+    },
+    {
+      "run": "obs0.05_data20261304_h0.025_T2_opt20261313",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "5d6b49b7fe21bc629094dd6c5df69ae702e6c9c5368c5e1db9f0d3cbc4aeefea"
+    },
+    {
+      "run": "obs0.05_data20261305_h0.0125_T1_opt20261311",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "df968ad48523312df38dc9a3dc97edf99dfba0bec259b29b0f2575ff104cc1dc"
+    },
+    {
+      "run": "obs0.05_data20261305_h0.0125_T1_opt20261312",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "85f36e68d97cd509253634c7c5932051a5f921c5b48feb57a25bc17b1b08810f"
+    },
+    {
+      "run": "obs0.05_data20261305_h0.0125_T1_opt20261313",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "9179c5182f9b38380510f2dc67724d1c021f7a30b1255cac0880a0527167b29e"
+    },
+    {
+      "run": "obs0.05_data20261305_h0.0125_T2_opt20261311",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "052d8e89660e0a9d4b05f9b38b4c59c5b9515c516153f7676258fdbf7dc61b09"
+    },
+    {
+      "run": "obs0.05_data20261305_h0.0125_T2_opt20261312",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "f6b07553169b02ab41ea1bcaffbcacacbcc0907fc4ce8fb39ca8813e282f07e6"
+    },
+    {
+      "run": "obs0.05_data20261305_h0.0125_T2_opt20261313",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "0b0e04dc163db1f2e3fac2d6c4060e0984670613aa62054e1a6ab1a54757fcbc"
+    },
+    {
+      "run": "obs0.05_data20261305_h0.025_T1_opt20261311",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "47a1c7bc6dc58aed9663b8e7c5a37413f0a46af8e92df718a88ed4dea3069ca7"
+    },
+    {
+      "run": "obs0.05_data20261305_h0.025_T1_opt20261312",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "38d1a5d6cbaf2e84ebf6e577a1bb8663b6bc0c46ad2cf3392ca895eff429dcc0"
+    },
+    {
+      "run": "obs0.05_data20261305_h0.025_T1_opt20261313",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "c93887944de93e74e6727a2fc22c107f80e1bf48a0bfb041ffda437f36cc9409"
+    },
+    {
+      "run": "obs0.05_data20261305_h0.025_T2_opt20261311",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "4266a34be194600241650ff68b1d59d9e2ab5a730b0aec2f7c982bc85454cac8"
+    },
+    {
+      "run": "obs0.05_data20261305_h0.025_T2_opt20261312",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "c99a1de6481851c48a4792b524ace5113731b231d705061e5d4cc8f7efc84e08"
+    },
+    {
+      "run": "obs0.05_data20261305_h0.025_T2_opt20261313",
+      "frozen_delay_exact": true,
+      "forecast_and_delay_replay": true,
+      "checkpoint_sha256": "64d715acb384818f8809a9a3dfdbee2f47f18ec1a3db4f7f00d4c2432789917a"
+    }
+  ],
+  "scope": "Consistency audit using the same retained numerical implementation, not independent scientific replication."
+}

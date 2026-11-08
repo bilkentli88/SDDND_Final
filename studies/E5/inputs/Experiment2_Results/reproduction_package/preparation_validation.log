@@ -1,0 +1,17 @@
+test_degenerate_profiles_abstain (__main__.Validation.test_degenerate_profiles_abstain) ... ok
+test_full_accounting_and_structural_abstentions (__main__.Validation.test_full_accounting_and_structural_abstentions) ... ok
+test_history_norm_and_closed_form_recovery (__main__.Validation.test_history_norm_and_closed_form_recovery) ... ok
+test_missing_fit_withholds_complete_case_verdict (__main__.Validation.test_missing_fit_withholds_complete_case_verdict) ... ok
+test_neural_gain_prior_and_delay_bounds (__main__.Validation.test_neural_gain_prior_and_delay_bounds) ... ok
+test_noise_pairing_preserves_initial_state (__main__.Validation.test_noise_pairing_preserves_initial_state) ... ok
+test_positive_history_and_analytic_solution_box (__main__.Validation.test_positive_history_and_analytic_solution_box) ... ok
+test_profile_matches_derived_squared_distance (__main__.Validation.test_profile_matches_derived_squared_distance) ... ok
+test_reference_initial_segment_against_independent_ODE (__main__.Validation.test_reference_initial_segment_against_independent_ODE) ... ok
+test_reference_zero_growth_fixture (__main__.Validation.test_reference_zero_growth_fixture) ... ok
+test_rollout_delay_gradient_against_finite_difference (__main__.Validation.test_rollout_delay_gradient_against_finite_difference) ... ok
+
+----------------------------------------------------------------------
+Ran 11 tests in 0.399s
+
+OK
+Tests use algebraic checks and labelled fixtures; no new noisy learning outcomes are produced.

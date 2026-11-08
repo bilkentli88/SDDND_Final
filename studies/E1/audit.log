@@ -1,0 +1,14 @@
+{
+  "status": "passed",
+  "checkpoint_delay_curve_replays": 60,
+  "full_model_trajectory_metric_replays": 30,
+  "direct_function_replays": 10,
+  "raw_dataset_and_anchor_reconstructions": 5,
+  "paired_initialization_hash_checks": 15,
+  "all_70_delay_RMSE_values_recomputed": true,
+  "all_five_dataset_level_comparisons_recomputed": true,
+  "protocol_runner_and_config_hashes_unchanged": true,
+  "curve_csv_precision": "Neural CSVs checked by exact float32 round-trip; direct curves checked to 1e-14 absolute tolerance.",
+  "recorded_failures": 0,
+  "scope": "Replay and consistency audit of the completed fixed experiment, not independent scientific replication."
+}

@@ -1,0 +1,17 @@
+{
+  "protocol_id": "ASOC-R1-profile-pilot-v1",
+  "noise_levels": [0.0005, 0.0015],
+  "observation_steps": [0.05, 0.025],
+  "response_windows": {
+    "polynomial": 0.20,
+    "weak_short": 0.05,
+    "weak_matched": 0.20
+  },
+  "data_seed_start": 20270101,
+  "data_seed_count": 40,
+  "perturbation_seed": 20270201,
+  "perturbation_count": 2000,
+  "interval_quantiles": [0.025, 0.975],
+  "maximum_interval_width": 0.09,
+  "large_delay_error_threshold": 0.035
+}

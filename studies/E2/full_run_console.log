@@ -1,0 +1,468 @@
+Reference convergence: {'selected_step': 0.00125, 'tolerance': 1e-06, 'comparisons': [{'coarser_step': 0.0025, 'finer_step': 0.00125, 'max_observation_difference': 1.5495782434982175e-07, 'passes': True}], 'scope': 'Empirical convergence at observation times; not a rigorous solver-error enclosure.'}
+TRAIN informative_sigma0.0005_data20261201_P3_opt20261211
+DONE informative_sigma0.0005_data20261201_P3_opt20261211: delay_RMSE=0.0203157
+TRAIN informative_sigma0.0005_data20261201_P4_opt20261211
+DONE informative_sigma0.0005_data20261201_P4_opt20261211: delay_RMSE=0.0548496
+TRAIN informative_sigma0.0005_data20261201_A1_opt20261211
+DONE informative_sigma0.0005_data20261201_A1_opt20261211: delay_RMSE=0.0216246
+TRAIN informative_sigma0.0005_data20261201_A2_opt20261211
+DONE informative_sigma0.0005_data20261201_A2_opt20261211: delay_RMSE=0.0421266
+TRAIN informative_sigma0.0005_data20261201_P3_opt20261212
+DONE informative_sigma0.0005_data20261201_P3_opt20261212: delay_RMSE=0.0217411
+TRAIN informative_sigma0.0005_data20261201_P4_opt20261212
+DONE informative_sigma0.0005_data20261201_P4_opt20261212: delay_RMSE=0.0755264
+TRAIN informative_sigma0.0005_data20261201_A1_opt20261212
+DONE informative_sigma0.0005_data20261201_A1_opt20261212: delay_RMSE=0.0203074
+TRAIN informative_sigma0.0005_data20261201_A2_opt20261212
+DONE informative_sigma0.0005_data20261201_A2_opt20261212: delay_RMSE=0.0423259
+TRAIN informative_sigma0.0005_data20261201_P3_opt20261213
+DONE informative_sigma0.0005_data20261201_P3_opt20261213: delay_RMSE=0.0209371
+TRAIN informative_sigma0.0005_data20261201_P4_opt20261213
+DONE informative_sigma0.0005_data20261201_P4_opt20261213: delay_RMSE=0.0448687
+TRAIN informative_sigma0.0005_data20261201_A1_opt20261213
+DONE informative_sigma0.0005_data20261201_A1_opt20261213: delay_RMSE=0.0189767
+TRAIN informative_sigma0.0005_data20261201_A2_opt20261213
+DONE informative_sigma0.0005_data20261201_A2_opt20261213: delay_RMSE=0.0428668
+TRAIN informative_sigma0.0005_data20261202_P3_opt20261211
+DONE informative_sigma0.0005_data20261202_P3_opt20261211: delay_RMSE=0.00907279
+TRAIN informative_sigma0.0005_data20261202_P4_opt20261211
+DONE informative_sigma0.0005_data20261202_P4_opt20261211: delay_RMSE=0.0591163
+TRAIN informative_sigma0.0005_data20261202_A1_opt20261211
+DONE informative_sigma0.0005_data20261202_A1_opt20261211: delay_RMSE=0.00593931
+TRAIN informative_sigma0.0005_data20261202_A2_opt20261211
+DONE informative_sigma0.0005_data20261202_A2_opt20261211: delay_RMSE=0.00690656
+TRAIN informative_sigma0.0005_data20261202_P3_opt20261212
+DONE informative_sigma0.0005_data20261202_P3_opt20261212: delay_RMSE=0.00894505
+TRAIN informative_sigma0.0005_data20261202_P4_opt20261212
+DONE informative_sigma0.0005_data20261202_P4_opt20261212: delay_RMSE=0.0529607
+TRAIN informative_sigma0.0005_data20261202_A1_opt20261212
+DONE informative_sigma0.0005_data20261202_A1_opt20261212: delay_RMSE=0.00564769
+TRAIN informative_sigma0.0005_data20261202_A2_opt20261212
+DONE informative_sigma0.0005_data20261202_A2_opt20261212: delay_RMSE=0.00627537
+TRAIN informative_sigma0.0005_data20261202_P3_opt20261213
+DONE informative_sigma0.0005_data20261202_P3_opt20261213: delay_RMSE=0.00673934
+TRAIN informative_sigma0.0005_data20261202_P4_opt20261213
+DONE informative_sigma0.0005_data20261202_P4_opt20261213: delay_RMSE=0.0420911
+TRAIN informative_sigma0.0005_data20261202_A1_opt20261213
+DONE informative_sigma0.0005_data20261202_A1_opt20261213: delay_RMSE=0.0058494
+TRAIN informative_sigma0.0005_data20261202_A2_opt20261213
+DONE informative_sigma0.0005_data20261202_A2_opt20261213: delay_RMSE=0.00651749
+TRAIN informative_sigma0.0005_data20261203_P3_opt20261211
+DONE informative_sigma0.0005_data20261203_P3_opt20261211: delay_RMSE=0.0283425
+TRAIN informative_sigma0.0005_data20261203_P4_opt20261211
+DONE informative_sigma0.0005_data20261203_P4_opt20261211: delay_RMSE=0.0646196
+TRAIN informative_sigma0.0005_data20261203_A1_opt20261211
+DONE informative_sigma0.0005_data20261203_A1_opt20261211: delay_RMSE=0.0281419
+TRAIN informative_sigma0.0005_data20261203_A2_opt20261211
+DONE informative_sigma0.0005_data20261203_A2_opt20261211: delay_RMSE=0.042747
+TRAIN informative_sigma0.0005_data20261203_P3_opt20261212
+DONE informative_sigma0.0005_data20261203_P3_opt20261212: delay_RMSE=0.0282522
+TRAIN informative_sigma0.0005_data20261203_P4_opt20261212
+DONE informative_sigma0.0005_data20261203_P4_opt20261212: delay_RMSE=0.0877887
+TRAIN informative_sigma0.0005_data20261203_A1_opt20261212
+DONE informative_sigma0.0005_data20261203_A1_opt20261212: delay_RMSE=0.0290668
+TRAIN informative_sigma0.0005_data20261203_A2_opt20261212
+DONE informative_sigma0.0005_data20261203_A2_opt20261212: delay_RMSE=0.0429057
+TRAIN informative_sigma0.0005_data20261203_P3_opt20261213
+DONE informative_sigma0.0005_data20261203_P3_opt20261213: delay_RMSE=0.0282419
+TRAIN informative_sigma0.0005_data20261203_P4_opt20261213
+DONE informative_sigma0.0005_data20261203_P4_opt20261213: delay_RMSE=0.0652774
+TRAIN informative_sigma0.0005_data20261203_A1_opt20261213
+DONE informative_sigma0.0005_data20261203_A1_opt20261213: delay_RMSE=0.0302169
+TRAIN informative_sigma0.0005_data20261203_A2_opt20261213
+DONE informative_sigma0.0005_data20261203_A2_opt20261213: delay_RMSE=0.0427443
+TRAIN informative_sigma0.0005_data20261204_P3_opt20261211
+DONE informative_sigma0.0005_data20261204_P3_opt20261211: delay_RMSE=0.0454289
+TRAIN informative_sigma0.0005_data20261204_P4_opt20261211
+DONE informative_sigma0.0005_data20261204_P4_opt20261211: delay_RMSE=0.0559425
+TRAIN informative_sigma0.0005_data20261204_A1_opt20261211
+DONE informative_sigma0.0005_data20261204_A1_opt20261211: delay_RMSE=0.0478192
+TRAIN informative_sigma0.0005_data20261204_A2_opt20261211
+DONE informative_sigma0.0005_data20261204_A2_opt20261211: delay_RMSE=0.0692525
+TRAIN informative_sigma0.0005_data20261204_P3_opt20261212
+DONE informative_sigma0.0005_data20261204_P3_opt20261212: delay_RMSE=0.0452211
+TRAIN informative_sigma0.0005_data20261204_P4_opt20261212
+DONE informative_sigma0.0005_data20261204_P4_opt20261212: delay_RMSE=0.0926628
+TRAIN informative_sigma0.0005_data20261204_A1_opt20261212
+DONE informative_sigma0.0005_data20261204_A1_opt20261212: delay_RMSE=0.050144
+TRAIN informative_sigma0.0005_data20261204_A2_opt20261212
+DONE informative_sigma0.0005_data20261204_A2_opt20261212: delay_RMSE=0.0690597
+TRAIN informative_sigma0.0005_data20261204_P3_opt20261213
+DONE informative_sigma0.0005_data20261204_P3_opt20261213: delay_RMSE=0.0451295
+TRAIN informative_sigma0.0005_data20261204_P4_opt20261213
+DONE informative_sigma0.0005_data20261204_P4_opt20261213: delay_RMSE=0.0779139
+TRAIN informative_sigma0.0005_data20261204_A1_opt20261213
+DONE informative_sigma0.0005_data20261204_A1_opt20261213: delay_RMSE=0.0469206
+TRAIN informative_sigma0.0005_data20261204_A2_opt20261213
+DONE informative_sigma0.0005_data20261204_A2_opt20261213: delay_RMSE=0.0684569
+TRAIN informative_sigma0.0005_data20261205_P3_opt20261211
+DONE informative_sigma0.0005_data20261205_P3_opt20261211: delay_RMSE=0.0134931
+TRAIN informative_sigma0.0005_data20261205_P4_opt20261211
+DONE informative_sigma0.0005_data20261205_P4_opt20261211: delay_RMSE=0.0681755
+TRAIN informative_sigma0.0005_data20261205_A1_opt20261211
+DONE informative_sigma0.0005_data20261205_A1_opt20261211: delay_RMSE=0.0135774
+TRAIN informative_sigma0.0005_data20261205_A2_opt20261211
+DONE informative_sigma0.0005_data20261205_A2_opt20261211: delay_RMSE=0.0313375
+TRAIN informative_sigma0.0005_data20261205_P3_opt20261212
+DONE informative_sigma0.0005_data20261205_P3_opt20261212: delay_RMSE=0.0145842
+TRAIN informative_sigma0.0005_data20261205_P4_opt20261212
+DONE informative_sigma0.0005_data20261205_P4_opt20261212: delay_RMSE=0.0630693
+TRAIN informative_sigma0.0005_data20261205_A1_opt20261212
+DONE informative_sigma0.0005_data20261205_A1_opt20261212: delay_RMSE=0.0164419
+TRAIN informative_sigma0.0005_data20261205_A2_opt20261212
+DONE informative_sigma0.0005_data20261205_A2_opt20261212: delay_RMSE=0.0312011
+TRAIN informative_sigma0.0005_data20261205_P3_opt20261213
+DONE informative_sigma0.0005_data20261205_P3_opt20261213: delay_RMSE=0.0133072
+TRAIN informative_sigma0.0005_data20261205_P4_opt20261213
+DONE informative_sigma0.0005_data20261205_P4_opt20261213: delay_RMSE=0.0501357
+TRAIN informative_sigma0.0005_data20261205_A1_opt20261213
+DONE informative_sigma0.0005_data20261205_A1_opt20261213: delay_RMSE=0.0139587
+TRAIN informative_sigma0.0005_data20261205_A2_opt20261213
+DONE informative_sigma0.0005_data20261205_A2_opt20261213: delay_RMSE=0.0307125
+TRAIN degenerate_sigma0.0005_data20261201_P3_opt20261211
+DONE degenerate_sigma0.0005_data20261201_P3_opt20261211: delay_RMSE=0.0245371
+TRAIN degenerate_sigma0.0005_data20261201_P4_opt20261211
+DONE degenerate_sigma0.0005_data20261201_P4_opt20261211: delay_RMSE=0.0245371
+TRAIN degenerate_sigma0.0005_data20261201_P3_opt20261212
+DONE degenerate_sigma0.0005_data20261201_P3_opt20261212: delay_RMSE=0.106216
+TRAIN degenerate_sigma0.0005_data20261201_P4_opt20261212
+DONE degenerate_sigma0.0005_data20261201_P4_opt20261212: delay_RMSE=0.106216
+TRAIN degenerate_sigma0.0005_data20261201_P3_opt20261213
+DONE degenerate_sigma0.0005_data20261201_P3_opt20261213: delay_RMSE=0.0949307
+TRAIN degenerate_sigma0.0005_data20261201_P4_opt20261213
+DONE degenerate_sigma0.0005_data20261201_P4_opt20261213: delay_RMSE=0.0949307
+TRAIN degenerate_sigma0.0005_data20261202_P3_opt20261211
+DONE degenerate_sigma0.0005_data20261202_P3_opt20261211: delay_RMSE=0.0368004
+TRAIN degenerate_sigma0.0005_data20261202_P4_opt20261211
+DONE degenerate_sigma0.0005_data20261202_P4_opt20261211: delay_RMSE=0.0368004
+TRAIN degenerate_sigma0.0005_data20261202_P3_opt20261212
+DONE degenerate_sigma0.0005_data20261202_P3_opt20261212: delay_RMSE=0.0255052
+TRAIN degenerate_sigma0.0005_data20261202_P4_opt20261212
+DONE degenerate_sigma0.0005_data20261202_P4_opt20261212: delay_RMSE=0.0255052
+TRAIN degenerate_sigma0.0005_data20261202_P3_opt20261213
+DONE degenerate_sigma0.0005_data20261202_P3_opt20261213: delay_RMSE=0.0401009
+TRAIN degenerate_sigma0.0005_data20261202_P4_opt20261213
+DONE degenerate_sigma0.0005_data20261202_P4_opt20261213: delay_RMSE=0.0401009
+TRAIN degenerate_sigma0.0005_data20261203_P3_opt20261211
+DONE degenerate_sigma0.0005_data20261203_P3_opt20261211: delay_RMSE=0.111322
+TRAIN degenerate_sigma0.0005_data20261203_P4_opt20261211
+DONE degenerate_sigma0.0005_data20261203_P4_opt20261211: delay_RMSE=0.111322
+TRAIN degenerate_sigma0.0005_data20261203_P3_opt20261212
+DONE degenerate_sigma0.0005_data20261203_P3_opt20261212: delay_RMSE=0.0607328
+TRAIN degenerate_sigma0.0005_data20261203_P4_opt20261212
+DONE degenerate_sigma0.0005_data20261203_P4_opt20261212: delay_RMSE=0.0607328
+TRAIN degenerate_sigma0.0005_data20261203_P3_opt20261213
+DONE degenerate_sigma0.0005_data20261203_P3_opt20261213: delay_RMSE=0.0243321
+TRAIN degenerate_sigma0.0005_data20261203_P4_opt20261213
+DONE degenerate_sigma0.0005_data20261203_P4_opt20261213: delay_RMSE=0.0243321
+TRAIN degenerate_sigma0.0005_data20261204_P3_opt20261211
+DONE degenerate_sigma0.0005_data20261204_P3_opt20261211: delay_RMSE=0.0554337
+TRAIN degenerate_sigma0.0005_data20261204_P4_opt20261211
+DONE degenerate_sigma0.0005_data20261204_P4_opt20261211: delay_RMSE=0.0554337
+TRAIN degenerate_sigma0.0005_data20261204_P3_opt20261212
+DONE degenerate_sigma0.0005_data20261204_P3_opt20261212: delay_RMSE=0.0257972
+TRAIN degenerate_sigma0.0005_data20261204_P4_opt20261212
+DONE degenerate_sigma0.0005_data20261204_P4_opt20261212: delay_RMSE=0.0257972
+TRAIN degenerate_sigma0.0005_data20261204_P3_opt20261213
+DONE degenerate_sigma0.0005_data20261204_P3_opt20261213: delay_RMSE=0.0687357
+TRAIN degenerate_sigma0.0005_data20261204_P4_opt20261213
+DONE degenerate_sigma0.0005_data20261204_P4_opt20261213: delay_RMSE=0.0687357
+TRAIN degenerate_sigma0.0005_data20261205_P3_opt20261211
+DONE degenerate_sigma0.0005_data20261205_P3_opt20261211: delay_RMSE=0.0280877
+TRAIN degenerate_sigma0.0005_data20261205_P4_opt20261211
+DONE degenerate_sigma0.0005_data20261205_P4_opt20261211: delay_RMSE=0.0280877
+TRAIN degenerate_sigma0.0005_data20261205_P3_opt20261212
+DONE degenerate_sigma0.0005_data20261205_P3_opt20261212: delay_RMSE=0.0263745
+TRAIN degenerate_sigma0.0005_data20261205_P4_opt20261212
+DONE degenerate_sigma0.0005_data20261205_P4_opt20261212: delay_RMSE=0.0263745
+TRAIN degenerate_sigma0.0005_data20261205_P3_opt20261213
+DONE degenerate_sigma0.0005_data20261205_P3_opt20261213: delay_RMSE=0.0845361
+TRAIN degenerate_sigma0.0005_data20261205_P4_opt20261213
+DONE degenerate_sigma0.0005_data20261205_P4_opt20261213: delay_RMSE=0.0845361
+TRAIN informative_sigma0.0015_data20261201_P3_opt20261211
+DONE informative_sigma0.0015_data20261201_P3_opt20261211: delay_RMSE=0.0577709
+TRAIN informative_sigma0.0015_data20261201_P4_opt20261211
+DONE informative_sigma0.0015_data20261201_P4_opt20261211: delay_RMSE=0.055716
+TRAIN informative_sigma0.0015_data20261201_A1_opt20261211
+DONE informative_sigma0.0015_data20261201_A1_opt20261211: delay_RMSE=0.0736594
+TRAIN informative_sigma0.0015_data20261201_A2_opt20261211
+DONE informative_sigma0.0015_data20261201_A2_opt20261211: delay_RMSE=0.114732
+TRAIN informative_sigma0.0015_data20261201_P3_opt20261212
+DONE informative_sigma0.0015_data20261201_P3_opt20261212: delay_RMSE=0.0651696
+TRAIN informative_sigma0.0015_data20261201_P4_opt20261212
+DONE informative_sigma0.0015_data20261201_P4_opt20261212: delay_RMSE=0.0767037
+TRAIN informative_sigma0.0015_data20261201_A1_opt20261212
+DONE informative_sigma0.0015_data20261201_A1_opt20261212: delay_RMSE=0.0689529
+TRAIN informative_sigma0.0015_data20261201_A2_opt20261212
+DONE informative_sigma0.0015_data20261201_A2_opt20261212: delay_RMSE=0.113387
+TRAIN informative_sigma0.0015_data20261201_P3_opt20261213
+DONE informative_sigma0.0015_data20261201_P3_opt20261213: delay_RMSE=0.0606232
+TRAIN informative_sigma0.0015_data20261201_P4_opt20261213
+DONE informative_sigma0.0015_data20261201_P4_opt20261213: delay_RMSE=0.0456394
+TRAIN informative_sigma0.0015_data20261201_A1_opt20261213
+DONE informative_sigma0.0015_data20261201_A1_opt20261213: delay_RMSE=0.0635954
+TRAIN informative_sigma0.0015_data20261201_A2_opt20261213
+DONE informative_sigma0.0015_data20261201_A2_opt20261213: delay_RMSE=0.115364
+TRAIN informative_sigma0.0015_data20261202_P3_opt20261211
+DONE informative_sigma0.0015_data20261202_P3_opt20261211: delay_RMSE=0.10886
+TRAIN informative_sigma0.0015_data20261202_P4_opt20261211
+DONE informative_sigma0.0015_data20261202_P4_opt20261211: delay_RMSE=0.0588026
+TRAIN informative_sigma0.0015_data20261202_A1_opt20261211
+DONE informative_sigma0.0015_data20261202_A1_opt20261211: delay_RMSE=0.105709
+TRAIN informative_sigma0.0015_data20261202_A2_opt20261211
+DONE informative_sigma0.0015_data20261202_A2_opt20261211: delay_RMSE=0.110613
+TRAIN informative_sigma0.0015_data20261202_P3_opt20261212
+DONE informative_sigma0.0015_data20261202_P3_opt20261212: delay_RMSE=0.107085
+TRAIN informative_sigma0.0015_data20261202_P4_opt20261212
+DONE informative_sigma0.0015_data20261202_P4_opt20261212: delay_RMSE=0.0526257
+TRAIN informative_sigma0.0015_data20261202_A1_opt20261212
+DONE informative_sigma0.0015_data20261202_A1_opt20261212: delay_RMSE=0.0995544
+TRAIN informative_sigma0.0015_data20261202_A2_opt20261212
+DONE informative_sigma0.0015_data20261202_A2_opt20261212: delay_RMSE=0.109558
+TRAIN informative_sigma0.0015_data20261202_P3_opt20261213
+DONE informative_sigma0.0015_data20261202_P3_opt20261213: delay_RMSE=0.10129
+TRAIN informative_sigma0.0015_data20261202_P4_opt20261213
+DONE informative_sigma0.0015_data20261202_P4_opt20261213: delay_RMSE=0.0420604
+TRAIN informative_sigma0.0015_data20261202_A1_opt20261213
+DONE informative_sigma0.0015_data20261202_A1_opt20261213: delay_RMSE=0.104705
+TRAIN informative_sigma0.0015_data20261202_A2_opt20261213
+DONE informative_sigma0.0015_data20261202_A2_opt20261213: delay_RMSE=0.108924
+TRAIN informative_sigma0.0015_data20261203_P3_opt20261211
+DONE informative_sigma0.0015_data20261203_P3_opt20261211: delay_RMSE=0.0547193
+TRAIN informative_sigma0.0015_data20261203_P4_opt20261211
+DONE informative_sigma0.0015_data20261203_P4_opt20261211: delay_RMSE=0.0651596
+TRAIN informative_sigma0.0015_data20261203_A1_opt20261211
+DONE informative_sigma0.0015_data20261203_A1_opt20261211: delay_RMSE=0.0517946
+TRAIN informative_sigma0.0015_data20261203_A2_opt20261211
+DONE informative_sigma0.0015_data20261203_A2_opt20261211: delay_RMSE=0.0977351
+TRAIN informative_sigma0.0015_data20261203_P3_opt20261212
+DONE informative_sigma0.0015_data20261203_P3_opt20261212: delay_RMSE=0.0550751
+TRAIN informative_sigma0.0015_data20261203_P4_opt20261212
+DONE informative_sigma0.0015_data20261203_P4_opt20261212: delay_RMSE=0.0862438
+TRAIN informative_sigma0.0015_data20261203_A1_opt20261212
+DONE informative_sigma0.0015_data20261203_A1_opt20261212: delay_RMSE=0.0565432
+TRAIN informative_sigma0.0015_data20261203_A2_opt20261212
+DONE informative_sigma0.0015_data20261203_A2_opt20261212: delay_RMSE=0.0982296
+TRAIN informative_sigma0.0015_data20261203_P3_opt20261213
+DONE informative_sigma0.0015_data20261203_P3_opt20261213: delay_RMSE=0.0531838
+TRAIN informative_sigma0.0015_data20261203_P4_opt20261213
+DONE informative_sigma0.0015_data20261203_P4_opt20261213: delay_RMSE=0.0642526
+TRAIN informative_sigma0.0015_data20261203_A1_opt20261213
+DONE informative_sigma0.0015_data20261203_A1_opt20261213: delay_RMSE=0.0617756
+TRAIN informative_sigma0.0015_data20261203_A2_opt20261213
+DONE informative_sigma0.0015_data20261203_A2_opt20261213: delay_RMSE=0.0983014
+TRAIN informative_sigma0.0015_data20261204_P3_opt20261211
+DONE informative_sigma0.0015_data20261204_P3_opt20261211: delay_RMSE=0.0500842
+TRAIN informative_sigma0.0015_data20261204_P4_opt20261211
+DONE informative_sigma0.0015_data20261204_P4_opt20261211: delay_RMSE=0.0555029
+TRAIN informative_sigma0.0015_data20261204_A1_opt20261211
+DONE informative_sigma0.0015_data20261204_A1_opt20261211: delay_RMSE=0.0508962
+TRAIN informative_sigma0.0015_data20261204_A2_opt20261211
+DONE informative_sigma0.0015_data20261204_A2_opt20261211: delay_RMSE=0.114349
+TRAIN informative_sigma0.0015_data20261204_P3_opt20261212
+DONE informative_sigma0.0015_data20261204_P3_opt20261212: delay_RMSE=0.0519856
+TRAIN informative_sigma0.0015_data20261204_P4_opt20261212
+DONE informative_sigma0.0015_data20261204_P4_opt20261212: delay_RMSE=0.0922713
+TRAIN informative_sigma0.0015_data20261204_A1_opt20261212
+DONE informative_sigma0.0015_data20261204_A1_opt20261212: delay_RMSE=0.061198
+TRAIN informative_sigma0.0015_data20261204_A2_opt20261212
+DONE informative_sigma0.0015_data20261204_A2_opt20261212: delay_RMSE=0.114531
+TRAIN informative_sigma0.0015_data20261204_P3_opt20261213
+DONE informative_sigma0.0015_data20261204_P3_opt20261213: delay_RMSE=0.0524148
+TRAIN informative_sigma0.0015_data20261204_P4_opt20261213
+DONE informative_sigma0.0015_data20261204_P4_opt20261213: delay_RMSE=0.0775937
+TRAIN informative_sigma0.0015_data20261204_A1_opt20261213
+DONE informative_sigma0.0015_data20261204_A1_opt20261213: delay_RMSE=0.0508342
+TRAIN informative_sigma0.0015_data20261204_A2_opt20261213
+DONE informative_sigma0.0015_data20261204_A2_opt20261213: delay_RMSE=0.113753
+TRAIN informative_sigma0.0015_data20261205_P3_opt20261211
+DONE informative_sigma0.0015_data20261205_P3_opt20261211: delay_RMSE=0.0449664
+TRAIN informative_sigma0.0015_data20261205_P4_opt20261211
+DONE informative_sigma0.0015_data20261205_P4_opt20261211: delay_RMSE=0.0683494
+TRAIN informative_sigma0.0015_data20261205_A1_opt20261211
+DONE informative_sigma0.0015_data20261205_A1_opt20261211: delay_RMSE=0.0930893
+TRAIN informative_sigma0.0015_data20261205_A2_opt20261211
+DONE informative_sigma0.0015_data20261205_A2_opt20261211: delay_RMSE=0.0982345
+TRAIN informative_sigma0.0015_data20261205_P3_opt20261212
+DONE informative_sigma0.0015_data20261205_P3_opt20261212: delay_RMSE=0.0534326
+TRAIN informative_sigma0.0015_data20261205_P4_opt20261212
+DONE informative_sigma0.0015_data20261205_P4_opt20261212: delay_RMSE=0.0632208
+TRAIN informative_sigma0.0015_data20261205_A1_opt20261212
+DONE informative_sigma0.0015_data20261205_A1_opt20261212: delay_RMSE=0.0944764
+TRAIN informative_sigma0.0015_data20261205_A2_opt20261212
+DONE informative_sigma0.0015_data20261205_A2_opt20261212: delay_RMSE=0.0982048
+TRAIN informative_sigma0.0015_data20261205_P3_opt20261213
+DONE informative_sigma0.0015_data20261205_P3_opt20261213: delay_RMSE=0.0773187
+TRAIN informative_sigma0.0015_data20261205_P4_opt20261213
+DONE informative_sigma0.0015_data20261205_P4_opt20261213: delay_RMSE=0.0507098
+TRAIN informative_sigma0.0015_data20261205_A1_opt20261213
+DONE informative_sigma0.0015_data20261205_A1_opt20261213: delay_RMSE=0.0934889
+TRAIN informative_sigma0.0015_data20261205_A2_opt20261213
+DONE informative_sigma0.0015_data20261205_A2_opt20261213: delay_RMSE=0.0977259
+TRAIN degenerate_sigma0.0015_data20261201_P3_opt20261211
+DONE degenerate_sigma0.0015_data20261201_P3_opt20261211: delay_RMSE=0.0246078
+TRAIN degenerate_sigma0.0015_data20261201_P4_opt20261211
+DONE degenerate_sigma0.0015_data20261201_P4_opt20261211: delay_RMSE=0.0246078
+TRAIN degenerate_sigma0.0015_data20261201_P3_opt20261212
+DONE degenerate_sigma0.0015_data20261201_P3_opt20261212: delay_RMSE=0.106615
+TRAIN degenerate_sigma0.0015_data20261201_P4_opt20261212
+DONE degenerate_sigma0.0015_data20261201_P4_opt20261212: delay_RMSE=0.106615
+TRAIN degenerate_sigma0.0015_data20261201_P3_opt20261213
+DONE degenerate_sigma0.0015_data20261201_P3_opt20261213: delay_RMSE=0.0952926
+TRAIN degenerate_sigma0.0015_data20261201_P4_opt20261213
+DONE degenerate_sigma0.0015_data20261201_P4_opt20261213: delay_RMSE=0.0952926
+TRAIN degenerate_sigma0.0015_data20261202_P3_opt20261211
+DONE degenerate_sigma0.0015_data20261202_P3_opt20261211: delay_RMSE=0.0368112
+TRAIN degenerate_sigma0.0015_data20261202_P4_opt20261211
+DONE degenerate_sigma0.0015_data20261202_P4_opt20261211: delay_RMSE=0.0368112
+TRAIN degenerate_sigma0.0015_data20261202_P3_opt20261212
+DONE degenerate_sigma0.0015_data20261202_P3_opt20261212: delay_RMSE=0.025483
+TRAIN degenerate_sigma0.0015_data20261202_P4_opt20261212
+DONE degenerate_sigma0.0015_data20261202_P4_opt20261212: delay_RMSE=0.025483
+TRAIN degenerate_sigma0.0015_data20261202_P3_opt20261213
+DONE degenerate_sigma0.0015_data20261202_P3_opt20261213: delay_RMSE=0.0401364
+TRAIN degenerate_sigma0.0015_data20261202_P4_opt20261213
+DONE degenerate_sigma0.0015_data20261202_P4_opt20261213: delay_RMSE=0.0401364
+TRAIN degenerate_sigma0.0015_data20261203_P3_opt20261211
+DONE degenerate_sigma0.0015_data20261203_P3_opt20261211: delay_RMSE=0.107755
+TRAIN degenerate_sigma0.0015_data20261203_P4_opt20261211
+DONE degenerate_sigma0.0015_data20261203_P4_opt20261211: delay_RMSE=0.107755
+TRAIN degenerate_sigma0.0015_data20261203_P3_opt20261212
+DONE degenerate_sigma0.0015_data20261203_P3_opt20261212: delay_RMSE=0.0589357
+TRAIN degenerate_sigma0.0015_data20261203_P4_opt20261212
+DONE degenerate_sigma0.0015_data20261203_P4_opt20261212: delay_RMSE=0.0589357
+TRAIN degenerate_sigma0.0015_data20261203_P3_opt20261213
+DONE degenerate_sigma0.0015_data20261203_P3_opt20261213: delay_RMSE=0.0253727
+TRAIN degenerate_sigma0.0015_data20261203_P4_opt20261213
+DONE degenerate_sigma0.0015_data20261203_P4_opt20261213: delay_RMSE=0.0253727
+TRAIN degenerate_sigma0.0015_data20261204_P3_opt20261211
+DONE degenerate_sigma0.0015_data20261204_P3_opt20261211: delay_RMSE=0.0545964
+TRAIN degenerate_sigma0.0015_data20261204_P4_opt20261211
+DONE degenerate_sigma0.0015_data20261204_P4_opt20261211: delay_RMSE=0.0545964
+TRAIN degenerate_sigma0.0015_data20261204_P3_opt20261212
+DONE degenerate_sigma0.0015_data20261204_P3_opt20261212: delay_RMSE=0.0258201
+TRAIN degenerate_sigma0.0015_data20261204_P4_opt20261212
+DONE degenerate_sigma0.0015_data20261204_P4_opt20261212: delay_RMSE=0.0258201
+TRAIN degenerate_sigma0.0015_data20261204_P3_opt20261213
+DONE degenerate_sigma0.0015_data20261204_P3_opt20261213: delay_RMSE=0.0682745
+TRAIN degenerate_sigma0.0015_data20261204_P4_opt20261213
+DONE degenerate_sigma0.0015_data20261204_P4_opt20261213: delay_RMSE=0.0682745
+TRAIN degenerate_sigma0.0015_data20261205_P3_opt20261211
+DONE degenerate_sigma0.0015_data20261205_P3_opt20261211: delay_RMSE=0.0284254
+TRAIN degenerate_sigma0.0015_data20261205_P4_opt20261211
+DONE degenerate_sigma0.0015_data20261205_P4_opt20261211: delay_RMSE=0.0284254
+TRAIN degenerate_sigma0.0015_data20261205_P3_opt20261212
+DONE degenerate_sigma0.0015_data20261205_P3_opt20261212: delay_RMSE=0.0262046
+TRAIN degenerate_sigma0.0015_data20261205_P4_opt20261212
+DONE degenerate_sigma0.0015_data20261205_P4_opt20261212: delay_RMSE=0.0262046
+TRAIN degenerate_sigma0.0015_data20261205_P3_opt20261213
+DONE degenerate_sigma0.0015_data20261205_P3_opt20261213: delay_RMSE=0.0875377
+TRAIN degenerate_sigma0.0015_data20261205_P4_opt20261213
+DONE degenerate_sigma0.0015_data20261205_P4_opt20261213: delay_RMSE=0.0875377
+{
+  "mode": "full",
+  "complete": true,
+  "independent_base_noise_replications": 5,
+  "optimization_repeats_per_dataset": 3,
+  "conditions_paired_across_noise_and_history": true,
+  "trained_neural_fits": 180,
+  "direct_functions": 20,
+  "structural_abstention_records": 80,
+  "numerical_failures": 0,
+  "degenerate_P3_P4_pairs_equal": 30,
+  "degenerate_P3_P4_pairs_expected": 30,
+  "per_noise": {
+    "0.0005": {
+      "dataset_comparisons": {
+        "A1": {
+          "complete_datasets": 5,
+          "median_dataset_ratio": 0.9719748760725804,
+          "min_dataset_ratio": 0.9456683062388482,
+          "max_dataset_ratio": 1.5292242524931356,
+          "datasets_with_P3_improvement": 3,
+          "descriptive_criterion_met": false
+        },
+        "A2": {
+          "complete_datasets": 5,
+          "median_dataset_ratio": 0.6548113961015696,
+          "min_dataset_ratio": 0.43245584511140167,
+          "max_dataset_ratio": 1.3724678811971311,
+          "datasets_with_P3_improvement": 4,
+          "descriptive_criterion_met": true
+        },
+        "P4": {
+          "complete_datasets": 5,
+          "median_dataset_ratio": 0.3817185017633511,
+          "min_dataset_ratio": 0.1688998025270393,
+          "max_dataset_ratio": 0.5803981800680337,
+          "datasets_with_P3_improvement": 5,
+          "descriptive_criterion_met": true
+        },
+        "Linear": {
+          "complete_datasets": 5,
+          "median_dataset_ratio": 0.6950912284462544,
+          "min_dataset_ratio": 0.44967854558658404,
+          "max_dataset_ratio": 1.128119001692621,
+          "datasets_with_P3_improvement": 4,
+          "descriptive_criterion_met": true
+        },
+        "PCHIP": {
+          "complete_datasets": 5,
+          "median_dataset_ratio": 0.648279833014116,
+          "min_dataset_ratio": 0.44784815417644974,
+          "max_dataset_ratio": 1.0665320971101961,
+          "datasets_with_P3_improvement": 4,
+          "descriptive_criterion_met": true
+        }
+      },
+      "consistent_practical_joint_advantage": false
+    },
+    "0.0015": {
+      "dataset_comparisons": {
+        "A1": {
+          "complete_datasets": 5,
+          "median_dataset_ratio": 0.967742777280102,
+          "min_dataset_ratio": 0.5715395479671379,
+          "max_dataset_ratio": 1.022734087388154,
+          "datasets_with_P3_improvement": 3,
+          "descriptive_criterion_met": false
+        },
+        "A2": {
+          "complete_datasets": 5,
+          "median_dataset_ratio": 0.5440937953213185,
+          "min_dataset_ratio": 0.45462294382570806,
+          "max_dataset_ratio": 0.9774297547556817,
+          "datasets_with_P3_improvement": 5,
+          "descriptive_criterion_met": true
+        },
+        "P4": {
+          "complete_datasets": 5,
+          "median_dataset_ratio": 0.8451751005816155,
+          "min_dataset_ratio": 0.6699722043384033,
+          "max_dataset_ratio": 2.0348491052469377,
+          "datasets_with_P3_improvement": 3,
+          "descriptive_criterion_met": false
+        },
+        "Linear": {
+          "complete_datasets": 5,
+          "median_dataset_ratio": 0.6327193332257749,
+          "min_dataset_ratio": 0.5399957833015483,
+          "max_dataset_ratio": 1.0321395615564701,
+          "datasets_with_P3_improvement": 4,
+          "descriptive_criterion_met": true
+        },
+        "PCHIP": {
+          "complete_datasets": 5,
+          "median_dataset_ratio": 0.5452187776379825,
+          "min_dataset_ratio": 0.4625061727414866,
+          "max_dataset_ratio": 1.1722138997658913,
+          "datasets_with_P3_improvement": 4,
+          "descriptive_criterion_met": true
+        }
+      },
+      "consistent_practical_joint_advantage": false
+    }
+  },
+  "consistent_practical_joint_advantage_at_both_noise_levels": false,
+  "inference": "Descriptive controlled study. No calibrated confidence or deterministic certification."
+}

@@ -1,0 +1,53 @@
+{
+  "complete": true,
+  "mode": "full",
+  "independent_noise_datasets": 5,
+  "optimization_repeats_per_dataset": 3,
+  "recorded_neural_fits": 60,
+  "recorded_direct_functions": 10,
+  "failed_fits": 0,
+  "dataset_comparisons": {
+    "A1": {
+      "complete_datasets": 5,
+      "median_dataset_ratio": 0.8621732817112225,
+      "min_dataset_ratio": 0.5235715679435441,
+      "max_dataset_ratio": 1.2419565039893912,
+      "datasets_with_P3_improvement": 4,
+      "descriptive_criterion_met": false
+    },
+    "A2": {
+      "complete_datasets": 5,
+      "median_dataset_ratio": 0.7885067532477066,
+      "min_dataset_ratio": 0.20342980180095513,
+      "max_dataset_ratio": 1.0978625343767432,
+      "datasets_with_P3_improvement": 4,
+      "descriptive_criterion_met": true
+    },
+    "P4": {
+      "complete_datasets": 5,
+      "median_dataset_ratio": 0.23157999475511892,
+      "min_dataset_ratio": 0.12916498799092901,
+      "max_dataset_ratio": 0.28393209218486687,
+      "datasets_with_P3_improvement": 5,
+      "descriptive_criterion_met": true
+    },
+    "Linear": {
+      "complete_datasets": 5,
+      "median_dataset_ratio": 0.7861055115075027,
+      "min_dataset_ratio": 0.2697705843408791,
+      "max_dataset_ratio": 1.2402170072228067,
+      "datasets_with_P3_improvement": 4,
+      "descriptive_criterion_met": true
+    },
+    "PCHIP": {
+      "complete_datasets": 5,
+      "median_dataset_ratio": 0.7715099225078802,
+      "min_dataset_ratio": 0.21086867992680008,
+      "max_dataset_ratio": 1.0504394384998132,
+      "datasets_with_P3_improvement": 4,
+      "descriptive_criterion_met": true
+    }
+  },
+  "consistent_practical_joint_advantage": false,
+  "inference": "Descriptive only; no statistical confidence or deterministic certification."
+}

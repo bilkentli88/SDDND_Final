@@ -1,0 +1,9 @@
+[
+  {
+    "method": "Anchor-C",
+    "noise_std": 0.0005,
+    "data_seed": 930101,
+    "estimated_delay": 0.267,
+    "absolute_delay_error": 0.013000000000000012
+  }
+]

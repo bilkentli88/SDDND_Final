@@ -1,0 +1,17 @@
+{
+  "status": "passed",
+  "scope": "Consistency and replay audit, not independent scientific replication.",
+  "numerical_failures_retained": 0,
+  "trained_checkpoint_replays": 180,
+  "trajectory_metric_replays": 120,
+  "direct_function_replays": 20,
+  "raw_condition_dataset_reconstructions": 20,
+  "anchor_entries_recomputed": 80,
+  "paired_initial_delay_hash_checks": 60,
+  "degenerate_model_pairs_bitwise_equal": 30,
+  "structural_abstention_records_verified": 80,
+  "reference_refinement_reproduced": true,
+  "condition_level_comparisons_and_decision_recomputed": true,
+  "frozen_source_hashes_unchanged": true,
+  "curve_precision": "Neural curves exactly round-trip through float32 CSV; direct curves checked to absolute 1e-14."
+}

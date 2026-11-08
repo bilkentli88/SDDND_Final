@@ -1,0 +1,73 @@
+{
+  "status": "passed",
+  "direct_gradient_fixtures": [
+    {
+      "feedback": false,
+      "records": [
+        {
+          "parameter": "delays",
+          "returned_gradient": -0.09375365581938014,
+          "finite_difference": -0.09375365483954567,
+          "relative_error": 1.0451160173358564e-08
+        },
+        {
+          "parameter": "beta",
+          "returned_gradient": 0.4687400945069871,
+          "finite_difference": 0.46874009484998425,
+          "relative_error": 7.317426746001447e-10
+        },
+        {
+          "parameter": "alpha",
+          "returned_gradient": 0.40085852995511395,
+          "finite_difference": 0.4008585312575974,
+          "relative_error": 3.2492347121507797e-09
+        }
+      ]
+    },
+    {
+      "feedback": true,
+      "records": [
+        {
+          "parameter": "delays",
+          "returned_gradient": -0.061557598383078824,
+          "finite_difference": -0.061557598241002154,
+          "relative_error": 2.3080281546590842e-09
+        },
+        {
+          "parameter": "beta",
+          "returned_gradient": 0.769198915724086,
+          "finite_difference": 0.7691989157565526,
+          "relative_error": 4.2208308294465074e-11
+        },
+        {
+          "parameter": "alpha",
+          "returned_gradient": 0.8361793688033575,
+          "finite_difference": 0.8361793691347152,
+          "relative_error": 3.9627588442420916e-10
+        }
+      ]
+    }
+  ],
+  "reference": {
+    "selected_step": 0.00125,
+    "comparisons": [
+      {
+        "coarser_step": 0.0025,
+        "finer_step": 0.00125,
+        "max_difference": 7.706591675926688e-08,
+        "passes": true
+      }
+    ],
+    "tolerance": 1e-06,
+    "observation_grid_step": 0.025,
+    "scope": "Empirical 40-trajectory convergence, not a rigorous enclosure."
+  },
+  "other_checks": [
+    "selection tie/missing/failure",
+    "paired initialization",
+    "parameter counts",
+    "delay gradient",
+    "projection identity",
+    "paired noise/exact initials"
+  ]
+}

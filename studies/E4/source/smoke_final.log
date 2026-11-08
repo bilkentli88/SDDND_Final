@@ -1,0 +1,5 @@
+final 1/4 final_sigma0.0005_data930101_External-C_lr0.002_u4_seed930102 ok seconds=1.3
+final 2/4 final_sigma0.0005_data930101_Structured-C_lr0.002_u4_seed930102 ok seconds=1.3
+final 3/4 final_sigma0.0005_data930101_External-C+anchors_lr0.002_u4_seed930102 ok seconds=1.4
+final 4/4 final_sigma0.0005_data930101_Structured-C+anchors_lr0.002_u4_seed930102 ok seconds=1.3
+FINAL COMPLETE

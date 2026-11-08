@@ -1,0 +1,8 @@
+{"event": "submit_or_restart", "utc": "2026-10-20T08:55:56.594619+00:00", "run": "calibration_sigma0.0005_data930001_External-C_lr0.002_u4_seed930002"}
+{"event": "submit_or_restart", "utc": "2026-10-20T08:55:56.596839+00:00", "run": "calibration_sigma0.0005_data930001_External-C+anchors_lr0.002_u4_seed930002"}
+{"event": "submit_or_restart", "utc": "2026-10-20T08:55:56.597776+00:00", "run": "calibration_sigma0.0005_data930001_Structured-C_lr0.002_u4_seed930002"}
+{"event": "submit_or_restart", "utc": "2026-10-20T08:55:56.598522+00:00", "run": "calibration_sigma0.0005_data930001_Structured-C+anchors_lr0.002_u4_seed930002"}
+{"event": "submit_or_restart", "utc": "2026-10-20T08:56:55.344144+00:00", "run": "final_sigma0.0005_data930101_External-C_lr0.002_u4_seed930102"}
+{"event": "submit_or_restart", "utc": "2026-10-20T08:56:55.346904+00:00", "run": "final_sigma0.0005_data930101_External-C+anchors_lr0.002_u4_seed930102"}
+{"event": "submit_or_restart", "utc": "2026-10-20T08:56:55.347695+00:00", "run": "final_sigma0.0005_data930101_Structured-C_lr0.002_u4_seed930102"}
+{"event": "submit_or_restart", "utc": "2026-10-20T08:56:55.348193+00:00", "run": "final_sigma0.0005_data930101_Structured-C+anchors_lr0.002_u4_seed930102"}

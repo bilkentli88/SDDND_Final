@@ -1,0 +1,5 @@
+# Install PyTorch 2.10.0 CPU separately as shown in the notebook.
+numpy==2.4.2
+pandas==2.2.3
+scipy==1.17.0
+matplotlib==3.10.8

@@ -1,0 +1,144 @@
+{
+  "protocol_id": "ASOC-E3-v1.0",
+  "model": {
+    "growth": 1.1,
+    "capacity": 1.5,
+    "tau_center": 0.28,
+    "tau_amplitude": 0.07,
+    "tau_slope": 2.0,
+    "tau_state_center": 0.8
+  },
+  "delay_bounds": [
+    0.15,
+    0.5
+  ],
+  "history_amplitude": 0.18,
+  "history_frequency": 3.141592653589793,
+  "history_c": [
+    -1.0,
+    0.0,
+    1.0,
+    0.0
+  ],
+  "history_d": [
+    0.0,
+    1.0,
+    0.0,
+    -1.0
+  ],
+  "train_states": [
+    0.45,
+    0.7,
+    0.95,
+    1.2
+  ],
+  "test_states": [
+    0.575,
+    0.825,
+    1.075
+  ],
+  "horizon": 1.0,
+  "reference_steps": [
+    0.0025,
+    0.00125,
+    0.000625,
+    0.0003125
+  ],
+  "reference_tolerance": 1e-06,
+  "delay_profile_points": 351,
+  "geometry_norm_threshold": 1e-08,
+  "slope_polynomial_degree": 2,
+  "delay_grid": [
+    0.45,
+    1.2,
+    201
+  ],
+  "noise_levels": [
+    0.0005
+  ],
+  "data_seeds": [
+    20261301,
+    20261302,
+    20261303,
+    20261304,
+    20261305
+  ],
+  "optimization_seeds": [
+    20261311,
+    20261312,
+    20261313
+  ],
+  "designs": [
+    "informative"
+  ],
+  "anchor_only_updates": 280,
+  "anchor_long_updates": 1200,
+  "learning_rate": 0.002,
+  "weight_decay": 1e-06,
+  "anchor_weight": 0.08,
+  "smoothness_weight": 0.0002,
+  "gradient_clip": 5.0,
+  "smoothness_grid": [
+    0.45,
+    1.2,
+    100
+  ],
+  "practical_ratio_threshold": 0.8,
+  "practical_min_dataset_wins": 4,
+  "neural_methods": [
+    "P3",
+    "P4",
+    "A1",
+    "A2"
+  ],
+  "direct_methods": [
+    "Linear",
+    "PCHIP"
+  ],
+  "smoke": {
+    "data_seeds": [
+      910001
+    ],
+    "optimization_seeds": [
+      910002
+    ],
+    "training_phases": [
+      [
+        0.5,
+        2
+      ],
+      [
+        1.0,
+        2
+      ]
+    ],
+    "anchor_only_updates": 4,
+    "anchor_long_updates": 8
+  },
+  "observation_steps": [
+    0.05,
+    0.025
+  ],
+  "rollout_steps": [
+    0.025,
+    0.0125
+  ],
+  "fine_observation_step": 0.025,
+  "slope_window_duration": 0.2,
+  "training_phases": [
+    [
+      0.5,
+      90
+    ],
+    [
+      1.0,
+      190
+    ]
+  ],
+  "evaluation_steps": [
+    0.025,
+    0.0125,
+    0.00625
+  ],
+  "workers": 4
+}

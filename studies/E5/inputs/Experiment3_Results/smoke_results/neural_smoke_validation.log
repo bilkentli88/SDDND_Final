@@ -1,0 +1,52 @@
+REFERENCE {"selected_step": 0.00125, "tolerance": 1e-06, "comparisons": [{"coarser_step": 0.0025, "finer_step": 0.00125, "max_observation_difference": 1.5604909542332734e-07, "passes": true}], "scope": "Empirical convergence at observation times; not a rigorous solver-error enclosure."}
+DONE 1: obs0.05_data910001_Linear status=ok delay_RMSE=0.03910896590654372
+DONE 2: obs0.05_data910001_PCHIP status=ok delay_RMSE=0.04641082922691332
+DONE 3: obs0.025_data910001_Linear status=ok delay_RMSE=0.03318675189793431
+DONE 4: obs0.025_data910001_PCHIP status=ok delay_RMSE=0.032659543375998835
+DONE 5: obs0.05_data910001_A2_opt910002 status=ok delay_RMSE=0.027610213732899444
+DONE 6: obs0.05_data910001_A1_opt910002 status=ok delay_RMSE=0.04027320558320014
+DONE 7: obs0.05_data910001_h0.025_P4_opt910002 status=ok delay_RMSE=0.04160334279028036
+DONE 8: obs0.025_data910001_A1_opt910002 status=ok delay_RMSE=0.03995408317977334
+DONE 9: obs0.025_data910001_A2_opt910002 status=ok delay_RMSE=0.026480289479185796
+DONE 10: obs0.05_data910001_h0.025_P3_opt910002 status=ok delay_RMSE=0.04114317601547004
+DONE 11: obs0.05_data910001_h0.0125_P3_opt910002 status=ok delay_RMSE=0.041052207280433364
+DONE 12: obs0.05_data910001_h0.0125_P4_opt910002 status=ok delay_RMSE=0.04148191177309126
+DONE 13: obs0.025_data910001_h0.025_P3_opt910002 status=ok delay_RMSE=0.041100396165482174
+DONE 14: obs0.025_data910001_h0.025_P4_opt910002 status=ok delay_RMSE=0.04168088850410713
+DONE 15: obs0.025_data910001_h0.0125_P3_opt910002 status=ok delay_RMSE=0.04101838797063415
+DONE 16: obs0.025_data910001_h0.0125_P4_opt910002 status=ok delay_RMSE=0.041563927582331434
+{
+  "protocol_id": "ASOC-E3-v1.0",
+  "mode": "smoke",
+  "complete": true,
+  "expected_records": 16,
+  "actual_records": 16,
+  "trained_neural_fits": 12,
+  "direct_functions": 4,
+  "numerical_failures": 0,
+  "independent_base_noise_datasets": 1,
+  "optimization_repeats": 1,
+  "secondary_cell_comparisons": [
+    {
+      "observation_step": 0.05,
+      "rollout_step": 0.025,
+      "secondary_practical_joint_advantage": null
+    },
+    {
+      "observation_step": 0.05,
+      "rollout_step": 0.0125,
+      "secondary_practical_joint_advantage": null
+    },
+    {
+      "observation_step": 0.025,
+      "rollout_step": 0.025,
+      "secondary_practical_joint_advantage": null
+    },
+    {
+      "observation_step": 0.025,
+      "rollout_step": 0.0125,
+      "secondary_practical_joint_advantage": null
+    }
+  ],
+  "interpretation": "Descriptive numerical sensitivity; no asymptotic convergence, significance or general-superiority verdict."
+}

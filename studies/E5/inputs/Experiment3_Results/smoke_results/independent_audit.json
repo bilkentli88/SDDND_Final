@@ -1,0 +1,31 @@
+{
+  "status": "passed",
+  "scope": "Consistency/replay audit, not independent scientific replication.",
+  "trained_checkpoint_delay_replays": 12,
+  "frozen_solver_trajectory_metric_sets_replayed": 24,
+  "direct_function_replays": 4,
+  "raw_observation_sets_reconstructed": 2,
+  "anchor_entries_recomputed": 8,
+  "shared_noise_pairings_verified": true,
+  "initial_hashes_reconstructed": 12,
+  "cross_cell_initialization_groups": 1,
+  "numerical_failures_retained": 0,
+  "reference_refinement_reproduced": true,
+  "all_dataset_statistics_and_contrasts_recomputed": true,
+  "frozen_sources_unchanged": true,
+  "neural_csv_precision": "Exact float32 round-trip",
+  "checkpoint_sha256": {
+    "obs0.025_data910001_A1_opt910002.pt": "a2fbb401fbcf5a210721e4739fdd03965467d5304ccc4c3da351d1b9a04f5bdc",
+    "obs0.025_data910001_A2_opt910002.pt": "8cd80bb80cc196a7f8990f32e53eed789d9f9f791d889fafae7dcca8acd39a96",
+    "obs0.025_data910001_h0.0125_P3_opt910002.pt": "1cc3645f32741cc07f6683ca904aa9f0be885839fdf205021fadfa20d8f19a0b",
+    "obs0.025_data910001_h0.0125_P4_opt910002.pt": "1e5edf7f99d5b68a3ba0f3d205780cc83cebe4c6abc9bf792a2b5da41d8962c9",
+    "obs0.025_data910001_h0.025_P3_opt910002.pt": "82ae992c860c0c2b9c7831db02a140ad63f6bd09df6f22e1ab52295b9686097f",
+    "obs0.025_data910001_h0.025_P4_opt910002.pt": "f74c60a515f10666dcab2f227b14cc14ca55476cbb0ff0824a2efae9e07bc09c",
+    "obs0.05_data910001_A1_opt910002.pt": "493cb925a22f59e6a8325be9394ed6231a929050c7f92753eecfb9fe6698bd39",
+    "obs0.05_data910001_A2_opt910002.pt": "285ee1b844f8ff05e40d4c4c8aa2d7b23335d89ea92c7448d89266800025ebd9",
+    "obs0.05_data910001_h0.0125_P3_opt910002.pt": "9d7af8f1935cf1b7b8724e965985358af7c37f77798be4aa862a1cb0ffbe472e",
+    "obs0.05_data910001_h0.0125_P4_opt910002.pt": "4ce5f3e000c8ea3e5d4cac74012e31f4b443ab3ce6678d8713b712b8c72d5c71",
+    "obs0.05_data910001_h0.025_P3_opt910002.pt": "964e6d3e86076cd5f0fdc7c998ac333d22a8e745e4095426a9d56f4f6e33a450",
+    "obs0.05_data910001_h0.025_P4_opt910002.pt": "63e500a984618eb50a26b6c4b7af0a38d51011dc787a5d643ba7eed8610350eb"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "locked_utc": "2026-10-20T08:55:59.746701+00:00",
+  "calibration_records_sha256": "c8bb9264fb0e7b22bd222ed64ed3df0bdd4e5c0cb3a74a16d6ef9f14cc5389bd",
+  "selections": {
+    "External-C|sigma0.0005": {
+      "selected": {
+        "learning_rate": 0.002,
+        "budget": 4,
+        "eligible": true,
+        "score": 0.007390396863790747
+      },
+      "trials": [
+        {
+          "learning_rate": 0.002,
+          "budget": 4,
+          "eligible": true,
+          "score": 0.007390396863790747
+        }
+      ],
+      "available": true
+    },
+    "External-C+anchors|sigma0.0005": {
+      "selected": {
+        "learning_rate": 0.002,
+        "budget": 4,
+        "eligible": true,
+        "score": 0.00738983332496694
+      },
+      "trials": [
+        {
+          "learning_rate": 0.002,
+          "budget": 4,
+          "eligible": true,
+          "score": 0.00738983332496694
+        }
+      ],
+      "available": true
+    },
+    "Structured-C|sigma0.0005": {
+      "selected": {
+        "learning_rate": 0.002,
+        "budget": 4,
+        "eligible": true,
+        "score": 0.1102710613761961
+      },
+      "trials": [
+        {
+          "learning_rate": 0.002,
+          "budget": 4,
+          "eligible": true,
+          "score": 0.1102710613761961
+        }
+      ],
+      "available": true
+    },
+    "Structured-C+anchors|sigma0.0005": {
+      "selected": {
+        "learning_rate": 0.002,
+        "budget": 4,
+        "eligible": true,
+        "score": 0.11026562338802319
+      },
+      "trials": [
+        {
+          "learning_rate": 0.002,
+          "budget": 4,
+          "eligible": true,
+          "score": 0.11026562338802319
+        }
+      ],
+      "available": true
+    }
+  }
+}

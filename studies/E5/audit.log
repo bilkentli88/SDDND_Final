@@ -1,0 +1,22 @@
+AUDITED 30
+AUDITED 60
+AUDITED 90
+AUDITED 120
+AUDITED 150
+AUDITED 180
+AUDITED 210
+ study  noise_std  observation_step  rollout_step numerator denominator       metric  median_paired_ratio  numerator_wins  datasets  min_ratio  max_ratio
+     1     0.0005             0.050        0.0500        P3          T1 forecast_mse             1.038309               2         5   0.886663   1.107468
+     1     0.0005             0.050        0.0500        P3          T2 forecast_mse             1.030705               2         5   0.635287   1.110545
+     2     0.0005             0.050        0.0250        P3          T1 forecast_mse             0.967618               4         5   0.949687   1.010800
+     2     0.0005             0.050        0.0250        P3          T2 forecast_mse             0.982481               3         5   0.886819   1.243086
+     2     0.0015             0.050        0.0250        P3          T1 forecast_mse             0.944614               5         5   0.372051   0.976796
+     2     0.0015             0.050        0.0250        P3          T2 forecast_mse             0.750326               5         5   0.382777   0.977733
+     3     0.0005             0.025        0.0125        P3          T1 forecast_mse             0.959095               4         5   0.862412   1.016918
+     3     0.0005             0.025        0.0125        P3          T2 forecast_mse             1.007978               2         5   0.905375   1.072669
+     3     0.0005             0.025        0.0250        P3          T1 forecast_mse             0.957536               4         5   0.870677   1.011874
+     3     0.0005             0.025        0.0250        P3          T2 forecast_mse             1.009572               2         5   0.909115   1.067087
+     3     0.0005             0.050        0.0125        P3          T1 forecast_mse             0.962871               4         5   0.862150   1.000801
+     3     0.0005             0.050        0.0125        P3          T2 forecast_mse             1.016977               2         5   0.865194   1.084187
+     3     0.0005             0.050        0.0250        P3          T1 forecast_mse             0.955305               5         5   0.872130   0.997135
+     3     0.0005             0.050        0.0250        P3          T2 forecast_mse             1.013553               2         5   0.875129   1.086688

@@ -1,0 +1,19 @@
+{
+  "frozen_before_scientific_stage2_fits_utc": "2026-10-21T09:25:07.241011+00:00",
+  "signature": {
+    "sources": {
+      "two_stage.py": "ab57cc06160a1259590d8b7f25e98d81e3d309ce7cbf441b9c527ff44fa418a3",
+      "PROTOCOL.md": "d0e24f00a8bfebdeb29a2b4d512c3bed7c62364c055b9928443f28f218a56256",
+      "INPUT_ARCHIVES.json": "deeac43bbae3933d35df0d5d3e319eba277cd387d6752572ccccc127c172ab82",
+      "vendor/e2_neural.py": "c42713358afbf73274f72c8cb7a9a19349e194b5fdad9ac5094aa7f24f6149c7",
+      "vendor/e3_neural.py": "e77b952a7af7f2b09b051a7e78a95e58d6105c7aebd25c7d6b4eb4853c550122",
+      "vendor/NSDDNew_LICENSE.txt": "891fc8f261e3b39f0629149feb7f78ae1a5f35ceb8cfa80ad3cf7d42fd510e2b"
+    },
+    "python": "3.12.14",
+    "torch": "2.10.0+cpu",
+    "numpy": "2.3.5",
+    "workers": 8,
+    "threads_per_worker": 1
+  },
+  "status": "Extension after inspection of original E1--E3 outcomes; not independent validation or public preregistration."
+}

@@ -1,0 +1,5 @@
+calibration 1/4 calibration_sigma0.0005_data930001_External-C_lr0.002_u4_seed930002 ok seconds=1.1
+calibration 2/4 calibration_sigma0.0005_data930001_External-C+anchors_lr0.002_u4_seed930002 ok seconds=1.1
+calibration 3/4 calibration_sigma0.0005_data930001_Structured-C_lr0.002_u4_seed930002 ok seconds=1.1
+calibration 4/4 calibration_sigma0.0005_data930001_Structured-C+anchors_lr0.002_u4_seed930002 ok seconds=1.1
+CALIBRATION LOCKED

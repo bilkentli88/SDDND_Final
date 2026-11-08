@@ -1,0 +1,16 @@
+PASS: 5 archived datasets reproduce anchor MAEs, exact histories and finite interpolants.
+test_dataset_median_precedes_ratio (__main__.AccountingChecks.test_dataset_median_precedes_ratio) ... ok
+test_direct_baselines_do_not_extrapolate (__main__.AccountingChecks.test_direct_baselines_do_not_extrapolate) ... ok
+test_failed_fit_withholds_primary_verdict (__main__.AccountingChecks.test_failed_fit_withholds_primary_verdict) ... ok
+test_fixed_counts_and_dataset_units (__main__.AccountingChecks.test_fixed_counts_and_dataset_units) ... ok
+test_missing_fit_withholds_primary_verdict (__main__.AccountingChecks.test_missing_fit_withholds_primary_verdict) ... ok
+test_notebook_cells_have_valid_python_syntax (__main__.AccountingChecks.test_notebook_cells_have_valid_python_syntax) ... ok
+test_zero_denominator_withholds_ratio_verdict (__main__.AccountingChecks.test_zero_denominator_withholds_ratio_verdict) ... ok
+
+----------------------------------------------------------------------
+Ran 7 tests in 0.066s
+
+OK
+Torch installed in this runtime: False
+New neural training performed by this validation: NO.
+Synthetic fixture values used only to verify accounting; they are not experimental results.
